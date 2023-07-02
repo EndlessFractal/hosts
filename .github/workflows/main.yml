@@ -1,0 +1,41 @@
+name: Update Hosts
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+    
+jobs:
+  update_hosts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install requests
+
+      - name: Set git config
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@github.com"
+
+      - name: Run updater
+        run: |
+          python upd_hosts.py
+
+      - name: Commit and push changes
+        run: |
+          git add hosts.txt
+          git commit -am "Update hosts file"
+          git push

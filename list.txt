@@ -1,0 +1,17 @@
+https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
+https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-blocklist.txt
+https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-malware.txt
+https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt
+https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
+https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
+https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
+https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
+https://v.firebog.net/hosts/AdguardDNS.txt
+https://v.firebog.net/hosts/Admiral.txt
+https://v.firebog.net/hosts/Easylist.txt
+https://v.firebog.net/hosts/Easyprivacy.txt
+https://v.firebog.net/hosts/static/w3kbl.txt
