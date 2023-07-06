@@ -1,7 +1,7 @@
 # Title: EndlessFractal/hosts
 #
-# Date of Last Update: 05 July 2023 00:56:00 (UTC)
-# Number of Unique Domains: 128589
+# Date of Last Update: 06 July 2023 00:56:16 (UTC)
+# Number of Unique Domains: 128591
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/EndlessFractal/hosts/main/hosts.txt
 # Project home page: https://github.com/EndlessFractal/hosts
@@ -10251,7 +10251,6 @@ allabc.com
 allactualjournal.com
 allactualstories.com
 allads4you.de
-allansworthng.com
 allawnos.com
 allayravage.com
 allbirditalia.it
@@ -17306,7 +17305,6 @@ besthacksforyou.com
 besthacktools.net
 besthesda.net
 besthitsnow.com
-bestholidaysdestinations.com
 bestialjames.com
 bestialvehemence.com
 bestimg.pw
@@ -39076,7 +39074,6 @@ filetarget.net
 filetedlawines.com
 filethunder.net
 filetoday.net
-filetops.com
 filetrkr.com
 filetstaipo.com
 fileunique.com
@@ -55674,6 +55671,7 @@ kltxw.xyz
 kluauvass.com
 kluscc.newsonet.net
 klwest.purpledaily.com
+klwvb023cew5.com
 klxwe.xyz
 klyeconnecte.xyz
 klyhw.xyz
@@ -63373,6 +63371,7 @@ meshpetrols.com
 mesilswwroiu.com
 mesiniklan.andipublisher.com
 meslameighty.com
+mesoftwares.vip
 meson.ai
 mesonicpopinac.uno
 message-alert.center
@@ -66147,6 +66146,7 @@ mkt11594.com
 mkt11595.com
 mkt11596.com
 mkt11597.com
+mkt11599.com
 mkt1160.com
 mkt11600.com
 mkt11601.com
@@ -66154,6 +66154,7 @@ mkt11602.com
 mkt11603.com
 mkt11604.com
 mkt11605.com
+mkt11606.com
 mkt11607.com
 mkt11608.com
 mkt11609.com
@@ -66209,8 +66210,10 @@ mkt11674.com
 mkt11675.com
 mkt11676.com
 mkt11677.com
+mkt11679.com
 mkt1168.com
 mkt11680.com
+mkt11681.com
 mkt11683.com
 mkt11684.com
 mkt11686.com
@@ -111620,7 +111623,6 @@ tech.qgdvyvd.cn
 tech.saltlakenews.org
 tech.usapappers.com
 tech.zapps.me
-tech21africa.com
 techahv.com
 techbeat.com
 techbytemedia.com
@@ -113727,6 +113729,7 @@ toourbb.com
 top-awarded-app.com
 top-betting-now.com
 top-bloggers.com
+top-cheats.com
 top-cleaner-app.com
 top-clips.space
 top-eleven-hack.com
@@ -118865,6 +118868,7 @@ uplift-platform.com
 upliftsearch.com
 upload-4ever.com
 upload.firefoxupdata.com
+upload.nugeta.net
 upload.weiguanai.cn
 uploadamigo.com
 uploadcash.org
@@ -124385,7 +124389,6 @@ www.bb1429.com
 www.bcaeurope.eu
 www.behe.com
 www.beintoo.com
-www.belma.ro
 www.bet36500050.com
 www.betterzip.net
 www.betterzipcn.com
@@ -127866,7 +127869,6 @@ zekedisco.com
 zekeeksaita.com
 zel-zel-fie.com
 zelena-mriya.com.ua
-zellewallet.site
 zelllwrite.com
 zelomeli.ru
 zelrasty.net
