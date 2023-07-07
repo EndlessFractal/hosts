@@ -1,7 +1,7 @@
 # Title: EndlessFractal/hosts
 #
-# Date of Last Update: 06 July 2023 00:56:16 (UTC)
-# Number of Unique Domains: 128591
+# Date of Last Update: 07 July 2023 00:57:09 (UTC)
+# Number of Unique Domains: 128589
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/EndlessFractal/hosts/main/hosts.txt
 # Project home page: https://github.com/EndlessFractal/hosts
@@ -12452,7 +12452,6 @@ api.south.kontagent.net
 api.splkmobile.com
 api.spylix.com
 api.ssp.zxrtb.com
-api.standarteng.com
 api.tdp.u7u9.com
 api.telemetry.watchabc.go.com
 api.thd.cc
@@ -21735,7 +21734,6 @@ cdn0.mobmore.com
 cdn001.milotree.com
 cdn1.adcdnx.com
 cdn1.crispadvertising.com
-cdn1.frocdn.ch
 cdn1.inner-active.mobi
 cdn1.lbesec.com
 cdn1.pro
@@ -46771,6 +46769,7 @@ h1.kukuw.com
 h10.hxsame.hexun.com
 h12-media.com
 h12h.fun
+h169738.srv22.test-hf.su
 h1ek.xyz
 h1z1.cash
 h1z1echange.com
@@ -62943,6 +62942,7 @@ mediafires.biz
 mediaforce.com
 mediaforge.com
 mediaforgews.com
+mediafox.com.au
 mediafuse.com
 mediagauge.com
 mediaget.com
@@ -81736,6 +81736,7 @@ nuguz.ru
 nuhus.ru
 nui.media
 nuiekka.cn
+nuinew2s.top
 nujian.asia
 nuken.com
 nukftb.com
@@ -83240,7 +83241,6 @@ officialbanisters.com
 officialcheats.info
 officialgiveaway.net
 officialiqtests.com
-officialk2spice.com
 officiel-des-vacances.eulerian.net
 officiobooks.com
 offline-adv.oray.com
@@ -102207,7 +102207,6 @@ smetrics.mounjaro.com
 smetrics.movietickets.com
 smetrics.moving.com
 smetrics.mphasis.com
-smetrics.mrappliance.com
 smetrics.mrhandyman.com
 smetrics.mrrooter.com
 smetrics.msg.com
@@ -122089,7 +122088,6 @@ web-access-alerts.com
 web-ad.xyz
 web-affiliation.com
 web-analytic.ghtk.vn
-web-analytics-cn.huami.com
 web-analytics.date
 web-analytics.huami.com
 web-analytics.ica.se
