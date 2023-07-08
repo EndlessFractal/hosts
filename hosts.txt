@@ -1,7 +1,7 @@
 # Title: EndlessFractal/hosts
 #
-# Date of Last Update: 07 July 2023 00:57:09 (UTC)
-# Number of Unique Domains: 128589
+# Date of Last Update: 08 July 2023 00:55:37 (UTC)
+# Number of Unique Domains: 128590
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/EndlessFractal/hosts/main/hosts.txt
 # Project home page: https://github.com/EndlessFractal/hosts
@@ -1841,6 +1841,7 @@
 50.112.124.170
 50382fd2f1.com
 504684408060410.mateti.net
+504e16c2.host.njalla.net
 508327fbe9.95bd06d118.com
 508ec56533e3937e.com
 50bang.org
@@ -12307,6 +12308,7 @@ api.autopilothq.com
 api.awarenesstechnologies.com
 api.axept.io
 api.bailingjiankang.com
+api.baimless.com
 api.bayimob.com
 api.bitp.it
 api.boclinkads.com
@@ -27793,7 +27795,6 @@ currentaccountadv.com
 currentcollar.com
 currentlyobsessed.me
 currentnewsfeed.com
-curriculodriver.xyz
 curriculture.com
 currierfrank.com
 curse-talker.com
@@ -30588,7 +30589,6 @@ deutschlandcard01.wt-eu02.net
 dev-business.stc.com.sa
 dev-cenam-mobilefirst.tmx-internacional.net.iberostar.com
 dev-go.getsquire.com
-dev-inctegream.pantheonsite.io
 dev-intentmedia.actonservice.com
 dev-link.getprizepool.com
 dev-links.notarize.com
@@ -30792,6 +30792,7 @@ dhlyikbubkibk.com
 dhm1.top
 dhobiefaying.store
 dhowsptelea.com
+dhqidlnsxx2qigisdvn7x2f.webdav.drivehq.com
 dhrhzii89gpwo.cloudfront.net
 dhsjpz.bugaboo.com
 dhthrewdownth.xyz
@@ -31064,7 +31065,6 @@ dimatiskanes.space
 dimblevairs.website
 dimedoncywydd.com
 dimensionhivestipulate.com
-dimensions-tech.com
 dimensions.mappy.com
 dimensionuptown.com
 dimessing-parker.com
@@ -37558,6 +37558,7 @@ extnetcool.com
 extofiles.com
 extole.com
 extole.io
+extra-softs.com
 extra33.com
 extrablocks.ru
 extracthorizontaldashing.com
@@ -40079,7 +40080,6 @@ form.aquent.com
 form.harvardbusiness.org
 form.vocalink.com
 form401.webtrekk.net
-formacioncontinua.com.mx
 formacioncorreos.com
 formalityunjustclown.com
 formallythrill.com
@@ -43872,7 +43872,6 @@ globalhacks.org
 globalifeinc.com
 globalinteractive.com
 globalization.firefoxupdata.com
-globalmanysoft.com
 globalmed.actonservice.com
 globaloffers.link
 globalowa.com
@@ -48304,7 +48303,6 @@ hilltopbelgae.tech
 hilltopgo.com
 hiloss.com
 hilove.life
-hilsoft.pro
 himandmall.xyz
 himazim.ru
 himdipsad.com
@@ -53038,6 +53036,7 @@ itracker360.com
 itrackerpro.com
 itracmediav4.com
 itrajy.ru
+itrevolution.in
 itrigra.ru
 itrjdc.mjukcheckout.com
 itroggenrolaa.com
@@ -75963,6 +75962,7 @@ monitormilletstray.com
 monitus.net
 monjeuconcoursassurancedirexi.fr
 monk.monster
+monke.re
 monkeybroker.net
 monkeyfettles.uno
 monkeyselite.tonick.co
@@ -88394,6 +88394,7 @@ performit.club
 performlabs.com
 performtechnique.com
 performtracking.com
+perfumando.com.mx
 perfumyposable.uno
 perfunctoryfrugal.com
 perfunctorylooks.com
@@ -121719,6 +121720,7 @@ warcommanderhack.com
 wardingchough.tech
 wardrobecontingent.com
 wardrobemeddleorganism.com
+waregamesoft.space
 warehousecanneddental.com
 wareneingang.edeka.de
 warentest-de01.webtrekk.net
@@ -123229,6 +123231,7 @@ windows8activator.com
 windows8activatordownload.com
 windowsastronomyfading.com
 windowsmessage.online
+windowswps.oss-cn-hongkong.aliyuncs.com
 windsasleep.com
 windscreenregimepros.com
 windsplay.com
@@ -124587,7 +124590,6 @@ www.gt4ec.net
 www.guanggao369.cn
 www.guillaumeplayground.net
 www.guitarpro.cc
-www.handsomemomento.co.uk
 www.hao934.com
 www.hazy4cant.com
 www.hblinwei.com
@@ -128445,7 +128447,6 @@ zulaman.ru
 zuliglsa.space
 zum7cc.oui.sncf
 zumedianetwork.com
-zummil.com
 zumnxwva.ink
 zumolery.xyz
 zunchengmaoyi.cn
