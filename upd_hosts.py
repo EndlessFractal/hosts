@@ -29,12 +29,13 @@ num_domains = len(unique_domains)
 # Create the header for the output file using f-string
 header = f"""\
 # Title: EndlessFractal/hosts
+# Homepage: https://github.com/EndlessFractal/hosts
+# Release: https://github.com/EndlessFractal/hosts/releases
+# Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
+# Expires: 1 days
 #
-# Date of Last Update: {last_update}
-# Number of Unique Domains: {num_domains}
-#
-# Fetch the latest version of this file: https://raw.githubusercontent.com/EndlessFractal/hosts/main/hosts.txt
-# Project home page: https://github.com/EndlessFractal/hosts
+# Last Update: {last_update}
+# Unique Domains: {num_domains:,}
 #
 # ===============================================================
 """
