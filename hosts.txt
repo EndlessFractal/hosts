@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 10 July 2023 19:38:48 (UTC)
-# Unique Domains: 130,977
+# Last Update: 11 July 2023 00:48:00 (UTC)
+# Unique Domains: 130,975
 #
 # ===============================================================
 0-0.fr
@@ -1414,7 +1414,6 @@
 34.204.214.165
 34.230.160.215
 34.80.59.191
-34.gs
 3400.org
 341073be6e9db7d2.com
 341k4gu76ywe.top
@@ -104178,7 +104177,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.sasktel.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
-smetrics.saxobank.com
 smetrics.sazerac.com
 smetrics.sazerachouse.com
 smetrics.sbisec.co.jp
