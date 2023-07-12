@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 11 July 2023 00:48:00 (UTC)
-# Unique Domains: 130,975
+# Last Update: 12 July 2023 00:55:06 (UTC)
+# Unique Domains: 130,973
 #
 # ===============================================================
 0-0.fr
@@ -5854,7 +5854,6 @@ acidacorn.com
 aciderbacquet.life
 acidpigs.com
 acieh.onecinema.us
-acienco.com
 acinicmislaid.com
 acint.net
 acirtpkh.com
@@ -25568,6 +25567,7 @@ corpulentrubber.com
 correctchaos.com
 correctcitolas.com
 correo.foot-news.co
+correo.mfoperadorlogistico.com
 corruptdepart.com
 corruptheedless.com
 corruptstruckgames.com
@@ -32489,6 +32489,7 @@ dsnextgen.com
 dsneyland.com
 dsnr-affiliates.com
 dsnymrk0k4p3v.cloudfront.net
+dsoftware.site
 dsoodbye.xyz
 dsoxjxin5jji.controlconceptsusa.com
 dsp-click.youdao.com
@@ -33887,6 +33888,7 @@ edge.bigbrothercanada.ca
 edge.bredg.com
 edge.hgtv.ca
 edge.metropcs.co
+edge.microsoft.skyman.cloud
 edge.net.shop.com.mm
 edge.quantserve.com
 edge.reporo.net
@@ -33902,7 +33904,6 @@ edgeadx.net
 edgecast-vod.yahoo.net
 edgecast-vod.yimg.com
 edgedc.falabella.com
-edgeguard.business
 edgeme.sh
 edgevertise.com
 edgrmtracking.com
@@ -53274,7 +53275,6 @@ jhxqfgbj.com
 jhzotqafwgb.com
 jhzwle.ryuryumall.jp
 ji.8881919.cc
-ji.jaoaaoas11.com
 jia-huan.cn
 jiadunkeji.com
 jiajiann.cn
@@ -56188,7 +56188,6 @@ lavando2scas1hh1.com
 lavanetwork.net
 lavatorybrandnew.com
 lavatoryhitschoolmaster.com
-lavazemforpinaa.com
 laversleopold.guru
 lavishnessoverboard.com
 lavishvanish.com
@@ -104669,7 +104668,6 @@ smowtion.com
 smp.tus.ac.jp
 smpbhfiwr.com
 smpgfx.com
-smpn41.semarangkota.go.id
 smpop.icfcdn.com
 smpush.com
 smr.snssdk.com
@@ -107349,7 +107347,6 @@ sofire.baidu.com
 sofire.bdstatic.com
 soflopxl.com
 sofseo.cn
-soft-club.world
 soft-com.biz
 soft-ex.icu
 soft-hack.net
@@ -115765,6 +115762,7 @@ tools.ricoh.co.uk
 tools.ricoh.de
 tools4everone.com
 tools4hack.com
+toolstechs.com
 toolsthwartgrim.com
 toolsunited.org
 toolsyjejune.com
