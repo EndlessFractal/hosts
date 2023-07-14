@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 13 July 2023 00:56:11 (UTC)
-# Unique Domains: 130,976
+# Last Update: 14 July 2023 00:55:28 (UTC)
+# Unique Domains: 130,977
 #
 # ===============================================================
 0-0.fr
@@ -517,6 +517,7 @@
 13niao20230422.live
 13p76nnir.de
 141.8.226.34
+14150.masterdaweb.net
 141angel.com
 144.76.0.242
 144.76.1.130
@@ -30152,6 +30153,7 @@ deutschewell.de
 deutschlandcard01.wt-eu02.net
 dev-app.insprd.co
 dev-business.stc.com.sa
+dev-cuvision.aquilastudio.net
 dev-deeplink.bigrichstore.com
 dev-dl.oneworldonesai.com
 dev-get.unhedged.com.au
@@ -42777,6 +42779,7 @@ gettjohytn.com
 gettopup.com
 gettraff.com
 gettraffnews.com
+getupdate.click
 getuplinks.ru
 getupwoleai.com
 geturbobit.biz
@@ -46325,7 +46328,6 @@ h10.hxsame.hexun.com
 h12-media.com
 h12h.fun
 h15maincat.com
-h169738.srv22.test-hf.su
 h1ek.xyz
 h1z1.cash
 h1z1echange.com
@@ -62865,7 +62867,6 @@ mediafires.biz
 mediaforce.com
 mediaforge.com
 mediaforgews.com
-mediafox.com.au
 mediafuse.com
 mediagauge.com
 mediaget.com
@@ -80248,7 +80249,6 @@ nehodyshy.pro
 nehra.org
 nehree.com
 nehuha.ru
-nehuihkn.com
 neighborlywatch.com
 neigna.com
 neilbl.com
@@ -81973,7 +81973,6 @@ nugrudsu.xyz
 nuguz.ru
 nuhus.ru
 nui.media
-nuinew2s.top
 nujian.asia
 nuken.com
 nukftb.com
@@ -94533,6 +94532,7 @@ razerscreen.com
 razersoft.net
 razerzonne.com
 razerzonne.net
+razesoft.mdetecnologia.com
 razeupmount.digital
 razingvexable.store
 razor-games.com
@@ -115462,6 +115462,7 @@ tlrkcj17.de
 tlrrlomssbt.com
 tls.thelibrarystore.com
 tlsynmli.fun
+tlt.ma
 tlvmedia.com
 tlxkomrhkl.com
 tlybabet.com
