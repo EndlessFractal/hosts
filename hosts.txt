@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 14 July 2023 00:55:28 (UTC)
-# Unique Domains: 130,977
+# Last Update: 15 July 2023 00:54:52 (UTC)
+# Unique Domains: 130,975
 #
 # ===============================================================
 0-0.fr
@@ -1814,7 +1814,6 @@
 50.112.124.170
 50382fd2f1.com
 504684408060410.mateti.net
-504e16c2.host.njalla.net
 506f94d3ef.com
 50745a9d63.com
 508327fbe9.95bd06d118.com
@@ -12272,7 +12271,6 @@ api.autopilothq.com
 api.awarenesstechnologies.com
 api.axept.io
 api.bailingjiankang.com
-api.baimless.com
 api.bayimob.com
 api.bitp.it
 api.boclinkads.com
@@ -30364,7 +30362,6 @@ dhlyikbubkibk.com
 dhm1.top
 dhobiefaying.store
 dhowsptelea.com
-dhqidlnsxx2qigisdvn7x2f.webdav.drivehq.com
 dhrhzii89gpwo.cloudfront.net
 dhthrewdownth.xyz
 dhuimjkivb.com
@@ -37068,7 +37065,6 @@ extnetcool.com
 extofiles.com
 extole.com
 extole.io
-extra-softs.com
 extra-softs.org
 extra33.com
 extrablocks.ru
@@ -45806,6 +45802,7 @@ growingio.com
 grown-inpp-code.com
 grown-t-code.com
 growngame.life
+growrock.co.za
 growsumo.com
 growth-hackingan.info
 growth-hackingor.info
@@ -54138,6 +54135,7 @@ justdance2014.sharezips.net
 justdrop.store
 justearn.it
 justgetitfaster.com
+justi.su
 justiceintegral.com
 justicejudo.com
 justificationevidentpensive.com
@@ -76080,7 +76078,6 @@ monitormilletstray.com
 monitus.net
 monjeuconcoursassurancedirexi.fr
 monk.monster
-monke.re
 monkeybroker.net
 monkeyfettles.uno
 monkeyselite.tonick.co
@@ -88443,6 +88440,7 @@ pcgamescracks.com
 pcgamesdownloader.com
 pcgameshackcenter.com
 pcgamez.net
+pcgratis.net
 pci.aon.com
 pci.pornclipsxxx.com
 pcie.arrowservice.net
@@ -88791,7 +88789,6 @@ performit.club
 performlabs.com
 performtechnique.com
 performtracking.com
-perfumando.com.mx
 perfumyposable.uno
 perfunctoryfrugal.com
 perfunctorylooks.com
@@ -98516,6 +98513,7 @@ samlaurabrown.top
 sammix.adsame.com
 samnangerbil.com
 samogonius.ru
+samoramertut.ru
 samplerenamed.com
 samplerpouch.com
 samrt.adsame.com
@@ -108194,6 +108192,7 @@ speltmacaco.uno
 speltzpataca.guru
 spencerfane.actonservice.com
 spendpest.com
+spensoftgame.site
 spentbennet.com
 spenvp.gate.shop
 sperans-beactor.com
@@ -124201,7 +124200,6 @@ wardingchough.tech
 wardrobecontingent.com
 wardrobemeddleorganism.com
 waregamesoft.site
-waregamesoft.space
 warehousecanneddental.com
 wareneingang.edeka.de
 warentest-de01.webtrekk.net
@@ -125744,7 +125742,6 @@ windows8activator.com
 windows8activatordownload.com
 windowsdaggerminiaturization.com
 windowsmessage.online
-windowswps.oss-cn-hongkong.aliyuncs.com
 windsasleep.com
 windscreenregimepros.com
 windsplay.com
@@ -126550,6 +126547,7 @@ wtg-ads.com
 wtgnmr.golfdigest.co.jp
 wtm.interhyp.de
 wtm.monitoringservice.co
+wtmc.com.pk
 wtmtrack.com
 wtom.businessconsults.net
 wtoredir.com
