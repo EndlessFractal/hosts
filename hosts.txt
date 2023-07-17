@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 16 July 2023 01:00:17 (UTC)
-# Unique Domains: 130,972
+# Last Update: 17 July 2023 00:57:18 (UTC)
+# Unique Domains: 130,977
 #
 # ===============================================================
 0-0.fr
@@ -10654,7 +10654,6 @@ amazy.ru
 ambaab.com
 ambalamscaler.digital
 ambasazotea.guru
-ambasoft.info
 ambassador.referralhero.com
 ambassadorpotentsummer.com
 ambassadors.diorinsider.com
@@ -12320,6 +12319,7 @@ api.exc.mob.com
 api.exp.sofology.co.uk
 api.fc.mob.com
 api.fd.mob.com
+api.findmykids.org
 api.flexispy.com
 api.flocktory.com
 api.flurry.com
@@ -33818,7 +33818,6 @@ econth.com
 econtinue.xyz
 ecortb.com
 ecotour.eulerian.net
-ecotree.co.in
 ecound.com
 ecpm.tanx.com
 ecpmrocks.com
@@ -78515,6 +78514,7 @@ mtrace.play.t002.ottcn.com
 mtrace.qq.com
 mtrace.wetvinfo.com
 mtrack.nl
+mtracker.fortess.net
 mtracking.com
 mtras.xyz
 mtrck.info
@@ -79344,6 +79344,7 @@ mycleanid.com
 mycleanmymac.com
 mycleanpc.com
 myclickpush.com
+mycloud.wisemo.com
 mycollegereview.com
 mycookies.it
 mycoolfeed.com
@@ -94090,6 +94091,7 @@ r.dmp.sina.cn
 r.dmp.sina.com.cn
 r.edge.inmobicdn.net
 r.existenz.se
+r.findmykids.org
 r.getcopper-dev.com
 r.getcopper.com
 r.guggy.com
@@ -107391,6 +107393,7 @@ software.nytimesnews.net
 softwarecrackfree.com
 softwarecracks.org
 softwarecrackworks.com
+softwaredw.com
 softwareempiredestitute.com
 softwarepastel.com
 softwareplanet.net
@@ -125383,6 +125386,7 @@ whenimpossibilityreform.com
 whenmyfe.xyz
 wheputch.net
 wheral.com
+where-is-my-children.firebase.io
 where.com
 whereaboutsconclusive.com
 wherealecompere.com
@@ -126498,6 +126502,7 @@ wsofreedownload.com
 wsoxwa.xyz
 wspsbhvnjk.com
 wss.cnzz.com
+wss.findmykids.org
 wssgmstats.vibbo.com
 wsstats.coches.net
 wsstore.cc
