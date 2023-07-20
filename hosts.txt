@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 19 July 2023 01:25:12 (UTC)
-# Unique Domains: 132,125
+# Last Update: 20 July 2023 00:47:03 (UTC)
+# Unique Domains: 132,130
 #
 # ===============================================================
 -norgesalg.com
@@ -24864,6 +24864,7 @@ compulsivehemisphere.com
 compulsiveincline.com
 compulsivepoemoperative.com
 compute.satellitebbs.com
+computebailiff.com
 computer-remont.ru
 computers.panasonic.eu
 computeruniverse01.webtrekk.net
@@ -66728,6 +66729,7 @@ mkt11464.com
 mkt11465.com
 mkt11466.com
 mkt11467.com
+mkt11468.com
 mkt11469.com
 mkt1147.com
 mkt11470.com
@@ -66924,10 +66926,12 @@ mkt11679.com
 mkt1168.com
 mkt11680.com
 mkt11681.com
+mkt11682.com
 mkt11683.com
 mkt11684.com
 mkt11686.com
 mkt1169.com
+mkt11691.com
 mkt11697.com
 mkt11699.com
 mkt117.com
@@ -79997,6 +80001,7 @@ mycleanmymac.com
 mycleanpc.com
 myclickpush.com
 mycloud.wisemo.com
+mycloud1.wisemo.com
 mycollegereview.com
 mycookies.it
 mycoolfeed.com
