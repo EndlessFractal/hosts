@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 26 July 2023 00:45:30 (UTC)
-# Unique Domains: 132,308
+# Last Update: 27 July 2023 00:41:52 (UTC)
+# Unique Domains: 132,314
 #
 # ===============================================================
 -norgesalg.com
@@ -10655,6 +10655,7 @@ amazon-security-info.lnk.to
 amazon-seo-service.com
 amazon.freecodes.us
 amazon.hackingfree.com
+amazon.prime-update.jp.app2.shop
 amazonaus.com
 amazoncards.dlcodes.com
 amazonclix.com
@@ -18169,6 +18170,7 @@ bobjobe.ru
 bobo.businessconsults.net
 bobo.oplaymagzine.com
 bobrilla.com
+bobstayget.top
 bobybuilder.com
 bocageicepick.com
 bochesdebated.tech
@@ -29843,6 +29845,7 @@ defyblackmailrecommended.com
 defybrick.com
 defyraspypuke.com
 degaswassail.website
+degenskills.com
 degeronium.com
 deggerfletton.com
 degh48.fnac.com
@@ -48922,6 +48925,7 @@ hostcontent.live
 hostdocument.com
 hostedfiles.net
 hostedgo.com
+hostedpk.com
 hostessmusings.guru
 hostgrater.com
 hostileconductive.com
@@ -66976,6 +66980,7 @@ mkt11663.com
 mkt11664.com
 mkt11666.com
 mkt11667.com
+mkt11668.com
 mkt11669.com
 mkt1167.com
 mkt11670.com
@@ -115661,6 +115666,7 @@ thereshotowner.com
 thereuponcanadian.com
 thereuponscare.com
 therewardboost.com
+thermo-iso.com.br
 thermometercourtroomfusion.com
 thermoworks.postaffiliatepro.com
 thermstats.com
