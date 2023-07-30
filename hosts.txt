@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 29 July 2023 00:43:26 (UTC)
-# Unique Domains: 132,318
+# Last Update: 30 July 2023 00:46:06 (UTC)
+# Unique Domains: 132,331
 #
 # ===============================================================
 -norgesalg.com
@@ -3238,6 +3238,7 @@ a050fa4308.com
 a0675c1160de6c6.com
 a06bbd98194c252.com
 a07d30aaf0.com
+a0840501.xsph.ru
 a0b11.com
 a0b22.com
 a0b33.com
@@ -10615,6 +10616,7 @@ amalgullish.com
 amanda-cle.info
 amanda.firefoxupdata.com
 amandi.openapp.link
+amanext.com
 amap-aos-info-nogw.amap.com
 amaprop.net
 amarceusan.com
@@ -22719,6 +22721,7 @@ circuitingratitude.com
 circuitstadiumburnt.com
 circulate.com
 circulategild.com
+circumstancesrectangle.com
 circumstantialeltondirtiness.com
 circumventpeaceabledivorce.com
 cirmudcap.com
@@ -29659,6 +29662,7 @@ deceittoured.com
 deceivedbulbawelessaweless.com
 deceivedmisunderstand.com
 deceivequirite.digital
+decemberpedalunfair.com
 decencyjessiebloom.com
 decencysoothe.com
 decenthat.com
@@ -66848,6 +66852,7 @@ mkt11507.com
 mkt11508.com
 mkt11509.com
 mkt1151.com
+mkt11510.com
 mkt11511.com
 mkt11512.com
 mkt11513.com
@@ -66873,6 +66878,7 @@ mkt11539.com
 mkt1154.com
 mkt11540.com
 mkt11542.com
+mkt11543.com
 mkt11544.com
 mkt11545.com
 mkt11546.com
@@ -66980,6 +66986,7 @@ mkt11647.com
 mkt11648.com
 mkt1165.com
 mkt11650.com
+mkt11654.com
 mkt11655.com
 mkt1166.com
 mkt11661.com
@@ -67005,10 +67012,15 @@ mkt11681.com
 mkt11682.com
 mkt11683.com
 mkt11684.com
+mkt11685.com
 mkt11686.com
 mkt1169.com
+mkt11690.com
 mkt11691.com
+mkt11692.com
+mkt11693.com
 mkt11697.com
+mkt11698.com
 mkt11699.com
 mkt117.com
 mkt1170.com
@@ -88208,6 +88220,7 @@ ozqae.xyz
 ozqputbtaav.com
 ozsoekwgy.com
 oztumte.ru
+ozvita.club
 ozwtasocx.com
 ozwvd.com
 ozzkutkadaj.com
@@ -92133,6 +92146,7 @@ prawnsimply.com
 praycompanion.com
 prayersnationsunglasses.com
 prayersobsoletededuce.com
+prayersstingy.com
 prayfortnight.com
 prbn.ru
 prc.newsonet.net
@@ -114260,6 +114274,7 @@ tatdunsit.com
 tatehj.nylaarp.com
 tatersbilobed.com
 tatleadlam.live
+tatmacerasi.com
 tatpek.com
 tatsumi-sys.jp
 tattepush.com
@@ -125036,7 +125051,6 @@ vvhatsappsohbetim.site
 vvickycira.com
 vviewpoint.biz
 vvikao.brighton.com
-vvitcher.ru
 vvmblock.ru
 vvrbjtjxmlgcd.xyz
 vvsbwny.cn
@@ -128814,7 +128828,6 @@ www.pg.victoria50.fr
 www.pg.victoria50.ie
 www.pg.victoria50.it
 www.pgv4.com
-www.phod.ru
 www.phoenixtvus.com
 www.pikacn.com
 www.pintour.com
