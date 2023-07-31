@@ -14,7 +14,7 @@ The script performs the following steps:
 6. Retrieves the current date and time as the last update timestamp.
 7. Counts the number of unique domains.
 8. Constructs a header section with the last update timestamp and the number of unique domains.
-9. Writes the header and the filtered domain names to the `filtered_hosts.txt` file.
+9. Writes the header and the filtered domain names to the `hosts.txt` file.
 
 ## Sources
 
@@ -41,7 +41,7 @@ The script retrieves domain lists from the following sources:
 
 ## File Output
 
-The filtered domain names are saved to the `filtered_hosts.txt` file, which is formatted as follows:
+The filtered domain names are saved to the `hosts.txt` file, which is formatted as follows:
 
 ```
 # Title: EndlessFractal/hosts 
