@@ -4,7 +4,7 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 31 July 2023 19:01:08 (UTC)
+# Last Update: 31 July 2023 19:03:28 (UTC)
 # Unique Domains: 172,063
 #
 # ===============================================================
