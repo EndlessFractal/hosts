@@ -23,6 +23,7 @@ The script retrieves domain lists from the following sources:
 - [Ad Wars Hosts](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts)
 - [AdguardDNS](https://v.firebog.net/hosts/AdguardDNS.txt)
 - [Admiral](https://v.firebog.net/hosts/Admiral.txt)
+- [Anudeep's Blacklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt)
 - [BarbBlock Hosts File](https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt)
 - [Easylist](https://v.firebog.net/hosts/Easylist.txt)
 - [Easyprivacy](https://v.firebog.net/hosts/Easyprivacy.txt)

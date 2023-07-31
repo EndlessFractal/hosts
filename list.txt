@@ -4,6 +4,7 @@ https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-malware.txt
 https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt
+https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
