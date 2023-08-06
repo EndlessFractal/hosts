@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 05 August 2023 00:42:30 (UTC)
-# Unique Domains: 173,290
+# Last Update: 06 August 2023 00:40:06 (UTC)
+# Unique Domains: 173,298
 #
 # ===============================================================
 -norgesalg.com
@@ -8225,7 +8225,6 @@ a081.casalemedia.com
 a082.casalemedia.com
 a083.casalemedia.com
 a084.casalemedia.com
-a0840501.xsph.ru
 a085.casalemedia.com
 a086.casalemedia.com
 a087.casalemedia.com
@@ -17861,6 +17860,7 @@ africa.todayusa.org
 africa.usabbs.org
 africadb.arrowservice.net
 africaewgrhdtb.com
+africatechs.com
 africawin.com
 afriflatry.co
 afrika-travel.de.intellitxt.com
@@ -19293,7 +19293,6 @@ amalgullish.com
 amanda-cle.info
 amanda.firefoxupdata.com
 amandi.openapp.link
-amanext.com
 amap-aos-info-nogw.amap.com
 amaprop.net
 amarceusan.com
@@ -25670,6 +25669,7 @@ b.casalemedia.com
 b.chartboost.com
 b.chme.io
 b.clkservice.youdao.com
+b.clu-e.eu
 b.code.tanwanyx.com
 b.codeonclick.com
 b.company-target.com
@@ -35983,6 +35983,7 @@ cioccmit.cyou
 ciom9.voluumtrk.com
 cipane.ru
 cipangobesots.com
+cipani.in
 cipdn.com
 cipix.acxiom.com
 cipledecline.buzz
@@ -92212,6 +92213,7 @@ mkt11450.com
 mkt11451.com
 mkt11452.com
 mkt11453.com
+mkt11454.com
 mkt11455.com
 mkt11456.com
 mkt11457.com
@@ -92415,6 +92417,7 @@ mkt1166.com
 mkt11661.com
 mkt11663.com
 mkt11664.com
+mkt11665.com
 mkt11666.com
 mkt11667.com
 mkt11668.com
@@ -92452,8 +92455,10 @@ mkt11701.com
 mkt11702.com
 mkt11703.com
 mkt1171.com
+mkt11718.com
 mkt1172.com
 mkt11720.com
+mkt11721.com
 mkt1173.com
 mkt1174.com
 mkt1175.com
@@ -115984,7 +115989,6 @@ ozqae.xyz
 ozqputbtaav.com
 ozsoekwgy.com
 oztumte.ru
-ozvita.club
 ozwtasocx.com
 ozwvd.com
 ozwvkazrik.com
@@ -117353,6 +117357,7 @@ patiotheoretical.com
 patithatspartal.pro
 patodonalgomball.store
 patonsale.xyz
+patriciabono.com
 patrickcodens.life
 patricklexia.guru
 patriot.cs.pp.cn
@@ -135413,6 +135418,7 @@ silvermob.com
 silverpop.com
 silverpush.co
 silversneker.com
+silversoft.in
 silverts.evergage.com
 silverundergofold.com
 silverupload.com
@@ -149651,7 +149657,6 @@ tatehj.nylaarp.com
 tatersbilobed.com
 tatic.getclicky.com
 tatleadlam.live
-tatmacerasi.com
 tatpek.com
 tats.g.doubleclick.net
 tatsumi-sys.jp
@@ -149721,6 +149726,7 @@ tbid.adsame.com
 tbidvzc.com
 tbli.ir
 tbm09.com
+tbmcoats.com
 tbplcam.com
 tbunkv.chineselaundry.com
 tbv157xq.com
@@ -170833,6 +170839,7 @@ y.moatads.com
 y.photoint.net
 y.pzclw.cn
 y.ruosi6.cn
+y.shavsl.com
 y.unilz588.com
 y0o1g.cn
 y0utube.com.mx
@@ -172028,6 +172035,7 @@ z.lenmit.com
 z.moatads.com
 z.nowscore.com
 z.opmnstr.com
+z.shavsl.com
 z.sora.yoyi.com.cn
 z.supersonicads.com
 z.tudouxy01.com
