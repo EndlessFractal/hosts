@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 06 August 2023 00:40:06 (UTC)
-# Unique Domains: 173,298
+# Last Update: 07 August 2023 00:44:17 (UTC)
+# Unique Domains: 173,297
 #
 # ===============================================================
 -norgesalg.com
@@ -135354,7 +135354,6 @@ signalspotsharshly.com
 signauxcinq.com
 signauxdix.com
 signauxtrois.com
-signauxun.com
 signcalamity.com
 significantoperativeclearance.com
 significantrefreshmentshadow.com
