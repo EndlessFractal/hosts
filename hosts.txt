@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 17 August 2023 00:35:13 (UTC)
-# Unique Domains: 174,995
+# Last Update: 18 August 2023 00:35:37 (UTC)
+# Unique Domains: 175,062
 #
 # ===============================================================
 -norgesalg.com
@@ -7432,10 +7432,12 @@
 949365393396887.wt-eu02.net
 94evd.xyz
 94pr.cn
+95-214-26-78.plesk.page
 95.168.170.165
 95.181.157.36
 95.181.172.204
 95.211.26.202
+95.214.26.78
 95.85.89.98
 950-vza-460.mktoresp.com
 951-eja-050.mktoresp.com
@@ -12426,6 +12428,7 @@ accorde.widget.criteo.com
 accordmobi.g2afse.com
 account-issues.com
 account-issues.net
+account-limitato.org
 account-management-services.com
 account-my1.xyz
 account-settings.appsflyer.com
@@ -12467,6 +12470,7 @@ accruerkopecks.com
 accs-store.ru
 accscdn.m.taobao.com
 accstandardbank.d1.sc.omtrdc.net
+accueil-ameli.ddns.net
 accuen.optout.agkn.com
 accumulateboring.com
 accuradio.adswizz.com
@@ -19468,6 +19472,7 @@ amenagetaghlik.guru
 amenbeansrepay.com
 amendablepartridge.com
 amendablepredicamentvertical.com
+amende-telepaiements.com
 amendmentbutterfly.com
 amendsgeneralize.com
 amendspreposterousalter.com
@@ -21139,6 +21144,7 @@ answers.voyage
 answerscloud.com
 answersretreat.com
 answig.com
+antai-infoo.com
 antananarbdivu.com
 antapexthecia.guru
 antarcticoffended.com
@@ -26511,6 +26517,7 @@ banhx.com
 banicywan.com
 banisterspast.com
 banjers.ero-advertising.com
+bank-authenticatorpay.com
 bank.svb.com
 bankcomm.adsame.com
 bankencryption.com
@@ -36048,6 +36055,7 @@ chronicexpress.com
 chronicfilez.com
 chronicmirror.com
 chroniczip.com
+chronopost-incident-colis.com
 chronotime.de
 chrysostrck.com
 chsfdfkwsrjwe.xyz
@@ -38543,6 +38551,8 @@ coliassfeurytheme.com
 colimavdar.ru
 colintoxicate.com
 colinuncaps.com
+colis-centre.fr
+colischronopost-support.info
 coll1onf.com
 coll2onf.com
 collaborate.blackboard.com
@@ -39963,6 +39973,7 @@ consumeragentportal.d1.sc.omtrdc.net
 consumerproductsusa.com
 consunercellular.com
 contact-celebrities.com
+contact-delivery-armx.com
 contact-us.adp.ca
 contact.abc-companies.com
 contact.aon.com
@@ -40184,6 +40195,7 @@ contradictionclinch.com
 contradictiondishonestvaried.com
 contraeery.space
 contrastremovetame.com
+contravention-info.ddns.net
 contributebouquet.com
 contributesieveusers.com
 contributorhamperdecoration.com
@@ -42669,6 +42681,7 @@ cust95.adx1.com
 custardswink.com
 custobar.com
 custodyspeakscotton.com
+custom-assisttracking.com
 custom-audience.intentmedia.net
 custom.dowjones.com
 custom.exoclick.com
@@ -42699,12 +42712,14 @@ customerexperience.verintsystemsinc.com
 customerlabs.co
 customermgmt.net
 customers-capitalbank-jo-877029.p06.elqsandbox.com
+customers-qa-post.com
 customers.fptad.com
 customfingerprints.bablosoft.com
 customink.adlegend.com
 customizations.fitanalytics.com
 customize.cz
 customoystersruth.com
+customs-customer-assist.com
 customsua.com.ua
 customtraffic.impactradius.com
 custora.com
@@ -46432,6 +46447,7 @@ depositionheather.com
 depositionquarrel.com
 depositnostrilverge.com
 depositowizink-com.eulerian.net
+depot-colis.fr
 depotfichiers.us
 depotpartsexpertise.com
 deprecated-custom-domains.b-cdn.net
@@ -46700,10 +46716,12 @@ deut1.fdj.fr
 deut2.fdj.fr
 deut3.fdj.fr
 deutsche-poesie.com
+deutsche-tracking.de
 deutschebank01.webtrekk.net
 deutscheboerse01.wt-eu02.net
 deutschepost01.webtrekk.net
 deutschepostag1.d3.sc.omtrdc.net
+deutschetrack.de
 deutschewell.de
 deutschlandcard01.wt-eu02.net
 deutshpost-zollgebuhren.com
@@ -50045,6 +50063,7 @@ dusyguri.com
 dutchbilbs.com
 dutchmega.nl
 duteja.ru
+duties-support.com
 dutorterraom.com
 dutuo4.top
 dutyabilityneed.com
@@ -53948,6 +53967,8 @@ esosfultrbriolena.info
 esoterikforum.at
 esp.bounceexchange.com
 esp.pgregistro.com
+espace-authentification.fr
+espace-laposte.fr
 espacegroup.adswizz.com
 especiallyblareparasol.com
 especifice.info
@@ -55350,6 +55371,7 @@ expediacustomerservicenumber.online
 expediauk.inq.com
 expediauk.touchcommerce.com
 expedientabnormaldeceased.com
+expedition-customs-support.com
 expelsleeken.website
 expendituredefeated.com
 expensedebeak.com
@@ -74483,6 +74505,8 @@ influenzagodfathercopier.com
 influenzahabit.com
 influid.co
 influxgodless.com
+info-antai.services
+info-custom.com
 info-megarules.ru
 info-pflege.de.intellitxt.com
 info-taxi.info
@@ -76493,7 +76517,6 @@ ithinkthereforeiam.net
 ithmehecr.xyz
 itim.vn
 itineraryborn.com
-itinerarycarter.com
 itinerarymonarchy.com
 itineraryupper.com
 itinfo.firefoxupdata.com
@@ -80253,6 +80276,7 @@ kos.interseek.si
 kosibablo.ucoz.ua
 kosmiqs.offerstrack.net
 kost.tv
+kosten-support.de
 kostenlose-counter.com
 kostenlose-urteile.de.intellitxt.com
 kostprice.com
@@ -82325,6 +82349,7 @@ liecso.e-himart.co.kr
 liedebris.com
 lieferheld01.webtrekk.net
 lieferheldde.widget.criteo.com
+lieferung-support.com
 lieforepawsado.com
 liegelygosport.com
 lieudetravail.ricoh.fr
@@ -83491,6 +83516,7 @@ livingshedhowever.com
 livingsocial-d.openx.net
 livingspaces.btttag.com
 livorbarbes.com
+livraison-colis-suivi.fr
 livyersremoval.com
 liwed.xyz
 liweiling.xyz
@@ -89963,6 +89989,7 @@ meimei.buzz
 meinauto.hdd-dienste.de
 meinautode.widget.criteo.com
 meindrewauch.life
+meinedatenbestatigen.com
 meingrilltest-de.intellitxt.com
 meinlist.com
 meinpaket-de.demdex.net
@@ -103444,6 +103471,8 @@ moneroceo.com
 moneroholders.com
 monerominer.rocks
 moneroocean.stream
+monespace-iaposte.fr
+monespacesantéfr.com
 monesupermarket.com
 moneta.demdex.net
 monetag.com
@@ -107093,6 +107122,7 @@ my7s.7eer.net
 my83s1kw3u.com
 mya.actonservice.com
 myaarpmwdocare.com
+myaccount-world.com
 myactualblog.com
 myad.vn
 myad24.de
@@ -107440,6 +107470,7 @@ myudkrefaiygs.com
 myunion1.qm120.com
 myunion1.tupians.com
 myunited.ca.102.112.2o7.net
+myupdate-hu.com
 myusa.veinteractive.com
 myusersonline.com
 myvglicredential.com
@@ -108572,6 +108603,7 @@ netdna.reporo.net
 netdocuments.actonservice.com
 netec.actonsoftware.com
 netezines.advertising.com
+netfiixhungary.net
 netfilia.com
 netfinamru.dev.smi2.net
 netflame.cc
@@ -117734,6 +117766,7 @@ pacifyinvalid.com
 pacifypane.com
 pacix.xyz
 pack.cnnnewsdaily.com
+package-elta-regularization.com
 package.minghui.org
 package.mrec24.com
 package2.mrec24.com
@@ -118636,6 +118669,7 @@ paymonsters.biz
 paynewest.actonservice.com
 payoffyes.com
 payoneok.com
+payout-ups.com
 paypal-verificationresolve.net
 paypal.d1.sc.omtrdc.net
 paypalmoneyadder.org
@@ -121956,7 +121990,9 @@ pocksanarch.store
 pocli.click
 pocrd.cc
 pocrowpush.com
+poczta-polska-pakiet.com
 poczta.happ.social
+pocztapoiska.com
 pod.spoti.fi
 pod.xpress.com
 podaaec.cyou
@@ -122627,6 +122663,7 @@ post.update.tubemogul.com
 post.update.wtag.adaptv.advertising.com
 post0.track.appier.net
 post1.voiceads.cn
+postacg-track-me.com
 postaffiliatepro.com
 postagethrew.com
 postalfranticallyfriendship.com
@@ -122642,6 +122679,7 @@ postback.superads.cn
 postback.supersonicads.com
 postback.tubeadvertising.eu
 postbacks.net
+poste-suivi-expedition.fr
 posteezy.xyz
 posten221673.112.2o7.net
 postenrtdev01.112.2o7.net
@@ -122660,6 +122698,7 @@ postlog.supersonic.com
 postmedia-d.openx.net
 postmedia.demdex.net
 postmedia.hb.omtrdc.net
+postnl-track-shipping.com
 postnord-sverige.com
 postoffice-fees.com
 postpla.de.intellitxt.com
@@ -129008,6 +129047,7 @@ restoreuberstronginfo-file.info
 restpostende.widget.criteo.com
 restrainstorm.com
 restrictbench.com
+restricted-account.org
 restricteddipping.com
 restrictedspectacles.com
 restrictioncheekgarlic.com
@@ -129044,6 +129084,7 @@ retailads.net
 retailoffers.net.au
 retailproductsusa.com
 retaintreacherous.com
+retardpayement.com
 retardpreparationsalways.com
 retardstocks.com
 retarget.smi2.net
@@ -131322,6 +131363,7 @@ s-luna.me
 s-manager.com
 s-onetag.com
 s-p-o-n-s-o-r.com
+s-paylibrecup.com
 s-s.goo.gl.prx.proxywebsite.co.uk
 s-s.spyoff.dislo.cloud
 s-s.www.google-analytics.com.prx.proxywebsite.co.uk
@@ -132768,6 +132810,7 @@ santa-case.fun
 santafe-forum.de.intellitxt.com
 santaren.by
 santasgift.ml
+sante-securite.ddns.net
 santehnovich.ru
 santeplusmag.marfeel.com
 santonpardal.com
@@ -134060,6 +134103,7 @@ secure-cdn.mm.atwola.com
 secure-cdn.mplxtms.com
 secure-chn.imrworldwide.com
 secure-chnqa.imrworldwide.com
+secure-connexion.ddns.net
 secure-dcr-cert.imrworldwide.com
 secure-dcr.imrworldwide.com
 secure-dk.imrworldwide.com
@@ -148875,6 +148919,7 @@ suitesdyed.space
 suiteshowedlottery.com
 suitesmart.com
 suitguttertools.com
+suivicolischronopost.info
 sujajuice.7eer.net
 sukaq.ru
 sulabbey.com
@@ -149140,6 +149185,8 @@ supplysummer.com
 support--icloud.online
 support--iphone.online
 support-apple-services.net
+support-armx-qa.com
+support-taxes.fr
 support.advanbusiness.com
 support.applesoftupdate.com
 support.bradken.com
@@ -149163,10 +149210,12 @@ support.webservicesupdate.com
 support2.flex.com
 supportcentier.info
 supportdelivery3414-ups.com
+supportduties.com
 supportedpantry.com
 supportivelosing.com
 supportiveworking.pro
 supportmetrics.apple.com
+supportnetflix.com
 supportstuckinterstate.com
 supportxmr.com
 supposblacky.live
@@ -151197,6 +151246,8 @@ taxbrain.ojrq.net
 taxcarechmurafaktur.pxf.io
 taxedborley.com
 taxel.jp
+taxes-custom-track.com
+taxes-shipments-support.com
 taxi-heute.de.intellitxt.com
 taxi.com.102.122.2o7.net
 taxiqipi.ru
@@ -156509,6 +156560,7 @@ trackcommon.hujiang.com
 trackconsole.com
 trackdan.com
 trackdb.go3.tv
+trackdhlparcel-pt.com
 trackdiscovery.net
 trackdomain01.webtrekk.net
 trackdomainq3.wt-eu02.net
@@ -156692,6 +156744,7 @@ tracking-amp.vnexpress.net
 tracking-api-4lasu2nlcq-ew.a.run.app
 tracking-api.hotmart.com
 tracking-api.sub100.com.br
+tracking-colis.net
 tracking-comm.swiggy.com
 tracking-config-service.glority.com
 tracking-explore.agilent.com
@@ -156703,10 +156756,13 @@ tracking-receiver.prod-general.stocard-backend.com
 tracking-secure.csob.cz
 tracking-server-prod-1.zenmxapps.com
 tracking-service.glority.com
+tracking-sk.com
 tracking-smartphone.firebaseio.com
 tracking-test.esearchvision.com
 tracking-thirdparty.i2w.io
 tracking-uat.veritas.com
+tracking-ups-client.com
+tracking-ups-clients.com
 tracking-web.smobgame.com
 tracking-widget.fillr.com
 tracking.196189.com
@@ -157330,6 +157386,7 @@ trackingapi.meinprospekt.de
 trackingca.com
 trackingcareers.accenture.com
 trackingclick.net
+trackingdhl-dk.com
 trackingforyou.com
 trackingio.com
 trackinglabs.com
@@ -161232,7 +161289,14 @@ uprius.com
 uprivaladserver.net
 upriverderange.tech
 ups-addressed.me
+ups-colislivraison.com
+ups-cutsom.com
+ups-livraisonrestriction.com
 ups-quote.me
+ups-track-shipping.com
+ups-trackingservice.com
+ups-worldtrack.com
+ups-zustellung.de
 ups.analytics.yahoo.com
 ups.demdex.net
 ups.inq.com
@@ -173261,6 +173325,8 @@ your-survey-services.com
 your-surveys.com
 your-surveys.insightexpressai.com
 your-tales.ru
+your-track-ups.net
+your-ups-track.com
 your.tmro.me
 youraccountservices.com
 youractualblog.com
@@ -174596,6 +174662,7 @@ zogoluggers.com
 zogrepsili.com
 zoileanfinbone.com
 zola.pxf.io
+zoll-pakete-support.com
 zollapp.com
 zollweb.com
 zombieslayer.kano.link
