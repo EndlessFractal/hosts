@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 19 August 2023 00:34:12 (UTC)
-# Unique Domains: 175,223
+# Last Update: 20 August 2023 00:37:30 (UTC)
+# Unique Domains: 175,224
 #
 # ===============================================================
 -norgesalg.com
@@ -93657,6 +93657,7 @@ mkt11718.com
 mkt1172.com
 mkt11720.com
 mkt11721.com
+mkt11724.com
 mkt11727.com
 mkt1173.com
 mkt1174.com
