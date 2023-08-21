@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 20 August 2023 00:37:30 (UTC)
-# Unique Domains: 175,224
+# Last Update: 21 August 2023 00:36:10 (UTC)
+# Unique Domains: 175,248
 #
 # ===============================================================
 -norgesalg.com
@@ -7387,6 +7387,7 @@
 92f83e092d.com
 92fc-2eab-eeda-ca96.reporo.net
 92ph.cn
+93.93.51.223
 930.dragonparking.com
 9304hhh999.vip
 931-avb-853.mktoresp.com
@@ -21462,6 +21463,7 @@ apathetictheory.com
 apathiaherbist.com
 apathylahuli.website
 apavskmykcm.xyz
+apbbjmp.com
 apc.clck-01.online
 apcdn.lijit.com
 apcoi.com
@@ -25426,6 +25428,7 @@ awayfterth.one
 awayimplemented.com
 awayteemage.com
 awbbcre.com
+awbbgate.com
 awbbjmp.com
 awbbsat.com
 awberquire.digital
@@ -25435,9 +25438,11 @@ awdc6.com
 aweber.com
 awecr.com
 awecre.com
+awecrjmp.com
 awecrptjmp.com
 aweelhillier.life
 aweinkbum.com
+awejmp.com
 awelessawelessmilliondisorganized.com
 awelldigital.offerstrack.net
 awembd.com
@@ -25451,6 +25456,7 @@ aweprotostatic.com
 aweprt.com
 awepsi.com
 awept.com
+aweptjmp.com
 awesome-blocker.com
 awesome-case.com
 awesome-tc.com
@@ -27034,6 +27040,7 @@ bbdobm.com
 bbeeejafhacbigaeih.ru
 bbelements.com
 bbeljxm2dvwnfib.ru
+bbentgate.com
 bbes.xyz
 bbfabeagadcfbjfbgh.ru
 bbg.d1.sc.omtrdc.net
@@ -36089,6 +36096,7 @@ chronicmirror.com
 chroniczip.com
 chronopost-incident-colis.com
 chronotime.de
+chryjmp.com
 chrysostrck.com
 chsfdfkwsrjwe.xyz
 chshcms.net
@@ -41456,6 +41464,7 @@ crazyskins.fun
 crazywingflap.com
 crb-r.tlnk.io
 crbbgate.com
+crbbjmp.com
 crdclub.su
 crdefault.link
 crdefault1.com
@@ -41674,6 +41683,7 @@ crittercorupay.com
 crjdgldmb.com
 crjpgate.com
 crjpingate.com
+crjugate.com
 crleii.xyz
 crlvek.com
 crm-analytics.imweb.ru
@@ -41689,6 +41699,7 @@ crm.stickyadstv.com
 crm4d.com
 crmbizfly.todo.vn
 crmchevrolet.com
+crmentjg.com
 crmmetrix.fr
 crmmetrixwris.com
 crmpilot.it
@@ -41787,6 +41798,9 @@ crsspxl.com
 crta.and.co.uk
 crta.dailymail.co.uk
 crta.metro.co.uk
+crtajmp.com
+crtjmp.com
+crtmainjmp.com
 crto.in
 crtracklink.com
 crtv.pxf.io
@@ -78555,10 +78569,13 @@ jsl44w.xyz
 jslbaha.top
 jslog.post.cz
 jslog.zapps.vn
+jsmcrjmp.com
+jsmcrptjmp.com
 jsmedia.adsame.com
 jsmentry.com
 jsmjmp.com
 jsmpsi.com
+jsmptjmp.com
 jsmxkj.com
 jsn.mgid.com
 jsnignsa.xyz
@@ -124271,6 +124288,7 @@ protocol.systemserviceprovider.com
 protocol.thetruthspy.com
 protocolburlap.com
 protocolgroupgroups.com
+protojsmgw.com
 proton-int.flurry.com
 proton.flurry.com
 protosell.actonservice.com
@@ -124686,8 +124704,10 @@ ptauxofi.net
 ptawe.com
 ptawehex.net
 ptawhood.net
+ptbbjmp.com
 ptc.imrworldwide.com
 ptcdn.mbicash.nl
+ptcrwmjmp.com
 ptd.pubmatic.com
 ptdcoy.com
 ptechait.com
@@ -124699,6 +124719,7 @@ pteftagu.com
 ptengine.cn
 ptengine.com
 ptengine.jp
+ptentry.com
 pterylaroak.com
 pteshunu.net
 ptetchie.net
@@ -124739,6 +124760,7 @@ ptongouh.net
 ptoockee.net
 ptookaih.net
 ptoopain.com
+ptosrd.com
 ptoujaix.xyz
 ptoumsid.net
 ptoushoa.com
@@ -124779,6 +124801,7 @@ ptutchiz.com
 ptv-prod-lb.tubemogul.com
 ptvfzv.xyz
 ptw-i.actonservice.com
+ptwmbed.com
 ptwmemd.com
 ptwmjmp.com
 ptwmstc.com
@@ -167924,6 +167947,7 @@ wmober.com
 wmolgnjo.xyz
 wmp.businessconsults.net
 wmptctl.com
+wmptengate.com
 wmpuem.com
 wmr1f.voluumtrk.com
 wmredz.com
