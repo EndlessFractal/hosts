@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 23 August 2023 00:35:50 (UTC)
-# Unique Domains: 175,383
+# Last Update: 24 August 2023 00:35:46 (UTC)
+# Unique Domains: 175,386
 #
 # ===============================================================
 -norgesalg.com
@@ -39911,6 +39911,7 @@ consent.theserverside.com
 consent.whtimes.co.uk
 consentag.eu
 consentrenovate.com
+consequencesgiddyditch.com
 consequencesinterference.com
 consequencesjudged.com
 consequentlydistraughtpasta.com
@@ -47341,7 +47342,6 @@ digitalmarketing.go2affise.com
 digitalmarketing.gogsg.com
 digitalmarketing.nglantz.com
 digitalmediapp.com
-digitalocean, llc
 digitaloptout.com
 digitalproserver.com
 digitalpush.org
@@ -67562,7 +67562,6 @@ gymsharkgreeceshop.com
 gymsharkidanmark.com
 gymsharkiesale.com
 gymsharkjp.com
-gymsharkklærnorge.com
 gymsharkldanmark.com
 gymsharklnorge.com
 gymsharknl.com
@@ -93696,6 +93695,7 @@ mkt11648.com
 mkt11649.com
 mkt1165.com
 mkt11650.com
+mkt11652.com
 mkt11654.com
 mkt11655.com
 mkt11656.com
@@ -93735,6 +93735,7 @@ mkt11690.com
 mkt11691.com
 mkt11692.com
 mkt11693.com
+mkt11696.com
 mkt11697.com
 mkt11698.com
 mkt11699.com
@@ -93752,6 +93753,7 @@ mkt1172.com
 mkt11720.com
 mkt11721.com
 mkt11724.com
+mkt11725.com
 mkt11727.com
 mkt1173.com
 mkt1174.com
@@ -103658,7 +103660,6 @@ moneroholders.com
 monerominer.rocks
 moneroocean.stream
 monespace-iaposte.fr
-monespacesantéfr.com
 monesupermarket.com
 moneta.demdex.net
 monetag.com
@@ -172454,11 +172455,13 @@ xn--fjqz50cv5q3so.ltd
 xn--gmail-bgd.com
 xn--gov-x68dy61b.shop
 xn--gummistvlerhunter-60b.com
+xn--gymsharkklrnorge-3ob.com
 xn--h12srv-vj0c.adk2x.com
 xn--hotiayakkab-p9a38g.com
 xn--imgr-x05a.com
 xn--jvrp4x1zyfta.net
 xn--keentrkiye-eeb.com
+xn--monespacesantfr-nnb.com
 xn--mtso8sj6menhyil.online
 xn--nobulltrkiye-jlb.com
 xn--opsin-2i1bzn.com
