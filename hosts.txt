@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 24 August 2023 00:35:46 (UTC)
-# Unique Domains: 175,386
+# Last Update: 25 August 2023 00:36:17 (UTC)
+# Unique Domains: 175,383
 #
 # ===============================================================
 -norgesalg.com
@@ -103466,7 +103466,6 @@ modelmayhem.t.domdex.com
 modelvita.de.intellitxt.com
 modents-diance.com
 moderategermmaria.com
-moderatepartsindependently.com
 moderatewaterproof.com
 modere.evergage.com
 moderg.com
@@ -138823,7 +138822,6 @@ smetrics.crystalski.co.uk
 smetrics.csmonitor.com
 smetrics.csu.edu.au
 smetrics.ctm.uhc.com
-smetrics.ctmers.io
 smetrics.ctshirts.com
 smetrics.ctv.ca
 smetrics.cua.com.au
@@ -147154,7 +147152,6 @@ stats.clickability.com
 stats.clickforknowledge.com
 stats.cloud-backup-for-podio.com
 stats.cloud.online.net
-stats.clover.co
 stats.cmcigroup.com
 stats.cn.ronghub.com
 stats.cnzz.com
