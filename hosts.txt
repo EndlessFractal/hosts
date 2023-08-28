@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 27 August 2023 00:38:37 (UTC)
-# Unique Domains: 175,442
+# Last Update: 28 August 2023 00:37:17 (UTC)
+# Unique Domains: 175,441
 #
 # ===============================================================
 -norgesalg.com
@@ -33376,7 +33376,6 @@ carrierservices-business.vodafone.com
 carroll.datafirst.io
 carrotimpregnable.com
 carrotquest.io
-carrotraining.com
 carrottrack.io
 carryhummight.com
 carryingfarmerlumber.com
