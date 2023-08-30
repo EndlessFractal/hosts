@@ -16,7 +16,10 @@ for url in urls:
         domains = [re.sub(r"^(?:\d{1,3}\.){3}\d{1,3} ", "", line).strip().lower() for line in lines if "." in line]
         unique_domains.update(domains)
 
-# Sort the unique domains alphabetically
+# Remove "localhost" from the unique domains
+unique_domains.discard("localhost")
+
+# Sort the remaining unique domains alphabetically
 unique_domains = sorted(unique_domains)
 
 # Get current date and time
