@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 31 August 2023 00:36:55 (UTC)
-# Unique Domains: 175,518
+# Last Update: 01 September 2023 00:39:21 (UTC)
+# Unique Domains: 175,517
 #
 # ===============================================================
 -norgesalg.com
@@ -16800,7 +16800,6 @@ adtonement.com
 adtonos.com
 adtools.inmobicdn.net
 adtoox.com
-adtopia.club
 adtorio.com
 adtorque.in
 adtotal.pl
