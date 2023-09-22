@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 21 September 2023 00:37:00 (UTC)
-# Unique Domains: 176,825
+# Last Update: 22 September 2023 00:37:25 (UTC)
+# Unique Domains: 176,826
 #
 # ===============================================================
 0-0.fr
@@ -163456,6 +163456,7 @@ user-clicks.com
 user-data.apptimize.com
 user-metrics.onthemarket.com
 user-red.com
+user-registration.fr3.vip.prod.criteo.com
 user-registration.nl3.vip.prod.criteo.com
 user-service.voodoo-tech.io
 user-shield-check.com
