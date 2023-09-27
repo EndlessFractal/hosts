@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 26 September 2023 00:37:49 (UTC)
-# Unique Domains: 177,007
+# Last Update: 27 September 2023 00:37:48 (UTC)
+# Unique Domains: 177,017
 #
 # ===============================================================
 0-0.fr
@@ -628,6 +628,7 @@
 10x1515744.112.2o7.net
 11.96131.com.cn
 11.golang8.com
+11.pveditstestsite.com
 11.yiqig.cn
 11.yiqig.com
 110.167.64.171
@@ -14398,6 +14399,7 @@ adlserq.com
 adltserv.com
 adlucent.com
 adluminious.g2afse.com
+adlut.faqserv.com
 adlux.com
 adm-cdn.vrtzads.com
 adm-product.superads.cn
@@ -35210,7 +35212,6 @@ centrastage.evergage.com
 centrelinkmygov.org
 centrex.adx1.com
 centrexmeteor.com
-centroestudiosmtudela.com
 centrumhackers.com
 centsfrawn.uno
 centureunornly.com
@@ -51432,7 +51433,6 @@ easyvids.space
 easyviewz.com
 easyvoyage.eulerian.net
 easyvoyagesas.t.domdex.com
-easyxgame.pro
 eat.newtrina.com
 eat9.thebeat925.ca
 eatablehelprut.com
@@ -51872,6 +51872,8 @@ ecwmvlhy.com
 ecybnxxpeq.com
 ecyxbhvnntj.com
 eczemagrison.uno
+ed-ir.faqserv.com
+ed-iran.faqserv.com
 ed-ta.itsaol.com
 ed.2.west.com
 ed.emp-online.ch
@@ -64874,6 +64876,7 @@ gmodfree.com
 gmodmp.jp
 gmogccmnp.com
 gmossp-sp.jp
+gmpacademy.com.br
 gmpatched.tech
 gmsdigital.vidible.tv
 gmsexp.com
@@ -68298,8 +68301,6 @@ h12h.fun
 h12srv.adk2x.com
 h14-a.tlnk.io
 h15maincat.com
-h170703.srv22.test-hf.su
-h170720.srv22.test-hf.su
 h1d1rxoosv.kameleoon.eu
 h1ek.xyz
 h1h-m.tlnk.io
@@ -76990,6 +76991,8 @@ ir-it.amazon-adsystem.com
 ir-jp.amazon-adsystem.com
 ir-mx.amazon-adsystem.com
 ir-na.amazon-adsystem.com
+ir-saham.faqserv.com
+ir-sahm.fartit.com
 ir-uk.amazon-adsystem.com
 ir.7eer.net
 ir.ads.justpremium.com
@@ -77000,10 +77003,14 @@ ir.mail.163.com
 ir.mihanstore.net
 ir2.beap.gemini.yahoo.com
 ir3.xyz
+iran-sa.faqserv.com
+iran-sah.fartit.com
+iran-sahm.vizvaz.com
 iran-tb.fartit.com
 iran-tb.instanthq.com
 iran-tf.itsaol.com
 iran-tr.itsaol.com
+iran.fartit.com
 irancloudmining.com
 irancoinmine.com
 iraresource.com
@@ -77121,7 +77128,6 @@ iruacwa.xyz
 irubao01.webtrekk.net
 irvato.com
 irvm7.voluumtrk.com
-irwebhocks.online
 irxcm.com
 iryazan.ru
 irygym.xyz
@@ -112360,7 +112366,6 @@ o-oo.ooo
 o-promyshlennosti.ru
 o-s.io
 o-shohousen.com
-o-smoze.com
 o.027eat.com
 o.4x25v.cn
 o.60sk.ru
@@ -133627,6 +133632,7 @@ s9kkremkr0.com
 s9u.site
 s9u5m.voluumtrk.com
 sa-api.visitor-analytics.io
+sa-iran.fartit.com
 sa-only.outbrain.com
 sa-qa.itsaol.com
 sa-stg.perimeterx.net
@@ -133797,6 +133803,7 @@ sadbmetrics.welife.es
 sadflannel.com
 sadjklq.com
 sadjune.com
+sadl.fartit.com
 sadloaf.com
 sadnesscontemporary.com
 sadobe.homecenter.com.co
@@ -133896,11 +133903,13 @@ sagroagh.com
 sah-cq.itsaol.com
 sah-dx.itsaol.com
 sah-fq.itsaol.com
+sah-ir.fartit.com
 sah-ire.itsaol.com
 sah-xp.itsaol.com
 sahamedalat.whi.ir
 sahandkeightg.xyz
 sahef.itsaol.com
+sahm-ir.faqserv.com
 sahmon.com
 saiceezu.xyz
 saidflightmusician.com
@@ -174273,6 +174282,7 @@ xseyfj.com
 xshellcn.com
 xshop3.ru
 xsjc4smhbyjf.com
+xsk295c2.beget.tech
 xslt.mediaplex.com
 xsltbfhmda.mentalist.kameleoon.com
 xslttest.la.mediaplex.com
