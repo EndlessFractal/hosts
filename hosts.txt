@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 28 September 2023 00:37:20 (UTC)
-# Unique Domains: 177,129
+# Last Update: 29 September 2023 00:37:30 (UTC)
+# Unique Domains: 177,152
 #
 # ===============================================================
 0-0.fr
@@ -14346,10 +14346,13 @@ adku.com
 adkwai.com
 adl-hunter.com
 adl-ir.fartit.com
+adl-iran.otzo.com
+adl-q.camdvr.org
 adl-vb.vizvaz.com
 adl-xc.faqserv.com
 adl-zx.fartit.com
 adl.bankofthewest.com
+adl.camdvr.org
 adl.kinogo.by
 adl.kkguan.com
 adl.mynetreklam.com
@@ -14364,6 +14367,7 @@ adlaunch.moji.com
 adlaunch.qingting.fm
 adlaunch.qtfm.cn
 adlayer.net
+adle-ir.otzo.com
 adleadevent.com
 adleads.com
 adlearnop.advertising.com
@@ -14382,6 +14386,7 @@ adlightning.com
 adlince.adk2x.com
 adline.com
 adlink.net
+adliran.camdvr.org
 adliran.dns04.com
 adlirns.itsaol.com
 adlive.io
@@ -38274,6 +38279,7 @@ cnative.propellerads.com
 cnative.propellerclick.com
 cnb.cnews.ru
 cnbprivate.com
+cnc.joskekurwa.xyz
 cncapi.getui.com
 cnd.adgebra.in
 cnd.videoplaza.tv
@@ -51874,9 +51880,11 @@ ecybnxxpeq.com
 ecyxbhvnntj.com
 eczemagrison.uno
 ed-ir.faqserv.com
+ed-ir.fartit.com
 ed-iran.faqserv.com
 ed-ta.itsaol.com
 ed.2.west.com
+ed.authorizeddns.org
 ed.emp-online.ch
 ed.emp-online.com
 ed.emp-online.es
@@ -77020,21 +77028,30 @@ ir-it.amazon-adsystem.com
 ir-jp.amazon-adsystem.com
 ir-mx.amazon-adsystem.com
 ir-na.amazon-adsystem.com
+ir-sa.fartit.com
 ir-saham.faqserv.com
+ir-saham.otzo.com
 ir-sahm.fartit.com
+ir-sana.otzo.com
+ir-sham.otzo.com
 ir-uk.amazon-adsystem.com
 ir.7eer.net
 ir.ads.justpremium.com
 ir.criteo.com
 ir.doubleclick.net
 ir.info.lgsmartad.com
+ir.isasecret.com
 ir.mail.163.com
 ir.mihanstore.net
 ir2.beap.gemini.yahoo.com
 ir3.xyz
+iran-ed.otzo.com
+iran-ird.otzo.com
 iran-sa.faqserv.com
+iran-sa.fartit.com
 iran-sah.fartit.com
 iran-sahm.vizvaz.com
+iran-st.vizvaz.com
 iran-tb.fartit.com
 iran-tb.instanthq.com
 iran-tf.itsaol.com
@@ -77143,6 +77160,7 @@ irs09.com
 irsac.us
 irsad.us
 irsae.us
+irsahm.fartit.com
 irsam.us
 irsat.us
 irsauctions.hugesoft.org
@@ -112842,7 +112860,6 @@ ob98.aoscufe.com
 ob99.aoscufe.com
 oba.media.net
 oba.rus-km.ru
-obashwmzrfofi.com
 obazhaheik.top
 obb-vodacom.akstat.io
 obb.domohoziaka.ru
@@ -133713,6 +133730,7 @@ s9u.site
 s9u5m.voluumtrk.com
 sa-api.visitor-analytics.io
 sa-iran.fartit.com
+sa-iran.vizvaz.com
 sa-only.outbrain.com
 sa-qa.itsaol.com
 sa-stg.perimeterx.net
@@ -133984,10 +134002,16 @@ sah-cq.itsaol.com
 sah-dx.itsaol.com
 sah-fq.itsaol.com
 sah-ir.fartit.com
+sah-ir.vizvaz.com
 sah-ire.itsaol.com
 sah-xp.itsaol.com
+saham-ir.otzo.com
+saham-iran.otzo.com
+saham.camdvr.org
+sahame-ir.fartit.com
 sahamedalat.whi.ir
 sahandkeightg.xyz
+sahanm.camdvr.org
 sahef.itsaol.com
 sahm-ir.faqserv.com
 sahmon.com
@@ -138541,7 +138565,6 @@ signalayer.com
 signals.carrefoursa.com
 signalsparfum.uno
 signalspotsharshly.com
-signauxcinq.com
 signauxdix.com
 signcalamity.com
 significantoperativeclearance.com
