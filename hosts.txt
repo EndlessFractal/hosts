@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 30 September 2023 00:36:25 (UTC)
-# Unique Domains: 177,295
+# Last Update: 01 October 2023 00:42:58 (UTC)
+# Unique Domains: 177,276
 #
 # ===============================================================
 0-0.fr
@@ -12916,6 +12916,8 @@ ad-hatena.com
 ad-img.diyidan.net
 ad-indicator.com
 ad-js.chip.de
+ad-l.mrface.com
+ad-lo.faqserv.com
 ad-locus.com
 ad-log-upload-os.hoyoverse.com
 ad-log.dable.io
@@ -14364,9 +14366,13 @@ adktrack.com
 adku.co
 adku.com
 adkwai.com
+adl--ir.fartit.com
 adl-hunter.com
+adl-i-r.fartit.com
 adl-ir.fartit.com
 adl-iran.otzo.com
+adl-irm.fartit.com
+adl-l.fartit.com
 adl-q.camdvr.org
 adl-vb.vizvaz.com
 adl-xc.faqserv.com
@@ -14391,14 +14397,11 @@ adle-ir.otzo.com
 adleadevent.com
 adleads.com
 adlearnop.advertising.com
-adledel.otzo.com
 adledge.com
 adlegend.com
 adlermode01.webtrekk.net
 adlermodede.widget.criteo.com
 adless.io
-adlgh.mefound.com
-adlgha.yourtrap.com
 adlibr.com
 adlift.ru
 adligature.com
@@ -14407,8 +14410,6 @@ adlince.adk2x.com
 adline.com
 adlink.net
 adliran.camdvr.org
-adliran.dns04.com
-adlirns.itsaol.com
 adlive.io
 adlmerge.com
 adloaded.com
@@ -17233,7 +17234,6 @@ advmusic.net
 advn.ir
 advnet.xyz
 advnetwork.net
-advocaciasch.com.br
 advocacy.ahip.org
 advocard01.wt-eu02.net
 advojhszeat.com
@@ -18658,7 +18658,6 @@ alaskan4kleeskai.com
 alasvow.com
 alatedsoccers.com
 alav.propellerads.com
-alayyadcare.com
 alb.hyprmx.com
 alb.intentmedia.net
 alb.reddit.com
@@ -18771,7 +18770,6 @@ alexiawrites.com
 alexisceilingrelease.com
 alexisplait.com
 alexsander.ch
-alexsazo.com
 alexstewartinternationalltd.rw
 alezanlig.store
 alf-d.openx.net
@@ -29373,7 +29371,6 @@ blablatterbicycle.com
 blabtextmessagephotocopy.com
 black-files.com
 black-friday.ga
-black-sun-a335.asyorfplmnv.workers.dev
 black-tip.top
 black.infobusinessus.org
 black.msnhome.org
@@ -29532,6 +29529,7 @@ blindlytinsel.com
 blindnessdisgustingblessing.com
 blindnessoweincline.com
 blinds.pxf.io
+blindsportssa.org.au
 bling-software.7eer.net
 blingee.crwdcntrl.net
 blingfiles.com
@@ -33798,7 +33796,6 @@ cat.hk.cn.criteo.net
 cat.hlserve.com
 cat.jp.as.criteo.com
 cat.jp2.vip.prod.criteo.com
-cat.lobret.co.za
 cat.nl.eu.criteo.com
 cat.nl3.vip.prod.criteo.com
 cat.ny.us.criteo.com
@@ -39298,7 +39295,6 @@ colonserve.com
 colonytopo.life
 coloradobuffaloes.store
 coloradocollege.store
-coloradokibosafarihostel.co.tz
 colordrives.com
 colorfulafterthought.com
 colorfulimages.7eer.net
@@ -51930,7 +51926,6 @@ eczemagrison.uno
 ed-ir.faqserv.com
 ed-ir.fartit.com
 ed-iran.faqserv.com
-ed-ta.itsaol.com
 ed.2.west.com
 ed.authorizeddns.org
 ed.emp-online.ch
@@ -57840,7 +57835,6 @@ fc.eulerian.com
 fc.eulerian.eu
 fc.eulerian.fr
 fc.eulerian.net
-fc.ftimedica.com
 fc.vodafone.de
 fc.webmasterpro.de
 fc.yahoo.com
@@ -62475,6 +62469,7 @@ galaks.io
 galaktika.mirtesen.ru
 galana.g2afse.com
 galanasorra.com
+galandskiyher3.com
 galantinkoling.com
 galaxiemedia.fr
 galaxy-case.com
@@ -67475,7 +67470,6 @@ greensbroochlozenge.com
 greensmartliving.pxf.io
 greentechsy.com
 greenvaporco.com
-greenvillage.or.tz
 greenweez-uk.eulerian.net
 greenweez.eulerian.net
 greenxfs.down.123ch.cn
@@ -69427,6 +69421,7 @@ hbmp-prebid-server.adtelligent.com
 hbmp-support.adtelligent.com
 hbmp.adtelligent.com
 hbmp.unoadsrv.com
+hbn42414.beget.tech
 hbnygj.com
 hbo.cm
 hbo5.concours-pass.com
@@ -77120,13 +77115,12 @@ ir2.beap.gemini.yahoo.com
 ir3.xyz
 iran-ed.otzo.com
 iran-ird.otzo.com
+iran-kjir.itsaol.com
 iran-sa.faqserv.com
 iran-sa.fartit.com
 iran-sah.fartit.com
 iran-sahm.vizvaz.com
 iran-st.vizvaz.com
-iran-tb.fartit.com
-iran-tb.instanthq.com
 iran-tf.itsaol.com
 iran-tr.itsaol.com
 iran.fartit.com
@@ -77258,6 +77252,7 @@ is-tracking-pixel-api-prod.appspot.com
 is.lg.com
 is.snssdk.com
 isaca.demdex.net
+isaiahbenjamin.top
 isaicham.com
 isaishad.com
 isancio.top
@@ -78437,7 +78432,6 @@ jennydemolish.com
 jennyunfit.com
 jennyvisits.com
 jenonaw.com
-jensin.com.vn
 jenskiymir.mirtesen.ru
 jentent.streampiay.fun
 jeoiaddbrpontoneer.review
@@ -124312,7 +124306,6 @@ pousadavillareal.com
 poushoza.net
 poutauge.net
 poutdecimal.com
-pouya.blob.core.windows.net
 povlnlq.com
 povoarge.com
 povodok-shop.ru
@@ -124836,7 +124829,6 @@ previousplayground.com
 previouspotato.com
 previousscambuild.com
 prevuesthurl.com
-prezemp.com
 prezidentshop.ru
 prezzybox.btttag.com
 prf.hn
@@ -130568,7 +130560,6 @@ resetsrv.com
 resgermany01.webtrekk.net
 reshin.de
 reshownviolina.guru
-reshuld247.click
 reshuntyanan.com
 residelikingminister.com
 residencen.xyz
@@ -132937,7 +132928,6 @@ rustbetakeys.com
 rustds.click
 rustgenerations.com
 rusticaula.com
-rusticironstore.com
 rusticprice.com
 rusticsnoop.com
 rusticswollenbelonged.com
@@ -133846,7 +133836,6 @@ sa-api.visitor-analytics.io
 sa-iran.fartit.com
 sa-iran.vizvaz.com
 sa-only.outbrain.com
-sa-qa.itsaol.com
 sa-stg.perimeterx.net
 sa.adeaz.com
 sa.adidas.be
@@ -134112,13 +134101,9 @@ sagonoll.com
 sagradafamiliacornella.com
 sagrew.com
 sagroagh.com
-sah-cq.itsaol.com
-sah-dx.itsaol.com
-sah-fq.itsaol.com
+sah-adl.my03.com
 sah-ir.fartit.com
 sah-ir.vizvaz.com
-sah-ire.itsaol.com
-sah-xp.itsaol.com
 saham-ir.otzo.com
 saham-iran.otzo.com
 saham.camdvr.org
@@ -134126,7 +134111,6 @@ sahame-ir.fartit.com
 sahamedalat.whi.ir
 sahandkeightg.xyz
 sahanm.camdvr.org
-sahef.itsaol.com
 sahm-ir.faqserv.com
 sahmon.com
 saiceezu.xyz
@@ -167552,7 +167536,6 @@ waggishpig.com
 waggonerchildrensurly.com
 waggonerfoulpillow.com
 wagnal.com
-wahaaudit.ps
 wahahespecked.guru
 wahib.ru
 wahile.com
@@ -169800,7 +169783,6 @@ wishloop.com
 wishmayvaganti.website
 wisig.org
 wisingpianeta.uno
-wispafoods.com
 wisseentasia.tech
 wissen.sage.de
 wister.biz
@@ -170633,7 +170615,6 @@ wsfc-t.topya.com
 wsfc.topya.com
 wsgddl.deporvillage.it
 wshosting.ru
-wshsoft.company
 wsinterfumes.info
 wsipromarketing2.actonsoftware.com
 wsjlbbqemr23.com
