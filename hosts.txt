@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 01 October 2023 00:42:58 (UTC)
-# Unique Domains: 177,276
+# Last Update: 02 October 2023 00:38:13 (UTC)
+# Unique Domains: 177,288
 #
 # ===============================================================
 0-0.fr
@@ -7742,6 +7742,7 @@ a-he.softsolutionbox.net
 a-i-ad.com
 a-if.arrowservice.net
 a-iho.arrowservice.net
+a-ir.vizvaz.com
 a-ja.purpledaily.com
 a-jsm.arrowservice.net
 a-jsm.infobusinessus.org
@@ -14367,13 +14368,19 @@ adku.co
 adku.com
 adkwai.com
 adl--ir.fartit.com
+adl-a.mynetav.org
+adl-c.mrbasic.com
+adl-cv.my03.com
 adl-hunter.com
 adl-i-r.fartit.com
 adl-ir.fartit.com
 adl-iran.otzo.com
 adl-irm.fartit.com
 adl-l.fartit.com
+adl-lo.fartit.com
 adl-q.camdvr.org
+adl-sd.fartit.com
+adl-v.mrbonus.com
 adl-vb.vizvaz.com
 adl-xc.faqserv.com
 adl-zx.fartit.com
@@ -14382,6 +14389,7 @@ adl.camdvr.org
 adl.kinogo.by
 adl.kkguan.com
 adl.mynetreklam.com
+adl.vizvaz.com
 adlabs.ru
 adlabsnetworks.com
 adland.ru
@@ -14402,6 +14410,7 @@ adlegend.com
 adlermode01.webtrekk.net
 adlermodede.widget.criteo.com
 adless.io
+adlg-aa.fartit.com
 adlibr.com
 adlift.ru
 adligature.com
@@ -23383,7 +23392,6 @@ aqua.7eer.net
 aquaaggs.7eer.net
 aquaaston.evergage.com
 aquabibchawed.website
-aquabotnet.xyz
 aquamarine-cotton-impala.glitch.me
 aquaplatform.com
 aquarelle.widget.criteo.com
@@ -48241,7 +48249,6 @@ dissipatecombinedcolon.com
 dissipatedifficulty.com
 dissipatewardentense.com
 dissl.adsame.com
-dissolveddittoteaspoon.com
 dissolveretinue.com
 dissolveshownworthy.com
 dissourfurcule.tech
@@ -77092,6 +77099,7 @@ ir-fr.amazon-adsystem.com
 ir-in.amazon-adsystem.com
 ir-ing-district.clicktale.net
 ir-ing.clicktale.net
+ir-ir.faqserv.com
 ir-it.amazon-adsystem.com
 ir-jp.amazon-adsystem.com
 ir-mx.amazon-adsystem.com
@@ -81767,6 +81775,7 @@ kzuxlydg.icu
 kzv4.wecanimal.it
 kzwwamf.cn
 kzyrg.voluumtrk.com
+l-ir.faqserv.com
 l-t.topya.com
 l-test.civic.com
 l-v1.presage.io
@@ -87522,6 +87531,7 @@ mail.tide.com
 mail.todayusa.org
 mail.tops.co.th
 mail.tp-email.com
+mail.treeoflifeadventures.com
 mail.uk.pg.com
 mail.urlinsgroupemail.com
 mail.usabbs.org
@@ -105058,6 +105068,7 @@ moshi.newzgames.com
 moshicheats.newzgames.com
 moshimonsterscodes.info
 moshimonsterscodes.validcheats.com
+moshito-marketing.com
 mosite.in
 moslemtaxon.guru
 mosputana.info
@@ -116909,7 +116920,6 @@ only2leaked.co
 only4leaked.co
 only4men.ru
 onlyalad.net
-onlyariel.com
 onlyfansrips.com
 onlyfiles.net
 onlyforyou.tech
@@ -137081,6 +137091,7 @@ server1.crazyegg.com
 server1.heatmap.kameleoon.com
 server161164.exchange4media.com
 server19149.exchange4media.com
+server2-slabx.ocmtancmi2c5t.live
 server2.adsplay.in
 server2034.ru
 server3.adsplay.in
@@ -166102,6 +166113,7 @@ vilowhmrea.com
 vilpujzmyhu.com
 vilves.marfeel.com
 vilynx.com
+vimeo.com
 vimgs.ru
 vimpatace.digital
 vimuw.ru
