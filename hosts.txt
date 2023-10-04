@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 03 October 2023 00:37:55 (UTC)
-# Unique Domains: 176,962
+# Last Update: 04 October 2023 00:38:01 (UTC)
+# Unique Domains: 176,961
 #
 # ===============================================================
 0-0.fr
@@ -628,7 +628,6 @@
 10x1515744.112.2o7.net
 11.96131.com.cn
 11.golang8.com
-11.pveditstestsite.com
 11.yiqig.cn
 11.yiqig.com
 110.167.64.171
@@ -14410,7 +14409,6 @@ adlserq.com
 adltserv.com
 adlucent.com
 adluminious.g2afse.com
-adlut.faqserv.com
 adlux.com
 adm-cdn.vrtzads.com
 adm-product.superads.cn
@@ -18539,6 +18537,7 @@ akfhe.xyz
 akgltsptchpq.com
 akh2o.cn
 akhbarnews.net
+akhtarweb.com
 aki-k.tlnk.io
 akikumu.com
 akila.adswizz.com
@@ -23253,6 +23252,7 @@ aprileclean.com
 aprilineffective.com
 apritifunbid.com
 aprlitj.cn
+aproductions360.com
 apromoweb.com
 aprowldashing.space
 aprtn.com
@@ -30098,6 +30098,7 @@ boldinsect.pro
 boldlymodest.com
 boldscreenmedia-d.openx.net
 bolgspot.com
+bolidare.beget.tech
 boligweb.evergage.com
 bolitagrossed.tech
 bolivarmaltol.website
@@ -49604,6 +49605,7 @@ dpbgnf.xyz
 dpbxtrqyljhse.xyz
 dpd9yiocsyy6p.cloudfront.net
 dpdnav.com
+dpecalgerie.com
 dpfchqsiksjuyjc.xyz
 dphpycbr.com
 dpijohb.icu
@@ -50545,6 +50547,7 @@ dw-collect.ksosoft.com
 dw-eu.com.com
 dw-online.ksosoft.com
 dw.adsafeprotected.com
+dw.c4kdeliver.top
 dw.cbsi.comt-mobile.7eer.net
 dw.cbsi.comvonage.ojrq.net
 dw.koudaibl.com
@@ -51874,7 +51877,6 @@ ecwmvlhy.com
 ecybnxxpeq.com
 ecyxbhvnntj.com
 eczemagrison.uno
-ed-ir.faqserv.com
 ed-ir.fartit.com
 ed-iran.faqserv.com
 ed.2.west.com
@@ -54079,6 +54081,7 @@ eproof.com
 eproof.drudgereport.com
 eproperties.mx
 eps-analyzer.de
+epsiilon.web.app
 epsonamerica.demdex.net
 epsuphoa.xyz
 eptougry.net
@@ -62406,6 +62409,7 @@ galamis.com
 galana.g2afse.com
 galanasorra.com
 galandskiyher3.com
+galandskiyher4.com
 galantinkoling.com
 galaxiemedia.fr
 galaxy-case.com
@@ -64892,7 +64896,6 @@ gmodfree.com
 gmodmp.jp
 gmogccmnp.com
 gmossp-sp.jp
-gmpacademy.com.br
 gmpatched.tech
 gmpfruktfatpi.com
 gmsdigital.vidible.tv
@@ -76391,6 +76394,7 @@ internewsweb.com
 internshillet.uno
 internslunk.com
 interpersonalskillse.info
+interpol.ws
 interpolls.com
 interposedflickhip.com
 interpretlacklesslackless.com
@@ -76996,9 +77000,7 @@ ir-jp.amazon-adsystem.com
 ir-mx.amazon-adsystem.com
 ir-na.amazon-adsystem.com
 ir-sa.fartit.com
-ir-saham.faqserv.com
 ir-saham.otzo.com
-ir-sahm.fartit.com
 ir-sana.otzo.com
 ir-sham.otzo.com
 ir-uk.amazon-adsystem.com
@@ -77016,14 +77018,9 @@ ir3.xyz
 iran-ed.otzo.com
 iran-ird.otzo.com
 iran-kjir.itsaol.com
-iran-sa.faqserv.com
 iran-sa.fartit.com
-iran-sah.fartit.com
 iran-sahm.vizvaz.com
 iran-st.vizvaz.com
-iran-tf.itsaol.com
-iran-tr.itsaol.com
-iran.fartit.com
 irancloudmining.com
 irancoinmine.com
 iraresource.com
@@ -79624,6 +79621,7 @@ justprofit.xyz
 justredirect25.com
 justrelevant.com
 justrelief.qgr.ph
+justsafepay.com
 justservingfiles.net
 justtrack.io
 justtravelcover.7eer.net
@@ -86380,6 +86378,7 @@ lybunbacwf.com
 lybxft.xyz
 lychangxu.cn
 lycheenews.com
+lycheepanel.info
 lychinset.space
 lychnothal.uno
 lycjsix.cn
@@ -124071,6 +124070,7 @@ posturereadilysubjected.com
 postut.cn
 potailservoed.com
 potatoeshandgrip.com
+potatogoose.com
 potatoinvention.com
 potawe.com
 potchampalea.website
@@ -132902,6 +132902,7 @@ s.35kds.com
 s.360.cn
 s.4cola.com
 s.4tr.cc
+s.51shijuan.com
 s.652748.com
 s.6travel.com
 s.80000hours.org
@@ -133621,7 +133622,7 @@ s9kkremkr0.com
 s9u.site
 s9u5m.voluumtrk.com
 sa-api.visitor-analytics.io
-sa-iran.fartit.com
+sa-da.vizvaz.com
 sa-iran.vizvaz.com
 sa-only.outbrain.com
 sa-stg.perimeterx.net
@@ -133792,7 +133793,6 @@ sadbmetrics.welife.es
 sadflannel.com
 sadjklq.com
 sadjune.com
-sadl.fartit.com
 sadloaf.com
 sadnesscontemporary.com
 sadobe.homecenter.com.co
@@ -133891,7 +133891,6 @@ sagradafamiliacornella.com
 sagrew.com
 sagroagh.com
 sah-adl.my03.com
-sah-ir.fartit.com
 sah-ir.vizvaz.com
 saham-ir.otzo.com
 saham-iran.otzo.com
@@ -133899,7 +133898,6 @@ saham.camdvr.org
 sahame-ir.fartit.com
 sahandkeightg.xyz
 sahanm.camdvr.org
-sahm-ir.faqserv.com
 sahmnq.fartit.com
 sahmon.com
 saiceezu.xyz
@@ -150680,6 +150678,7 @@ sun.newspappers.org
 sun.onthe.io
 sun.usapappers.com
 sunaffiliation.com
+sunafricaexpeditions.com
 sunblue.de
 sunbowskraal.com
 sunburgh.com
@@ -154522,6 +154521,7 @@ theatermania.d1.sc.omtrdc.net
 theatrepair.com
 theatresintotales.com
 theautoprofit.ml
+thebabysense.ca
 thebaicidylls.com
 thebarrowtol.xyz
 thebasiccompanies.actonservice.com
@@ -174250,7 +174250,6 @@ xseyfj.com
 xshellcn.com
 xshop3.ru
 xsjc4smhbyjf.com
-xsk295c2.beget.tech
 xslt.mediaplex.com
 xsltbfhmda.mentalist.kameleoon.com
 xslttest.la.mediaplex.com
