@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 05 October 2023 00:37:33 (UTC)
-# Unique Domains: 177,094
+# Last Update: 06 October 2023 00:37:35 (UTC)
+# Unique Domains: 177,073
 #
 # ===============================================================
 0-0.fr
@@ -14360,17 +14360,13 @@ adl-hunter.com
 adl-i-r.fartit.com
 adl-ib.faqserv.com
 adl-ir.faqserv.com
-adl-iran.otzo.com
 adl-irm.fartit.com
 adl-l.fartit.com
 adl-lo.fartit.com
-adl-q.camdvr.org
 adl-sd.fartit.com
 adl-v.mrbonus.com
 adl-w.faqserv.com
-adl-xc.faqserv.com
 adl.bankofthewest.com
-adl.camdvr.org
 adl.kinogo.by
 adl.kkguan.com
 adl.mynetreklam.com
@@ -14386,7 +14382,6 @@ adlaunch.moji.com
 adlaunch.qingting.fm
 adlaunch.qtfm.cn
 adlayer.net
-adle-ir.otzo.com
 adleadevent.com
 adleads.com
 adlearnop.advertising.com
@@ -14403,7 +14398,6 @@ adlightning.com
 adlince.adk2x.com
 adline.com
 adlink.net
-adliran.camdvr.org
 adlive.io
 adlmerge.com
 adloaded.com
@@ -26900,6 +26894,7 @@ basic.horseradish.club
 basicpossibility.com
 basicstat.com
 basicware.com
+basicwear-international.eu
 basicwhenpear.com
 basilarendowed.website
 basilic.io
@@ -29478,6 +29473,7 @@ blaze-media.com
 blazemeter.evergage.com
 blazeobservancebough.com
 blazerliftman.website
+blazest4ler.000webhostapp.com
 blazingskins.com
 blazingswatstated.com
 blbazybajjevv.top
@@ -51919,10 +51915,8 @@ ecybnxxpeq.com
 ecyxbhvnntj.com
 eczemagrison.uno
 ed-fr.vizvaz.com
-ed-ir.fartit.com
 ed-sb.vizvaz.com
 ed.2.west.com
-ed.authorizeddns.org
 ed.emp-online.ch
 ed.emp-online.com
 ed.emp-online.es
@@ -52050,6 +52044,7 @@ ediuschina.com
 edjadcscca.com
 edjnkones.com
 edjyx.voluumtrk.com
+edlat.shamdi.cfd
 edlilu.com
 edlnc255s2q.s3.amazonaws.com
 edm-u.com.my
@@ -58556,6 +58551,7 @@ filegreat.com
 fileharmony.com
 filehippo-filehippo.com
 filehorse.com
+filehosting.linkpc.net
 filehostingz.com
 filehubonline.com
 filehuge.com
@@ -77062,28 +77058,19 @@ ir-it.amazon-adsystem.com
 ir-jp.amazon-adsystem.com
 ir-mx.amazon-adsystem.com
 ir-na.amazon-adsystem.com
-ir-sa.fartit.com
-ir-saham.otzo.com
-ir-sana.otzo.com
-ir-sham.otzo.com
 ir-uk.amazon-adsystem.com
 ir.7eer.net
 ir.ads.justpremium.com
 ir.criteo.com
 ir.doubleclick.net
 ir.info.lgsmartad.com
-ir.isasecret.com
 ir.mail.163.com
 ir.mihanstore.net
 ir.mrface.com
 ir2.beap.gemini.yahoo.com
 ir3.xyz
-iran-ed.otzo.com
-iran-ird.otzo.com
 iran-kjir.itsaol.com
-iran-sa.fartit.com
 iran-sahm.vizvaz.com
-iran-st.vizvaz.com
 irancloudmining.com
 irancoinmine.com
 iraresource.com
@@ -77190,7 +77177,6 @@ irsac.us
 irsad.us
 irsae.us
 irsaham1402.site
-irsahm.fartit.com
 irsam.us
 irsat.us
 irsauctions.hugesoft.org
@@ -85780,7 +85766,6 @@ loudloss.com
 loudlunch.com
 loudmemory.pro
 loudnotchbrains.com
-loudsjack.com
 loudtalk.net
 loufile.ru
 louisaprocedureegoism.com
@@ -88278,7 +88263,6 @@ mailfdf.com
 mailfirewall.de
 mailguardonline.net
 mailguixt.actonsoftware.com
-mailhosting.click
 mailhotline.de
 mailhotline.eu
 mailieungka.com
@@ -124481,6 +124465,7 @@ precisioncoating.actonsoftware.com
 precisioncounter.com
 precisionsuccessfullycommemorate.com
 precoilrowlock.digital
+preconcert.pw
 precrack.com
 predataclient.b-cdn.net
 predatasrv.com
@@ -133725,7 +133710,6 @@ s9u.site
 s9u5m.voluumtrk.com
 sa-api.visitor-analytics.io
 sa-da.vizvaz.com
-sa-iran.vizvaz.com
 sa-only.outbrain.com
 sa-stg.perimeterx.net
 sa.adeaz.com
@@ -133993,13 +133977,7 @@ sagradafamiliacornella.com
 sagrew.com
 sagroagh.com
 sah-adl.my03.com
-sah-ir.vizvaz.com
-saham-ir.otzo.com
-saham-iran.otzo.com
-saham.camdvr.org
-sahame-ir.fartit.com
 sahandkeightg.xyz
-sahanm.camdvr.org
 sahmnq.fartit.com
 sahmon.com
 saiceezu.xyz
@@ -172950,6 +172928,7 @@ www.trafforsrv.com
 www.trail-route.com
 www.trail-web.com
 www.training.demandbase.com
+www.transportesevaristomadero.com
 www.treasuredata.com
 www.trfpump.com
 www.triplelift.com
