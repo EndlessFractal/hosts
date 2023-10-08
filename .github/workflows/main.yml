@@ -39,3 +39,16 @@ jobs:
           git add hosts.txt
           git commit -am "Update hosts file"
           git push
+
+      - name: Cleanup old workflow runs
+        run: |
+          runsToDelete=$(curl -s -X GET \
+            -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/runs" | \
+            jq -r '.workflow_runs | sort_by(.created_at) | .[:-5] | .[] | .id')
+          
+          for runId in $runsToDelete; do
+            curl -s -X DELETE \
+              -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
+              "https://api.github.com/repos/${{ github.repository }}/actions/runs/$runId"
+          done
