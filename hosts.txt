@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 08 October 2023 20:40:39 (UTC)
-# Unique Domains: 177,146
+# Last Update: 08 October 2023 20:43:59 (UTC)
+# Unique Domains: 177,145
 #
 # ===============================================================
 0-0.fr
@@ -108756,7 +108756,6 @@ mzyfkfj.com
 mzzxfib.com
 n-ad-bg.adwo.com
 n-analytics.io
-n-core-pipe.com
 n.35kds.com
 n.3g.163.com
 n.a.mosenni.com
