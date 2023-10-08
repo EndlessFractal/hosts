@@ -1,9 +1,7 @@
 name: Update Hosts
 
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
     
