@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 07 October 2023 00:37:00 (UTC)
-# Unique Domains: 177,140
+# Last Update: 08 October 2023 00:40:24 (UTC)
+# Unique Domains: 177,146
 #
 # ===============================================================
 0-0.fr
@@ -11560,6 +11560,7 @@ aa.com.ssl.d1.sc.omtrdc.net
 aa.goodsblock.mgid.com
 aa.gushiwen.org
 aa.hwigroup.com
+aa.jaoaaoas11.com
 aa.newsblock.mgid.com
 aa.online-metrix.net
 aa.pornvideotop.com
@@ -12910,8 +12911,6 @@ ad-hatena.com
 ad-img.diyidan.net
 ad-indicator.com
 ad-js.chip.de
-ad-l.mrface.com
-ad-lo.faqserv.com
 ad-locus.com
 ad-log-upload-os.hoyoverse.com
 ad-log.dable.io
@@ -14360,16 +14359,13 @@ adktrack.com
 adku.co
 adku.com
 adkwai.com
-adl--ir.fartit.com
 adl-a.mynetav.org
 adl-c.mrbasic.com
 adl-cv.my03.com
 adl-hunter.com
-adl-i-r.fartit.com
 adl-ib.faqserv.com
 adl-ir.faqserv.com
 adl-irm.fartit.com
-adl-l.fartit.com
 adl-lo.fartit.com
 adl-sd.fartit.com
 adl-v.mrbonus.com
@@ -29527,7 +29523,6 @@ blindlytinsel.com
 blindnessdisgustingblessing.com
 blindnessoweincline.com
 blinds.pxf.io
-blindsportssa.org.au
 bling-software.7eer.net
 blingee.crwdcntrl.net
 blingfiles.com
@@ -39525,6 +39520,7 @@ commsvc.geo.de
 commsvc.stern.de
 commsvc.urbia.de
 commsvc.vorname.com
+communicalink.com
 communicatelp.keysight.com
 communicatequietboost.com
 communicatie.nti.nl
@@ -51961,6 +51957,7 @@ edaba01.webtrekk.net
 edaciousedaciousindexesbrief.com
 edaciousedaciousozgiggle.com
 edakgfvwql.ru
+edalat-shan.com
 edalloverwiththinl.info
 edassiumw.xyz
 edat01.webtrekk.net
@@ -62471,7 +62468,6 @@ galaktika.mirtesen.ru
 galamis.com
 galana.g2afse.com
 galanasorra.com
-galandskiyher3.com
 galandskiyher4.com
 galantinkoling.com
 galaxiemedia.fr
@@ -69421,7 +69417,6 @@ hbmp-prebid-server.adtelligent.com
 hbmp-support.adtelligent.com
 hbmp.adtelligent.com
 hbmp.unoadsrv.com
-hbn42414.beget.tech
 hbo.cm
 hbo5.concours-pass.com
 hboffshadh.com
@@ -78567,6 +78562,7 @@ jhzfwl.cn
 jhzotqafwgb.com
 jhzwle.ryuryumall.jp
 ji.8881919.cc
+ji.fhauiehgha.com
 ji3ney80w0.mentalist.kameleoon.com
 jial.lafrikileria.com
 jian18.mumu01.com
@@ -88457,6 +88453,7 @@ malikiresids.com
 malinesmanses.com
 maliva-mcs.byteoversea.com
 mall0.qiyipic.com
+mallasprogalv.com
 malleibidding.com
 malletaskewbrittle.com
 malletpharmacy.com
@@ -94758,16 +94755,19 @@ mkt11722.com
 mkt11723.com
 mkt11724.com
 mkt11725.com
+mkt11726.com
 mkt11727.com
 mkt11728.com
 mkt11729.com
 mkt1173.com
 mkt11736.com
 mkt11737.com
+mkt11738.com
 mkt1174.com
 mkt11749.com
 mkt1175.com
 mkt117528.com
+mkt11753.com
 mkt1176.com
 mkt11761.com
 mkt11763.com
@@ -94775,6 +94775,7 @@ mkt1177.com
 mkt1178.com
 mkt1179.com
 mkt1180.com
+mkt11801.com
 mkt1181.com
 mkt1182.com
 mkt1183.com
@@ -111743,6 +111744,7 @@ npracticalwhich.com
 nprove.com
 nprrhn.com
 npscu.ca.102.112.2o7.net
+npskudlu.com
 nptkpt.vangraaf.com
 npttech.com
 npufamaclazl.com
@@ -118504,6 +118506,7 @@ oxfordenglishonline.com
 oxharmonysample.com
 oxidy.com
 oxifwsabgd.nzz.ch
+oximedbolivia.com
 oxjapan-d.openx.net
 oxkgcefteo.com
 oxkpbuv.com
@@ -125570,6 +125573,7 @@ protectedfolkssomebody.com
 protectedpeat.com
 protectheader.com
 protecthumor.com
+protectionabate.com
 protectionservces.com
 protectionservices.info
 protectivelife.btttag.com
@@ -134026,7 +134030,8 @@ sagonoll.com
 sagradafamiliacornella.com
 sagrew.com
 sagroagh.com
-sah-adl.my03.com
+saham-b.skcarriages.com
+saham-cs.skcarriages.com
 sahandkeightg.xyz
 sahmnq.fartit.com
 sahmon.com
@@ -150818,6 +150823,7 @@ sun.onthe.io
 sun.usapappers.com
 sunaffiliation.com
 sunafricaexpeditions.com
+sunbabsco.com
 sunblue.de
 sunbowskraal.com
 sunburgh.com
@@ -163210,7 +163216,6 @@ upload.mobpowertech.com
 upload.weiguanai.cn
 uploadamigo.com
 uploadcash.org
-uploaddeimagens.com.br
 uploaderonline.com
 uploaders.biz
 uploadfilefast.com
@@ -171824,6 +171829,7 @@ www.g.switchadhub.com
 www.galkantress.win
 www.gameanalytics.com
 www.games.mgid.com
+www.gamexeasy.site
 www.gard4mass.com
 www.gateway.ifc.inmobi.com
 www.gawayez.e-postserv.com
