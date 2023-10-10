@@ -9,12 +9,19 @@ with open("list.txt", "r") as file:
 # Fetch and process host files from each URL
 unique_domains = set()
 for url in urls:
-    with requests.get(url) as response:
-        lines = response.text.splitlines()
-        lines = [re.sub(r"\s+#.*$", "", line) for line in lines]
-        lines = [line.strip().replace("||", "").replace("^", "") for line in lines if line and not line.startswith(("#", "::1"))]
-        domains = [re.sub(r"^(?:\d{1,3}\.){3}\d{1,3} ", "", line).strip().lower() for line in lines if "." in line]
-        unique_domains.update(domains)
+    try:
+        with requests.get(url) as response:
+            if response.status_code == 200:
+                lines = response.text.splitlines()
+                lines = [re.sub(r"\s+#.*$", "", line) for line in lines]
+                lines = [line.strip().replace("||", "").replace("^", "") for line in lines if line and not line.startswith(("#", "::1"))]
+                domains = [re.sub(r"^(?:\d{1,3}\.){3}\d{1,3} ", "", line).strip().lower() for line in lines if "." in line]
+                unique_domains.update(domains)
+            else:
+                print(f"Failed to fetch {url}. Skipping...")
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching {url}: {e}")
+        continue
 
 # Remove "localhost" from the unique domains
 unique_domains.discard("localhost")
