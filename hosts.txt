@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 12 October 2023 00:35:49 (UTC)
-# Unique Domains: 177,306
+# Last Update: 13 October 2023 00:38:34 (UTC)
+# Unique Domains: 177,305
 #
 # ===============================================================
 0-0.fr
@@ -77497,7 +77497,6 @@ ithmehecr.xyz
 itienlo.top
 itim.vn
 itineraryborn.com
-itinerarycarter.com
 itinerarymonarchy.com
 itineraryupper.com
 itinfo.firefoxupdata.com
