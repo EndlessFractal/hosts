@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 17 October 2023 00:38:17 (UTC)
-# Unique Domains: 177,521
+# Last Update: 18 October 2023 00:37:58 (UTC)
+# Unique Domains: 177,535
 #
 # ===============================================================
 0-0.fr
@@ -14415,6 +14415,7 @@ adlaunch.moji.com
 adlaunch.qingting.fm
 adlaunch.qtfm.cn
 adlayer.net
+adld.vizvaz.com
 adleadevent.com
 adleads.com
 adlearnop.advertising.com
@@ -14423,7 +14424,9 @@ adlegend.com
 adlermode01.webtrekk.net
 adlermodede.widget.criteo.com
 adless.io
+adlgs.itsaol.com
 adlh-sn.fartit.com
+adli-q.fartit.com
 adlibr.com
 adlift.ru
 adligature.com
@@ -14431,6 +14434,7 @@ adlightning.com
 adlince.adk2x.com
 adline.com
 adlink.net
+adliq.faqserv.com
 adlive.io
 adlmerge.com
 adloaded.com
@@ -14447,12 +14451,15 @@ adlook.net
 adloop.co
 adlooxtracking.com
 adlpartner.com
+adlq.itsaol.com
 adls.suning.com
 adlserq.com
 adltserv.com
 adlucent.com
 adluminious.g2afse.com
 adlux.com
+adlv.mrface.com
+adlv.my03.com
 adm-cdn.vrtzads.com
 adm-product.superads.cn
 adm-vids.info
@@ -52038,6 +52045,7 @@ ed.emp.fi
 ed.emp.ie
 ed.large.be
 ed.large.nl
+ed.saeara.rest
 ed028aa9c4.com
 ed11f01827.com
 ed2go.pxf.io
@@ -58712,6 +58720,7 @@ files.revcontent.com
 files.sharethrough.com
 files.vertamedia.com
 files2.adform.net
+files2.dp.ua
 files2.sogou.com
 files5.adform.net
 files59.com
@@ -133010,6 +133019,7 @@ rummagyatelets.digital
 rummilycavils.com
 rummovehell.live
 rummyaffiliates.com
+rummygoplay.in
 rumnessdebtor.guru
 rumpelshtilzhen.mirtesen.ru
 rumpelstiltskinhead.com
@@ -134304,6 +134314,7 @@ sagrew.com
 sagroagh.com
 saham-w.itsaol.com
 sahandkeightg.xyz
+sahaqm.itsaol.com
 sahmnwq.fartit.com
 sahmon.com
 saiceezu.xyz
@@ -135269,6 +135280,7 @@ schedfi.com
 schedule.aimtell.com
 schema-registry.webtrekk.com
 schemas.microsoft.akadns.net
+schematize.pw
 scheme.mobpowertech.com
 schemeabsolutejanuary.com
 schemedromic.digital
@@ -156361,6 +156373,7 @@ tmp-heliosiq.adtech.de
 tmp-heliosiq.adtechus.com
 tmp.hnshanju.com
 tmpbr.getgifted.com
+tmpfiles.org
 tmpgames.com
 tmrhoe2.com
 tmrjaghtledm.com
@@ -167852,6 +167865,7 @@ wallet.urbanairship.com
 wallhackblackops2.com
 wallinside.top
 wallmanswiftie.uno
+wallpapercave.com
 wallpaperdesk.info
 wallpapers-all.com
 wallpapersfacts.com
