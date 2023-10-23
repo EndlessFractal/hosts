@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 22 October 2023 00:40:34 (UTC)
-# Unique Domains: 177,713
+# Last Update: 23 October 2023 00:38:07 (UTC)
+# Unique Domains: 177,715
 #
 # ===============================================================
 0-0.fr
@@ -24029,6 +24029,7 @@ asbr01b.tm-hkg-1a.tubemogul.com
 asbr01b.tm-sjc-1a.tubemogul.com
 asbulbasaura.com
 asbutiseemedli.com
+asc.itsaol.com
 asc.solidworks.com
 ascaredresue.space
 asccdn.com
@@ -24310,6 +24311,7 @@ aspringer01.wt-eu02.net
 aspservice.jp
 aspspider.info
 aspydrearly.digital
+asq.dns05.com
 asqconn.com
 asqyyz.com
 asr.ladsp.jp
@@ -55202,7 +55204,6 @@ euitx.cn
 euizhltcd6ih.com
 eukova.com
 eulal-cnr.com
-eulatracking-public-service-prod.ol.epicgames.com
 eule1.pmu.fr
 eule3.pmu.fr
 eule4.pmu.fr
@@ -77366,6 +77367,7 @@ ireraisin.com
 irethertoldimn.xyz
 irgayuwmhj.com
 irgvfdwicqerqfy.com
+irhg.fartit.com
 iri.infosupports.com
 iri.worthhummer.net
 iridize993pf.pw
