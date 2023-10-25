@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 24 October 2023 00:37:34 (UTC)
-# Unique Domains: 177,783
+# Last Update: 25 October 2023 00:37:32 (UTC)
+# Unique Domains: 177,778
 #
 # ===============================================================
 0-0.fr
@@ -14402,7 +14402,6 @@ adku.co
 adku.com
 adkwai.com
 adl-hunter.com
-adl-nw.itsaol.com
 adl.bankofthewest.com
 adl.kinogo.by
 adl.kkguan.com
@@ -14427,8 +14426,6 @@ adlegend.com
 adlermode01.webtrekk.net
 adlermodede.widget.criteo.com
 adless.io
-adlgs.itsaol.com
-adli-q.fartit.com
 adlibr.com
 adlift.ru
 adligature.com
@@ -14436,7 +14433,6 @@ adlightning.com
 adlince.adk2x.com
 adline.com
 adlink.net
-adliq.faqserv.com
 adlive.io
 adlmerge.com
 adloaded.com
@@ -14452,7 +14448,6 @@ adlook.net
 adloop.co
 adlooxtracking.com
 adlpartner.com
-adlq.itsaol.com
 adlriran.com
 adls.suning.com
 adlserq.com
@@ -14460,8 +14455,6 @@ adltserv.com
 adlucent.com
 adluminious.g2afse.com
 adlux.com
-adlv.mrface.com
-adlv.my03.com
 adm-cdn.vrtzads.com
 adm-product.superads.cn
 adm-vids.info
@@ -23257,6 +23250,7 @@ appspy.net
 appsspear.offerstrack.net
 appstage.redtrack.io
 appstat.petafuel.net
+appstopic.com
 appsumo.pxf.io
 appsunion.offerstrack.net
 appsunlocker.com
@@ -52096,7 +52090,6 @@ ed.emp.fi
 ed.emp.ie
 ed.large.be
 ed.large.nl
-ed.saeara.rest
 ed028aa9c4.com
 ed11f01827.com
 ed2go.pxf.io
@@ -58780,7 +58773,6 @@ files.revcontent.com
 files.sharethrough.com
 files.vertamedia.com
 files2.adform.net
-files2.dp.ua
 files2.sogou.com
 files5.adform.net
 files59.com
@@ -74837,6 +74829,7 @@ img.ninebox.cn
 img.phone.baidu.com
 img.prod.vidible.tv
 img.propellerads.com
+img.proxies.world
 img.pt2.atdmt.com
 img.revcontent.com
 img.s8bbs.com
@@ -78421,6 +78414,7 @@ jaseysbionomy.com
 jashautchord.com
 jasheest.xyz
 jasjei2ejk.ru
+jasongraves.top
 jaspe.com
 jasper.112.2o7.net
 jasper.d3.sc.omtrdc.net
@@ -80411,6 +80405,7 @@ kartenmachereide.widget.criteo.com
 kartingsoja.com
 kartinka.com.ua
 karvarcloit.com
+karyaindahperkasa.com
 kas-media.answers.studio
 kasamba-webtracksdk.optimove.net
 kascarpet.net
@@ -83198,6 +83193,7 @@ legacy.clickability.com
 legacy.demandbase.com
 legacy.vungle.com
 legacyjoin.com
+legacysurvival.fr
 legal.marketo.com
 legalavouch.com
 legalissuereport.com
@@ -128253,6 +128249,7 @@ qtuwrazawtpa.com
 qtuxulczymu.com
 qtyaqzaglo.com
 qtycwy.modivo.cz
+qu.ax
 qu96.com
 qua.businessconsults.net
 qua.etr.im
@@ -133210,7 +133207,6 @@ rummagyatelets.digital
 rummilycavils.com
 rummovehell.live
 rummyaffiliates.com
-rummygoplay.in
 rumnessdebtor.guru
 rumpelshtilzhen.mirtesen.ru
 rumpelstiltskinhead.com
@@ -134504,7 +134500,6 @@ sagradafamiliacornella.com
 sagrew.com
 sagroagh.com
 sahandkeightg.xyz
-sahaqm.itsaol.com
 sahmon.com
 saiceezu.xyz
 saidflightmusician.com
@@ -135470,7 +135465,6 @@ schedfi.com
 schedule.aimtell.com
 schema-registry.webtrekk.com
 schemas.microsoft.akadns.net
-schematize.pw
 scheme.mobpowertech.com
 schemeabsolutejanuary.com
 schemedromic.digital
@@ -153193,6 +153187,7 @@ tagserverv3.touchcommerce.com
 tagsrvcs.com
 tagstatic.com
 tagstaticx.com
+tagsystems3.s3.eu-de.cloud-object-storage.appdomain.cloud
 tagtracking.vibescm.com
 tagtray.com
 tagun.xyz
@@ -156579,7 +156574,6 @@ tmp-heliosiq.adtech.de
 tmp-heliosiq.adtechus.com
 tmp.hnshanju.com
 tmpbr.getgifted.com
-tmpfiles.org
 tmpgames.com
 tmrhoe2.com
 tmrjaghtledm.com
@@ -163921,6 +163915,7 @@ urbanarade.widget.criteo.com
 urbancheats.com
 urbanindo.qgr.ph
 urbanmedia-d.openx.net
+urbanrecords.buzz
 urbantoronto.ca
 urbard.com
 urbia.de.intellitxt.com
