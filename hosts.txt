@@ -4,7 +4,7 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 28 October 2023 00:36:18 (UTC)
+# Last Update: 29 October 2023 00:40:03 (UTC)
 # Unique Domains: 177,776
 #
 # ===============================================================
@@ -11652,7 +11652,6 @@ aarswtcnoz.com
 aarth.com
 aarth.net
 aasingapore.cn
-aaslab.org
 aasrs.info
 aat1.addapptr.com
 aat2.addapptr.com
@@ -13903,6 +13902,7 @@ addrevenue.io
 addroid.com
 addroplet.com
 addshoppers.t.domdex.com
+addtactical.com
 addtakingcontinuous.com
 addthief.com
 addthis.com
@@ -23665,7 +23665,6 @@ arkusdt.com
 arkxmusk.com
 arlime.com
 arlyreven.top
-arm-cc.com
 arm.c.appier.net
 arm.rubiconproject.com
 armandthiery.fr.eulerian.net
@@ -48550,6 +48549,7 @@ dl05.casalemedia.com
 dl06.casalemedia.com
 dl07.casalemedia.com
 dl08.casalemedia.com
+dl1-broomcleaner.online
 dl11.casalemedia.com
 dl1d2m8ri9v3j.cloudfront.net
 dl37p9e5e1vn0.cloudfront.net
@@ -51684,7 +51684,6 @@ ebisstore.tamagokichi.com
 ebistoppan1.kyowahakko-bio-campaign-1.com
 ebjfjdaagjhdchgfacg.ru
 ebl-hot.com
-eblaguwonmir.cfd
 eblastengine.com
 ebmlsvw.cn
 ebmzp.top
@@ -59845,6 +59844,7 @@ foodnetwork.ca.ssl.d1.sc.omtrdc.net
 foodnetworkstore.d1.sc.omtrdc.net
 foodoratrack.optimove.net
 foodowingweapon.com
+foodremit.com
 foodsafetyandhygiene-test.inthere.link
 foodsafetyandhygiene.inthere.link
 foodspring01.wt-eu02.net
@@ -68707,7 +68707,6 @@ hacker-compte-fb.com
 hacker-facebook.fr
 hacker-un-compte-facebook.com
 hacker-zonee.com
-hacker.548848.xyz
 hacker2014.com
 hackercomptefacebook.fr
 hackerfbhack.com
@@ -77274,7 +77273,6 @@ iraresource.com
 irbisennuis.com
 irbout.com
 irc.eu.criteo.net
-ircftp.net
 irdanen.ru
 ire-dsc.shalltry.com
 ire-dsu.shalltry.com
@@ -95025,11 +95023,13 @@ mkt11736.com
 mkt11737.com
 mkt11738.com
 mkt1174.com
+mkt11743.com
 mkt11749.com
 mkt1175.com
 mkt11750.com
 mkt117528.com
 mkt11753.com
+mkt11756.com
 mkt1176.com
 mkt11760.com
 mkt11761.com
@@ -95050,6 +95050,7 @@ mkt11809.com
 mkt1181.com
 mkt11810.com
 mkt11812.com
+mkt11815.com
 mkt11817.com
 mkt1182.com
 mkt1183.com
@@ -127348,6 +127349,7 @@ pvmax.net
 pvmsite.zol.com.cn
 pvnwap.zol.com.cn
 pvoheg.bubbleroom.se
+pvp-rivals.com
 pvqnwg.com
 pvqzggfkuxum.com
 pvranking.com
@@ -130472,7 +130474,6 @@ reminderdate.com
 reminews.com
 remintrex.com
 remipedembosk.com
-remisat.com.uy
 remisspig.com
 remkompov.ru
 remnas.com
@@ -168075,7 +168076,6 @@ wallet.urbanairship.com
 wallhackblackops2.com
 wallinside.top
 wallmanswiftie.uno
-wallpapercave.com
 wallpaperdesk.info
 wallpapers-all.com
 wallpapersfacts.com
