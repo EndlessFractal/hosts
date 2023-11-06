@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 05 November 2023 00:40:56 (UTC)
-# Unique Domains: 178,066
+# Last Update: 06 November 2023 00:39:02 (UTC)
+# Unique Domains: 178,067
 #
 # ===============================================================
 0-0.fr
@@ -57755,6 +57755,7 @@ fatwa1.com
 fatwalkinger.club
 fatzuclmihih.com
 faucet.com.102.112.2o7.net
+faucetmeaning.com
 faucons.viessmann.fr
 faudouglaitu.com
 faulterdeplume.com
@@ -65105,7 +65106,6 @@ gmailboxes.com
 gmailhack.top
 gmailhackerpro.com
 gmanetwork.info
-gmarketing.com
 gmasrjx.cn
 gmatch.adsame.com
 gmauo.com
@@ -132194,6 +132194,7 @@ robcohatru.ru
 robedgenu.life
 rober-srr.com
 robertboschllc.d1.sc.omtrdc.net
+robertcook.top
 robescampus.com
 robflea.com
 robig.ru
