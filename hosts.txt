@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 12 November 2023 00:41:27 (UTC)
-# Unique Domains: 178,020
+# Last Update: 13 November 2023 00:39:33 (UTC)
+# Unique Domains: 178,019
 #
 # ===============================================================
 0-0.fr
@@ -166767,7 +166767,6 @@ vinculastags.store
 vindicosuite.com
 vindictushack.us
 vine.evyy.net
-vinegarfactorelevator.com
 vinfdv6b4j.com
 vingartistictaste.com
 vinlens.com
