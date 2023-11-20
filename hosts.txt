@@ -4,7 +4,7 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 19 November 2023 00:42:51 (UTC)
+# Last Update: 20 November 2023 00:40:32 (UTC)
 # Unique Domains: 178,362
 #
 # ===============================================================
@@ -66969,6 +66969,7 @@ gons16c.top
 gons18cl.top
 gons19cl.top
 gons20cl.top
+gons22cl.top
 gons2cl.top
 gontent.powzers.lol
 gonx.xyz
@@ -141134,7 +141135,6 @@ smetrics.citibank.ae
 smetrics.citibank.co.uk
 smetrics.citibank.com.au
 smetrics.citibank.com.hk
-smetrics.citibank.com.my
 smetrics.citibank.com.ph
 smetrics.citibank.com.sg
 smetrics.citibank.com.vn
@@ -155906,6 +155906,7 @@ thespreadsheetguru.7eer.net
 thespreadsheetguru.evyy.net
 thestat.net
 thestatueoftheap.info
+thesteampowered.help
 thesun.stream1.fyre.co
 thesupercheats.com
 thesushiring.com
@@ -173260,7 +173261,6 @@ www.lenzmx.com
 www.lessplay.com
 www.letterbox-path.com
 www.letterboxtrail.com
-www.lettsplay.org.es
 www.lgsmartad.com
 www.liadm.com
 www.ligastavok.ru
