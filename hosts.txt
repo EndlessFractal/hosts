@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 30 November 2023 00:40:02 (UTC)
-# Unique Domains: 178,932
+# Last Update: 01 December 2023 00:43:46 (UTC)
+# Unique Domains: 178,928
 #
 # ===============================================================
 0-0.fr
@@ -2106,7 +2106,6 @@
 2023-tesla.net
 2023-tesla.org
 2023-xrp.com
-2023.filemail.com
 2023elon.com
 2023elon.io
 2023eventtesla.com
@@ -26339,7 +26338,6 @@ badahub.com
 badanaproof.com
 badanaproof98.com
 badanaproof998.com
-badbull.pro
 badchad.net
 badding.oss-ap-southeast-1.aliyuncs.com
 badexplainimmigrant.com
@@ -43394,7 +43392,6 @@ cynes-gwf.com
 cynicalspireheroism.com
 cynicsmytilid.website
 cynogage-video-dsp.rtb.adx1.com
-cynorix.com
 cynshare.com
 cyohmj.catawiki.com
 cyonix.to
@@ -63997,6 +63994,7 @@ gerhi-psv.com
 german.filminstan.pw
 germaniavid.com
 germanplumpcries.com
+germansl.com
 germanwearde.widget.criteo.com
 germanwingsde.widget.criteo.com
 germany20.112.2o7.net
@@ -67127,7 +67125,6 @@ gongyuxinxi.xyz
 goniforas.com
 gonomy.info
 gonpc.com
-gons26cl.top
 gons27cl.top
 gons28cl.top
 gons30cl.top
@@ -68849,7 +68846,6 @@ h12h.fun
 h12srv.adk2x.com
 h14-a.tlnk.io
 h15maincat.com
-h171741.srv22.test-hf.su
 h1d1rxoosv.kameleoon.eu
 h1h-m.tlnk.io
 h1t.site
@@ -75970,7 +75966,6 @@ infles.com
 inflictgive.com
 inflictmistycarlos.com
 inflictrind.com
-inflowingagency.com
 influads.com
 influencedfable.com
 influencer.picklebutnotcucumber.com
@@ -77875,7 +77870,6 @@ iskalko.ru
 iskussnica.ru
 islamclick.ru
 islamistina.mirtesen.ru
-islammagdy.com
 islandbluecoffee.net
 islandofhacks.com
 islandsavings.ca.102.112.2o7.net
@@ -88095,6 +88089,7 @@ magoosfurniture.com
 magotschnell.uno
 magreprints.com
 magsrv.com
+magulam1.x24hr.com
 magutr.pro
 mahabaliexpress.com
 mahaidroagra.com
@@ -110273,7 +110268,6 @@ nayaka.biz
 naysaywinless.guru
 naytev.com
 naywordumiaks.website
-nazarenoagape.com.br
 nazvsat.ru
 nb-s.lemnisk.co
 nb-uae.com
@@ -122298,6 +122292,7 @@ phoenix-widget.com
 phoenix.polarmobile.com
 phoenixad.io
 phoenixbeta.pubmatic.com
+phoenixexec.icu
 phoenixtvus.com
 phoeniz.in-viacom18.videoplaza.tv
 phog.ycombinator.com
@@ -162825,6 +162820,7 @@ twitterprofilespy.info
 twityter.com
 twiz.wizaly.co.uk
 twiz.wizaly.fr
+twizt.net
 twk1b.voluumtrk.com
 twkcbfwam.com
 twlcyc.cn
