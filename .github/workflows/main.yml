@@ -32,6 +32,12 @@ jobs:
         run: |
           python upd_hosts.py
 
+      - name: Commit and push changes
+        run: |
+          git add hosts.txt
+          git commit -am "Update hosts file"
+          git push
+
       - name: Cleanup old workflow runs
         run: |
           api_response=$(curl -s -X GET \
