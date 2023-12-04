@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 03 December 2023 14:54:36 (UTC)
-# Unique Domains: 178,217
+# Last Update: 04 December 2023 00:40:31 (UTC)
+# Unique Domains: 178,216
 #
 # ===============================================================
 0-0.fr
@@ -20007,7 +20007,6 @@ analytics.freemake.com
 analytics.freespee.com
 analytics.fs-bdash.com
 analytics.fsoft.com.vn
-analytics.functionofbeauty.com
 analytics.gamedatacrunch.com
 analytics.gameforge.de
 analytics.gamesdrive.net
