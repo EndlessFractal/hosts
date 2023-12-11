@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 10 December 2023 00:43:18 (UTC)
-# Unique Domains: 178,336
+# Last Update: 11 December 2023 00:41:06 (UTC)
+# Unique Domains: 178,335
 #
 # ===============================================================
 0-0.fr
@@ -136480,7 +136480,6 @@ se-aftonbladet.videoplaza.tv
 se-bambuser.a.videoplaza.tv
 se-bambuser.cdn.videoplaza.tv
 se-bambuser.videoplaza.tv
-se-core-pipe.com
 se-dn.cdn.videoplaza.tv
 se-dn.videoplaza.tv
 se-expressen.a.videoplaza.tv
