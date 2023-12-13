@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 12 December 2023 00:40:36 (UTC)
-# Unique Domains: 177,829
+# Last Update: 13 December 2023 00:40:09 (UTC)
+# Unique Domains: 177,832
 #
 # ===============================================================
 0-0.fr
@@ -1219,6 +1219,7 @@
 170040.measurementapi.com
 170130.measurementapi.com
 17014.engine.mobileapptracking.com
+1702359462214.kxwstg.com
 1704100.fls.doubleclick.net
 170518.measurementapi.com
 170552.measurementapi.com
@@ -38048,6 +38049,7 @@ cmqjims.com
 cmrdr.com
 cmrewards.site
 cmrrsale.xyz
+cms-sh.de
 cms-xch.33across.com
 cms.addapptr.com
 cms.adrise.com
@@ -52681,6 +52683,7 @@ elevatedidentify.com
 elevationadvertising.com
 elevationsj.com
 eleven05media-d.openx.net
+elevenexpress.com.co
 elevoy.ru
 elex.adk2x.com
 elfcoexistbird.com
@@ -76704,6 +76707,7 @@ international.canadatvsite.com
 internationalguardianminute.com
 interndry.com
 internet.degoo.com
+internetareal.net.br
 internetmap.info
 internetrepublik01.webtrekk.net
 internetworld.de.intellitxt.com
@@ -77501,7 +77505,6 @@ iskalko.ru
 iskussnica.ru
 islamclick.ru
 islamistina.mirtesen.ru
-islammagdy.com
 islandbluecoffee.net
 islandofhacks.com
 islandsavings.ca.102.112.2o7.net
@@ -108734,6 +108737,7 @@ my.gmads.mookie1.com
 my.golosplus.ru
 my.hellobar.com
 my.hmheducation.com
+my.hoqer.com
 my.info.lgsmartad.com
 my.internationalsos.com
 my.iso.com
@@ -119982,6 +119986,7 @@ panyh123456.cn
 paobto.cyou
 paol.chartbeat.net
 paola-choice-usca.pxf.io
+paolomorettifurs.com
 paopao-monitor.iqiyi.com
 paopao.iqiyi.com
 paopao0.qiyipic.com
@@ -120362,7 +120367,6 @@ pastaesthetictracks.com
 pastagroinadmirer.com
 pastcabbage.com
 paste-d.openx.net
-paste.ee
 pasteben.com
 pastefa.com
 pasteintermediaryforty.com
@@ -163041,7 +163045,6 @@ umstandsforum.de.intellitxt.com
 umstat.com
 umulv.voluumtrk.com
 umuotov.com
-umutsoydinc.com
 umwatsonc.telemetry.microsoft.com
 umwelt-panorama.de.intellitxt.com
 umwiba.com
