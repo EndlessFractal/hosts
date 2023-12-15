@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 14 December 2023 00:39:40 (UTC)
-# Unique Domains: 178,113
+# Last Update: 15 December 2023 00:40:54 (UTC)
+# Unique Domains: 178,120
 #
 # ===============================================================
 0-0.fr
@@ -23339,6 +23339,7 @@ archiecheekydecline.com
 archipelagobelongings.com
 architectwithdraw.com
 archive.exchange4media.com
+archive.madz258.xyz
 archive01.adlooxtracking.com
 archive03.adlooxtracking.com
 archive04.adlooxtracking.com
@@ -26369,6 +26370,7 @@ baletingo.com
 baliadv.com
 balitouroffice.com
 balkanfarma.org
+balkarsoftware.cubistech.com
 balkisaburban.website
 balkscaked.com
 ballarddesigns.btttag.com
@@ -28608,6 +28610,7 @@ bidder.adtelligent.com
 bidder.am5.vip.prod.criteo.com
 bidder.andbeyond.media
 bidder.apac.adx.actnx.com
+bidder.as.criteo.com
 bidder.aws-virginia.adacts.com
 bidder.clk-trkr.actnx.com
 bidder.criteo.com
@@ -30622,6 +30625,7 @@ braggingdistinguished.com
 braggingreorganizeunderworld.com
 bragpsychicsophomore.com
 brahe.apptimize.com
+brahmacouncil.com
 brahmin.btttag.com
 braiderichu.guru
 braidformulathick.com
@@ -34700,6 +34704,7 @@ cdn28.vizury.com
 cdn28786515.ahacdn.me
 cdn2cdn.me
 cdn2reference.com
+cdn3-adb1.online
 cdn3-f1.stickyadstv.com
 cdn3.adnium.com
 cdn3.cpmstar.com
@@ -35980,6 +35985,7 @@ chinese-amezon.com
 chineseashamed.com
 chineselaundry.btttag.com
 chineseprovisionfeisty.com
+chingman.net
 chingovernment.com
 chinikscouxia.com
 chinkerdough.com
@@ -66794,7 +66800,6 @@ goghen.com
 gogle.net
 gogles.com
 gogo-news.com
-gogo625-1321530550.cos.ap-hongkong.myqcloud.com
 gogord.com
 gogoro-com.b.appier.net
 gogousenet.com
@@ -67752,6 +67757,7 @@ greyinstrument.com
 greystripe.com
 grfvngaqbcsw.com
 grfz.de
+grid.bidswitch.net
 gridiogrid.com
 gridmidia.com
 gridmidia.com.br
@@ -109579,6 +109585,7 @@ nableemblems.com
 nableriptide.com
 nablesasmetotrea.info
 nabtrade.demdex.net
+nac-ecs.co.mz
 nacavei.org
 nacfuns.com
 nachalka21.ru
@@ -130787,7 +130794,6 @@ remarketstats.com
 remarkinspector.com
 remaysky.com
 rembash.ru
-remccoss2023.duckdns.org
 remedyabruptness.com
 remedyeloise.com
 remedyhealth.evergage.com
@@ -134796,6 +134802,7 @@ sagetrc.com
 saggarmammon.com
 saggrowledetc.com
 saghdg.com
+sagheur.top
 sagonoll.com
 sagradafamiliacornella.com
 sagrew.com
