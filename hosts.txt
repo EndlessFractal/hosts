@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 19 December 2023 00:40:14 (UTC)
-# Unique Domains: 178,474
+# Last Update: 20 December 2023 00:33:01 (UTC)
+# Unique Domains: 178,478
 #
 # ===============================================================
 0-0.fr
@@ -1226,7 +1226,6 @@
 170040.measurementapi.com
 170130.measurementapi.com
 17014.engine.mobileapptracking.com
-1702359462214.kxwstg.com
 1704100.fls.doubleclick.net
 170518.measurementapi.com
 170552.measurementapi.com
@@ -28667,6 +28666,7 @@ bidder.da1.vip.prod.criteo.com
 bidder.dev
 bidder.districtm.net
 bidder.dsp.adacts.com
+bidder.eu.criteo.com
 bidder.eyeviewads.com
 bidder.fr3.vip.prod.criteo.com
 bidder.in.adacts.com
@@ -29563,6 +29563,7 @@ blogtraffic.de
 blogtw.net
 blogua.org
 blogun.ru
+blogvpnreserch.com
 blok.link
 blondeopinion.com
 blondhoverhesitation.com
@@ -34526,7 +34527,6 @@ cdn.narrative.io
 cdn.ndapp.com
 cdn.nearbyad.com
 cdn.neon.click
-cdn.nest.rip
 cdn.net.elogia.net
 cdn.notifyvisitors.com
 cdn.o333o.com
@@ -36035,6 +36035,7 @@ chimlaresider.com
 chimneylurdane.com
 chimpstatic.com
 china-netwave.com
+china.dhabigroup.top
 china.inmobi.com
 china.smartadserver.com
 chinaautoparts.com
@@ -38155,7 +38156,6 @@ cmqjims.com
 cmrdr.com
 cmrewards.site
 cmrrsale.xyz
-cms-sh.de
 cms-xch.33across.com
 cms.addapptr.com
 cms.adrise.com
@@ -39359,6 +39359,7 @@ come-get-s0me.com
 come-get-s0me.net
 comeadvertisewithus.com
 comedianbrown.com
+comediantes.org
 comedianthirteenth.com
 comedyshiver.com
 comelybeefyage.com
@@ -52852,7 +52853,6 @@ elevatedidentify.com
 elevationadvertising.com
 elevationsj.com
 eleven05media-d.openx.net
-elevenexpress.com.co
 elevoy.ru
 elex.adk2x.com
 elfcoexistbird.com
@@ -61599,6 +61599,7 @@ frescopartito.com
 fresh-video.com
 fresh.doublepimp.com
 fresh.inlinkz.com
+fresh1.ironoreprod.top
 fresh8.co
 freshannouncement.com
 freshborne.com
@@ -67885,6 +67886,7 @@ greyinstrument.com
 greystripe.com
 grfvngaqbcsw.com
 grfz.de
+grid.bidswitch.net
 gridiogrid.com
 gridmidia.com
 gridmidia.com.br
@@ -76970,7 +76972,6 @@ international.canadatvsite.com
 internationalguardianminute.com
 interndry.com
 internet.degoo.com
-internetareal.net.br
 internetmap.info
 internetrepublik01.webtrekk.net
 internetworld.de.intellitxt.com
@@ -78565,6 +78566,7 @@ jailbreaktut.com
 jailbreakyourps4.com
 jailbroken.co
 jailbulb.com
+jaimemcgee.top
 jainapse.com
 jainbagong.com
 jaireehu.net
@@ -83687,6 +83689,7 @@ lespagnedunordausud.eulerian.net
 lessims4crack.com
 lessite.pro
 lessonhumoral.uno
+lestandardsarl.com
 lestv1.icu
 lestv10.icu
 lestv7.icu
@@ -92769,6 +92772,7 @@ mgw1k.voluumtrk.com
 mgwlock.com
 mgxqs.voluumtrk.com
 mgyccfrshz.com
+mgyt.xyz
 mgzjin.cn
 mh.adsupply.com
 mh53hwhdn.cyou
@@ -109105,7 +109109,6 @@ my.gmads.mookie1.com
 my.golosplus.ru
 my.hellobar.com
 my.hmheducation.com
-my.hoqer.com
 my.info.lgsmartad.com
 my.internationalsos.com
 my.iso.com
@@ -110849,7 +110852,6 @@ nevadaspca.com
 nevail.com
 nevapotolok.ru
 nevbbl.com
-never.hitsturbo.com
 never2never.com
 neverclick.net
 neverforgettab.com
@@ -120391,7 +120393,6 @@ panyh123456.cn
 paobto.cyou
 paol.chartbeat.net
 paola-choice-usca.pxf.io
-paolomorettifurs.com
 paopao-monitor.iqiyi.com
 paopao.iqiyi.com
 paopao0.qiyipic.com
@@ -122083,6 +122084,7 @@ phoenix-widget.com
 phoenix.polarmobile.com
 phoenixad.io
 phoenixbeta.pubmatic.com
+phoenixexec.icu
 phoenixtvus.com
 phoeniz.in-viacom18.videoplaza.tv
 phog.ycombinator.com
@@ -125652,6 +125654,7 @@ pretty-size.pro
 prettypasttime.com
 prettypermission.pro
 prettytypicalimpatience.com
+pretzelsget.top
 prevailinsolence.com
 prevalentprincess.com
 preventedcaptivate.com
@@ -128257,6 +128260,7 @@ qa3-web1.yieldoptimizer.com
 qa6-my.tealiumiq.com
 qa897if.cyou
 qaads.colombiaonline.com
+qaafdesign.com.sa
 qaagib.icu
 qaamgo-d.openx.net
 qaapp.forever21.com
@@ -131956,6 +131960,7 @@ rewardsurvey.pxf.io
 rewardtv.com
 rewashwudu.com
 rewdinghes.com
+rewe-coupouns.com
 rewe01.webtrekk.net
 rewokenlongeve.digital
 rewriteshamerefuge.com
@@ -135954,6 +135959,7 @@ scantyuncertainwilfrid.com
 scanunderstiff.com
 scanverify.com
 scapfloored.space
+scapitg.live
 scapoidalmose.tech
 scarabresearch.com
 scarcecard.com
@@ -136040,7 +136046,6 @@ schemas.microsoft.akadns.net
 scheme.mobpowertech.com
 schemeabsolutejanuary.com
 schemevolcanosuspicions.com
-scheta.site
 schibsted.com
 schibsted.io
 schibsted.media
@@ -164006,6 +164011,7 @@ unlcked.net
 unlckr.me
 unleftbawly.uno
 unlika.com
+unlikeget.top
 unlimitdocs.net
 unlimited-hacks.net
 unlimited-portals.com
@@ -169296,6 +169302,7 @@ we2-e.tlnk.io
 we7az.voluumtrk.com
 wea5lkaf63loos8a.com
 weabalance.top
+weak-sar.com
 weakcompromise.com
 weakermumrespect.com
 weakwiki.com
@@ -172931,7 +172938,6 @@ www.e-cardsshop.com
 www.e-spy.org
 www.e.onthe.io
 www.e.switchadhub.com
-www.eastconsults.com
 www.easyrecoverychina.com
 www.eazywalkers.com
 www.eb.3lift.com
@@ -176245,7 +176251,6 @@ ydv7k.cyou
 ydwrkwwqytj.xyz
 ydygdsnss.com
 ydyuagpbdcavvxy.com
-ye156ey.xyz
 ye185hcamw.com
 yeabble.com
 yeah16.com
@@ -177426,7 +177431,6 @@ zanasearch.com
 zando01.webtrekk.net
 zandsfabrics.com
 zanesvilletimesrecorder.com.ssl.d1.sc.omtrdc.net
-zang1.almashreaq.top
 zangocash.com
 zangtankqq.com
 zanimatsyaseksom.mirtesen.ru
