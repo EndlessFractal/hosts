@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 23 December 2023 00:37:55 (UTC)
-# Unique Domains: 178,876
+# Last Update: 24 December 2023 00:42:12 (UTC)
+# Unique Domains: 178,881
 #
 # ===============================================================
 0-0.fr
@@ -95746,6 +95746,7 @@ mkt1184.com
 mkt11842.com
 mkt11844.com
 mkt11845.com
+mkt11846.com
 mkt11849.com
 mkt1185.com
 mkt11850.com
@@ -95757,11 +95758,15 @@ mkt11860.com
 mkt11863.com
 mkt11864.com
 mkt11865.com
+mkt11868.com
 mkt11869.com
 mkt1187.com
+mkt11876.com
 mkt11877.com
 mkt11879.com
 mkt1188.com
+mkt11880.com
+mkt11886.com
 mkt1189.com
 mkt1190.com
 mkt1191.com
