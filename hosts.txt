@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 26 December 2023 00:38:19 (UTC)
-# Unique Domains: 179,034
+# Last Update: 27 December 2023 00:38:23 (UTC)
+# Unique Domains: 179,035
 #
 # ===============================================================
 0-0.fr
@@ -3675,6 +3675,7 @@
 37io.com
 37tek.fun
 37x3s.voluumtrk.com
+38.180.96.244
 380.tw
 3803600.fls.doubleclick.net
 3805532.fls.doubleclick.net
