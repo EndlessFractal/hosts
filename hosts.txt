@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 28 December 2023 00:38:08 (UTC)
-# Unique Domains: 179,118
+# Last Update: 29 December 2023 00:32:19 (UTC)
+# Unique Domains: 179,117
 #
 # ===============================================================
 0-0.fr
@@ -46496,7 +46496,6 @@ def-platform.net
 def.gbc.criteo.com
 def1.optimhome-recrutement.com
 defacto-analytics.net
-defas.site
 default-tags.vizury.com
 default.ads.justpremium.com
 default.arrowservice.net
