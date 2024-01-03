@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 02 January 2024 00:38:54 (UTC)
-# Unique Domains: 179,436
+# Last Update: 03 January 2024 00:39:44 (UTC)
+# Unique Domains: 179,435
 #
 # ===============================================================
 0-0.fr
@@ -68202,7 +68202,6 @@ greyinstrument.com
 greystripe.com
 grfvngaqbcsw.com
 grfz.de
-grid.bidswitch.net
 gridiogrid.com
 gridmidia.com
 gridmidia.com.br
