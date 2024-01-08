@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 07 January 2024 00:43:52 (UTC)
-# Unique Domains: 189,239
+# Last Update: 08 January 2024 00:41:32 (UTC)
+# Unique Domains: 189,235
 #
 # ===============================================================
 0-0.fr
@@ -19498,7 +19498,6 @@ airbnb.evyy.net
 airbnbopenhomes.pxf.io
 airbusgroup-de01.wt-eu02.net
 aircanada.demdex.net
-airconditionblown.com
 aircraftairliner.com
 aircraftreign.com
 aircraftsplendid.com
@@ -45819,7 +45818,6 @@ cyberportlive01.wt-eu02.net
 cybersecuritiesinc.net
 cybersugardrew.com
 cybertiny.com
-cybertransfer.net
 cybertronads.com
 cybmas.com
 cybugim4bdzqhwl.ru
@@ -80654,7 +80652,6 @@ info3.acton-success.com
 info3.thermofisher.com
 info4.acton-success.com
 infoaction.mimakiusa.com
-infoanalytics.tools
 infoblog.site
 infoboom.club
 infoboom.life
@@ -147842,7 +147839,6 @@ singlesgetmatched.com
 singlesternlyshabby.com
 singmwn51g.com
 singroot.com
-singtraff.cool
 singular.net
 singularwebs.net
 sinhronperevod.ru
