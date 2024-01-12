@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 11 January 2024 00:40:57 (UTC)
-# Unique Domains: 189,510
+# Last Update: 12 January 2024 00:40:52 (UTC)
+# Unique Domains: 189,517
 #
 # ===============================================================
 !!!listrakbi.com
@@ -8165,7 +8165,9 @@ a086.casalemedia.com
 a087.casalemedia.com
 a088.casalemedia.com
 a089.casalemedia.com
+a0897335.xsph.ru
 a090.casalemedia.com
+a0904077.xsph.ru
 a091.casalemedia.com
 a092.casalemedia.com
 a093.casalemedia.com
@@ -13479,6 +13481,7 @@ acexedge.com
 acfsxqoa.com
 acfun-log-sdk.ksapisrv.com
 acfyamxwluprpx.com
+acglobal.com.pe
 acgshenshicha.cn
 achaipheegly.com
 achcdn.com
@@ -50180,6 +50183,7 @@ device9.com
 devicelog.samsungcloudsolution.net
 devilishdinner.com
 devilspanmute.com
+deviltelegram.000webhostapp.com
 devilwholehorse.com
 devimisrely.space
 deviuser.com
@@ -165797,6 +165801,7 @@ thisisarray.com
 thisisglobal.adswizz.com
 thisisglobal.deliveryengine.adswizz.com
 thisisglobaltest.deliveryengine.adswizz.com
+thisisinternet.pl
 thisisphishing.info
 thisisplanb3.actonsoftware.com
 thisiswaldo.com
@@ -175826,6 +175831,7 @@ vahlnd.bogsfootwear.com
 vahufapave.com
 vai1hqegr2ou.ru
 vaibendel.com
+vaibhavtripathi.in
 vaicore.site
 vaicore.store
 vaicore.xyz
@@ -184520,6 +184526,7 @@ www.printthis.clickability.com
 www.prmtracking2.com
 www.pro-market.net
 www.pro.cn
+www.procuratio.nu
 www.programme.enviedeplus.com
 www.promobay.org
 www.propeller-tracking.com
