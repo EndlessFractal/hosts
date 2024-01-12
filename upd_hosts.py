@@ -2,17 +2,18 @@ import requests
 import re
 from datetime import datetime
 
+
 def fetch_and_process_hosts(url):
     try:
         with requests.get(url) as response:
             if response.status_code == 200:
-                lines = [re.sub(r"\s+#.*$|^\s*[\^|\|]+\s*|\s+$", "", line).strip().lower() for line in response.text.splitlines() if "." in line]
-                return lines
-            else:
-                print(f"Failed to fetch {url}. Skipping...")
+                lines = (re.sub(r"\s+#.*$", "", line).strip().replace("||", "").replace("^", "") for line in response.text.splitlines())
+                domains = (re.sub(r"^(?:\d{1,3}\.){3}\d{1,3} ", "", line).strip().lower() for line in lines if "." in line and not line.startswith(("#", "!")))
+                return set(domains)
     except requests.exceptions.RequestException as e:
         print(f"Error fetching {url}: {e}")
-    return []
+        return set()
+
 
 # Read URLs from the file
 with open("list.txt", "r") as file:
@@ -54,4 +55,4 @@ header = f"""\
 # Write the filtered hosts to a file
 with open("hosts.txt", "w") as file:
     file.write(header + "\n")
-    file.writelines(domain + "\n" for domain in unique_domains)
+    file.write('\n'.join(unique_domains))
