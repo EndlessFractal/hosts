@@ -14,7 +14,7 @@ for url in urls:
             if response.status_code == 200:
                 lines = response.text.splitlines()
                 lines = [re.sub(r"\s+#.*$", "", line) for line in lines]
-                lines = [line.strip().replace("||", "").replace("^", "") for line in lines if line and not line.startswith(("#", "::1"))]
+                lines = [line.strip().replace("||", "").replace("^", "") for line in lines if line and not line.startswith(("#", "!"))]
                 domains = [re.sub(r"^(?:\d{1,3}\.){3}\d{1,3} ", "", line).strip().lower() for line in lines if "." in line]
                 unique_domains.update(domains)
             else:
@@ -52,5 +52,5 @@ header = f"""\
 
 # Write the filtered hosts to a file
 with open("hosts.txt", "w") as file:
-    file.write(header)
+    file.write(header + "\n")
     file.writelines(domain + "\n" for domain in unique_domains)
