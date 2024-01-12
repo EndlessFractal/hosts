@@ -2,6 +2,18 @@ import requests
 import re
 from datetime import datetime
 
+def fetch_and_process_hosts(url):
+    try:
+        with requests.get(url) as response:
+            if response.status_code == 200:
+                lines = [re.sub(r"\s+#.*$|^\s*[\^|\|]+\s*|\s+$", "", line).strip().lower() for line in response.text.splitlines() if "." in line]
+                return lines
+            else:
+                print(f"Failed to fetch {url}. Skipping...")
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching {url}: {e}")
+    return []
+
 # Read URLs from the file
 with open("list.txt", "r") as file:
     urls = file.read().splitlines()
@@ -9,19 +21,8 @@ with open("list.txt", "r") as file:
 # Fetch and process host files from each URL
 unique_domains = set()
 for url in urls:
-    try:
-        with requests.get(url) as response:
-            if response.status_code == 200:
-                lines = response.text.splitlines()
-                lines = [re.sub(r"\s+#.*$", "", line) for line in lines]
-                lines = [line.strip().replace("||", "").replace("^", "") for line in lines if line and not line.startswith(("#", "!"))]
-                domains = [re.sub(r"^(?:\d{1,3}\.){3}\d{1,3} ", "", line).strip().lower() for line in lines if "." in line]
-                unique_domains.update(domains)
-            else:
-                print(f"Failed to fetch {url}. Skipping...")
-    except requests.exceptions.RequestException as e:
-        print(f"Error fetching {url}: {e}")
-        continue
+    domains = fetch_and_process_hosts(url)
+    unique_domains.update(domains)
 
 # Remove "localhost" from the unique domains
 unique_domains.discard("localhost")
