@@ -4,7 +4,7 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 14 January 2024 00:44:10 (UTC)
+# Last Update: 15 January 2024 00:42:31 (UTC)
 # Unique Domains: 189,763
 #
 # ===============================================================
@@ -65294,6 +65294,7 @@ freutz.com
 freychang.fun
 freyr-clo.com
 freyrclogs.com
+frezzyhook.com
 frfetchme.com
 frfhhcxeqkubk.xyz
 frhbrkjgerikm2f8mjek09.com
@@ -71797,7 +71798,6 @@ greyinstrument.com
 greystripe.com
 grfvngaqbcsw.com
 grfz.de
-grid.bidswitch.net
 gridiogrid.com
 gridmidia.com
 gridmidia.com.br
