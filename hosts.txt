@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 16 January 2024 00:40:46 (UTC)
-# Unique Domains: 194,300
+# Last Update: 17 January 2024 00:40:48 (UTC)
+# Unique Domains: 194,304
 #
 # ===============================================================
 
@@ -63071,6 +63071,7 @@ file.cnnnewsdaily.com
 file.firefoxupdata.com
 file.ipinyou.com.cn
 file.message.cnzz.com
+file.silentsilas.com
 file2share.co
 fileace.com
 fileak.com
@@ -67327,6 +67328,7 @@ galaktika.mirtesen.ru
 galamis.com
 galana.g2afse.com
 galanasorra.com
+galandskiyher5.com
 galantinkoling.com
 galaxiemedia.fr
 galaxy-case.com
@@ -72784,7 +72786,6 @@ greyinstrument.com
 greystripe.com
 grfvngaqbcsw.com
 grfz.de
-grid.bidswitch.net
 gridiogrid.com
 gridmidia.com
 gridmidia.com.br
@@ -177555,6 +177556,7 @@ umiackscursors.com
 ummerciseha.com
 ummihaqhu.xyz
 ummnam.xyz
+ummotosmexico.mx
 umnstoodthe.com
 umojsiu.icu
 umor37.mirtesen.ru
@@ -182158,6 +182160,7 @@ vivendigoetae.uno
 vividcash.com
 vividcortex.actonservice.com
 vividlobster.com
+viviendas8.com
 viviendoefelizz.online
 vivienjumpe.com
 vivint.cm
@@ -192102,6 +192105,7 @@ yinyouapp.com
 yip.su
 yipee.de.intellitxt.com
 yiqetu.uno
+yiqianche.com
 yiqitiao.chushoushijian.cn
 yirtaycyytr.xyz
 yisangyhqq.com
