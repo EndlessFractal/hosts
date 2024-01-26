@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 25 January 2024 00:41:25 (UTC)
-# Unique Domains: 195,827
+# Last Update: 26 January 2024 00:38:32 (UTC)
+# Unique Domains: 195,819
 #
 # ===============================================================
 
@@ -8151,7 +8151,6 @@ a087.casalemedia.com
 a088.casalemedia.com
 a089.casalemedia.com
 a090.casalemedia.com
-a0906726.xsph.ru
 a091.casalemedia.com
 a092.casalemedia.com
 a093.casalemedia.com
@@ -13253,7 +13252,6 @@ academy.unbounce.com
 academyblocked.com
 academyenrage.com
 academysports.btttag.com
-acadiaanalytics.com
 acadian-asset.actonservice.com
 acadianfashion.adlegend.com
 acadomia.eulerian.net
@@ -32969,6 +32967,7 @@ botize.com
 botkano.info
 botmafia.com
 botndm.nl
+botnet.hostsgct.link
 botnet.xjtu.edu.cn
 botnetdownload.com
 botnrr.xyz
@@ -35511,7 +35510,6 @@ caesaw.com
 caf.actonservice.com
 cafe-latte.myshoplus.com
 cafe-log.myshoplus.com
-cafeduetazze.com
 cafemedia-d.openx.net
 cafemom.d2.sc.omtrdc.net
 cafemom.us.intellitxt.com
@@ -41543,7 +41541,6 @@ codghostshacks.com
 codghostshacks.net
 codghostshacks.org
 codigo.se
-codjikodsa.b-cdn.net
 codon.vn
 codsooms.net
 codysbbq.com
@@ -64257,6 +64254,7 @@ flawedemptive.life
 flawenormouslyattractive.com
 flawerosion.com
 flawinterestinggranite.com
+flawlessdev.org
 flawlessinteractive.g2afse.com
 flaxdoorbell.com
 flaxierfilmset.com
@@ -73303,7 +73301,6 @@ greyinstrument.com
 greystripe.com
 grfz.de
 gribsastiw.com
-grid.bidswitch.net
 gridiogrid.com
 gridmidia.com
 gridmidia.com.br
@@ -122146,7 +122143,6 @@ nhu.edu.102.112.2o7.net
 nhungmiu.me
 nhuzqnpnbjm.com
 nhwvxjpjn.com
-nhyslkpsklnf.b-cdn.net
 nhyvhmvw.com
 nhz.adwo.com
 ni.onthe.io
@@ -164588,7 +164584,6 @@ stayfriendsch.widget.criteo.com
 stayfriendsse.widget.criteo.com
 staygg.com
 stayhereabit.com
-stayingcaviar.com
 stayingprodigy.com
 stayjigsawobserved.com
 staykidnapcoma.com
@@ -165088,7 +165083,6 @@ storkwild.com
 storm-api.ad4game.com
 storm-hacks.com
 storm.ad4game.com
-storm.ayazprak.com
 storm.onthe.io
 storm01.ifd.vip.ev1.inmobi.com
 storm01.ru
@@ -169082,7 +169076,6 @@ technoshadows.com
 technoview.live
 techofheart.co
 techonetium.com
-techonist.com
 techorfy.com
 techousnorimon.life
 techpump.com
@@ -170826,7 +170819,6 @@ thrillinglinks.com
 thrillingpairsreside.com
 thrillingsites.net
 thrillingwinners.net
-thrilloffer.com
 thrillrinsecombined.com
 thrivebuisson.top
 thrivecover.com
@@ -186488,7 +186480,6 @@ wegastroky.com
 wegetpaid.net
 wegotmedia.com
 wegow.postaffiliatepro.com
-wegrowcoaching.com
 wehackgames.com
 wehaveinourd.org
 wehiqes.xyz
@@ -192104,6 +192095,7 @@ xenopusbink.com
 xenosmussal.com
 xenotechllc.actonsoftware.com
 xenylclio.com
+xerixwebstudio.com
 xerolimited.tt.omtrdc.net
 xeroshoes-danmark.com
 xeroshoesdanmark.com
@@ -192669,6 +192661,7 @@ xpj8088.com
 xpjjlgzqs.com
 xpjkf888.com
 xpkftctvei.com
+xpl.altervista.org
 xploitz.net
 xplosion.de
 xplus.adsame.com
@@ -194672,7 +194665,6 @@ zamok911.com
 zamolotkom.ru
 zamora.axiatraders.com
 zampda.net
-zampieri1949.com
 zanasearch.com
 zando01.webtrekk.net
 zandsfabrics.com
