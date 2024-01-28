@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 27 January 2024 00:38:09 (UTC)
-# Unique Domains: 196,560
+# Last Update: 28 January 2024 00:40:49 (UTC)
+# Unique Domains: 196,572
 #
 # ===============================================================
 
@@ -33046,6 +33046,7 @@ bot-traffic.icu
 bot-traffic.xyz
 bot.bigdepression.net
 bot.outbrain.com
+bot.pvp-rivals.com
 botamycos.fr
 botanyrecoverybusily.com
 botasasolomexico.com
@@ -46434,6 +46435,7 @@ customizations.fitanalytics.com
 customize.cz
 customoystersruth.com
 customs-customer-assist.com
+customshirelingcrushing.com
 customsua.com.ua
 customtraffic.impactradius.com
 custora.com
@@ -105773,6 +105775,7 @@ mkt11843.com
 mkt11844.com
 mkt11845.com
 mkt11846.com
+mkt11847.com
 mkt11848.com
 mkt11849.com
 mkt1185.com
@@ -105809,10 +105812,12 @@ mkt11886.com
 mkt11887.com
 mkt11888.com
 mkt1189.com
+mkt11890.com
 mkt11893.com
 mkt11896.com
 mkt11897.com
 mkt11898.com
+mkt11899.com
 mkt1190.com
 mkt11900.com
 mkt11901.com
@@ -105823,12 +105828,14 @@ mkt11910.com
 mkt11912.com
 mkt11913.com
 mkt11915.com
+mkt11916.com
 mkt11919.com
 mkt1192.com
 mkt11926.com
 mkt11929.com
 mkt1193.com
 mkt11930.com
+mkt11932.com
 mkt1194.com
 mkt1195.com
 mkt1196.com
@@ -132470,6 +132477,7 @@ pay-click.ru
 pay-hit.com
 pay-tm-partner.in
 pay.aunewsonline.com
+pay.ayazprak.com
 pay.freshreaders.net
 pay.getadmiral.com
 pay.holaq.com
@@ -144908,6 +144916,7 @@ robuxfreebies.site
 rocco-fvo.com
 rocept.com
 rochads.offerstrack.net
+rocheholding.top
 rochesterbranchessniffing.com
 rociestswipy.space
 rock.cheerfulhunter.com
@@ -147570,6 +147579,7 @@ saghdg.com
 sagonoll.com
 sagradafamiliacornella.com
 sagrew.com
+saham.iownyour.biz
 sahandkeightg.xyz
 saheckas.xyz
 sahmon.com
@@ -153235,6 +153245,7 @@ sinmgaepu3or9a61w.com
 sinmo.chasecenter.com
 sinmufar.com
 sinogamepeck.com
+sinopecllc.top
 sinproductors.org
 sinsoftu.com
 sinuatemedia1.actonsoftware.com
@@ -195146,6 +195157,7 @@ z-na.amazon-adsystem.com
 z-na.amazon-adsystems.com
 z-prize.icu
 z.applovin.com
+z.botnet.rocks
 z.cdn.adpool.bet
 z.cdp-dev.cnn.com
 z.cnzz.com
