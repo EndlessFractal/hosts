@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 30 January 2024 00:38:08 (UTC)
-# Unique Domains: 196,562
+# Last Update: 31 January 2024 00:38:16 (UTC)
+# Unique Domains: 196,563
 #
 # ===============================================================
 
@@ -47286,6 +47286,7 @@ d1r2sy6oc0ariq.cloudfront.net
 d1r3ddyrqrmcjv.cloudfront.net
 d1r55yzuc1b1bw.cloudfront.net
 d1r90st78epsag.cloudfront.net
+d1rbb432n5n8so.cloudfront.net
 d1rgnfh960lz2b.cloudfront.net
 d1rguclfwp7nc8.cloudfront.net
 d1rkd1d0jv6skn.cloudfront.net
@@ -57101,7 +57102,6 @@ eldamar01-loadbalanced.kameleoon.com
 eldamar02-loadbalanced.kameleoon.com
 eldamar03-loadbalanced.kameleoon.com
 eldamar04-loadbalanced.kameleoon.com
-eldarune.store
 elderlybean.com
 elderlyevictdeliberately.com
 elderlyinsect.com
@@ -73599,7 +73599,6 @@ greyinstrument.com
 greystripe.com
 grfz.de
 gribsastiw.com
-grid.bidswitch.net
 gridiogrid.com
 gridmidia.com
 gridmidia.com.br
@@ -82308,7 +82307,6 @@ infinity.adsupply.com
 infinity.blismedia.com
 infinityads.com
 infinityblade3hack.com
-infinitycheats.org
 infinitydownline.biz
 infinitydownline.com
 infinitydownline5k.com
@@ -86342,6 +86340,7 @@ jhzfwl.cn
 jhzwle.ryuryumall.jp
 ji.8881919.cc
 ji.alie3ksgbb.com
+ji.alie3ksgdd.com
 ji3ney80w0.mentalist.kameleoon.com
 jial.lafrikileria.com
 jian18.mumu01.com
@@ -88038,6 +88037,7 @@ kalganpuppycensor.com
 kaliba.alivesex.ru
 kalitereklam.com
 kallerupstone.viessmann.dk
+kalnet.top
 kalongyyds.com
 kaloo.ga
 kalooga.com
@@ -96360,6 +96360,7 @@ magic-datings.life
 magic-exchange.com
 magic.engagio.com
 magic.freetrade.io
+magic.poisontoolz.com
 magic.tfxdccssl.net
 magic1.info
 magic2media.offerstrack.net
@@ -153278,6 +153279,7 @@ sipperamomum.guru
 sippingfield.com
 sipulo.katies.com.au
 siquijor-guesthouse.de
+sirault.be
 sirdata-auto.t.domdex.com
 sirdata-finance.t.domdex.com
 sirdata-shopping.t.domdex.com
@@ -160307,6 +160309,7 @@ sos-icloud.com
 sos.azadicdn.com
 sos.businessconsults.net
 sos.mirtesen.ru
+sos.vivi.sg
 sosc.webroot.com
 sosdepotdebilan.com
 sosettoourmarke.info
@@ -185783,6 +185786,7 @@ wallet.urbanairship.com
 wallhackblackops2.com
 wallinside.top
 wallmanswiftie.uno
+wallpapercave.com
 wallpaperdesk.info
 wallpapers-all.com
 wallpapersfacts.com
@@ -188984,7 +188988,6 @@ writer-sg.smartlook.com
 writer-us.smartlook.com
 writer.smartlook.com
 writeraccessgrowth.pxf.io
-writerightindia.com
 writerredolasy.club
 writerz.com
 writewealth.com
@@ -190326,7 +190329,6 @@ www.e-spy.org
 www.e.onthe.io
 www.e.switchadhub.com
 www.east2pony.com
-www.eastconsults.com
 www.easy0bark.com
 www.easyrecoverychina.com
 www.eazywalkers.com
@@ -196166,7 +196168,6 @@ zoominfo-txn1.aoscmt.com
 zoominfo-txn2.aoscmt.com
 zoominfo-txn3.aoscmt.com
 zoominfo.actonservice.com
-zoominfo.com
 zoomino.com
 zoomshort.com
 zoopaweb.com
