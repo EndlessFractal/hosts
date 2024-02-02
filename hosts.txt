@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 01 February 2024 00:39:48 (UTC)
-# Unique Domains: 194,602
+# Last Update: 02 February 2024 00:38:18 (UTC)
+# Unique Domains: 194,607
 #
 # ===============================================================
 
@@ -8113,6 +8113,8 @@ a089.casalemedia.com
 a090.casalemedia.com
 a091.casalemedia.com
 a0912488.xsph.ru
+a0912696.xsph.ru
+a0914823.xsph.ru
 a092.casalemedia.com
 a093.casalemedia.com
 a094.casalemedia.com
@@ -20161,6 +20163,7 @@ allskillon.com
 allspammers.com
 allsports4free.live
 allstaraffiliate.offerstrack.net
+allstarprivate.net
 allstat-pp.ru
 allstate.7eer.net
 allstate.evergage.com
@@ -32724,7 +32727,6 @@ botize.com
 botkano.info
 botmafia.com
 botndm.nl
-botnet.hostsgct.link
 botnet.xjtu.edu.cn
 botnetdownload.com
 botnrr.xyz
@@ -39543,6 +39545,7 @@ cleaningmaturegallop.com
 cleanlinessroundabout.com
 cleanlinked.com
 cleanmediaads.com
+cleanmymac.pro
 cleannaturalists.com
 cleanpcinfections.com
 cleanportal.tclclouds.com
@@ -63867,7 +63870,6 @@ flawedemptive.life
 flawenormouslyattractive.com
 flawerosion.com
 flawinterestinggranite.com
-flawlessdev.org
 flawlessinteractive.g2afse.com
 flaxdoorbell.com
 flaxierfilmset.com
@@ -72858,6 +72860,7 @@ greyinstrument.com
 greystripe.com
 grfz.de
 gribsastiw.com
+grid.bidswitch.net
 gridiogrid.com
 gridmidia.com
 gridmidia.com.br
@@ -87342,6 +87345,7 @@ kd.api.agrantsem.com
 kd.eland.kr
 kd4vjeef9h.mentalist.kameleoon.com
 kd6h3gtdew.kameleoon.eu
+kdark1.com
 kdata.fr
 kdbumyha.com
 kdc.demdex.net
@@ -129302,6 +129306,7 @@ outlooks.firefoxupdata.com
 outloud.outbrain.com
 outlungenheart.tech
 outlyingcarpet.pro
+outmanager.pt
 outmatchtaughtdeparture.com
 outnorthde.widget.criteo.com
 outnorthdk.widget.criteo.com
@@ -130262,6 +130267,7 @@ pacecu.ca.102.112.2o7.net
 pacedemocraticnegative.com
 pacekami.com
 paceuniversity.evergage.com
+paceword.com
 pacho.yo.immo
 pachonsdarcy.guru
 pacific.blackcake.net
@@ -130749,6 +130755,7 @@ parallel6.actonservice.com
 parallelbulb.com
 parallelgds.store
 parallelsdesktop.cn
+parallelsdesktop.pro
 paralysispluck.com
 paralyzedepisodetiny.com
 paramedicexam.quantresear.ch
@@ -133570,6 +133577,7 @@ pixelg.ec2eu.adswizz.com
 pixelhere.com
 pixelinteractivemedia.com
 pixeljs-ads.pubmatic.com
+pixelmator.pics
 pixelplay.pro
 pixelpop.co
 pixelrevenue.com
@@ -188607,7 +188615,6 @@ www.fjlqqc.com
 www.flare.pk
 www.flarefilter.cacafly.com
 www.flash.cn
-www.fleefight.it
 www.flirt4free.com
 www.flow8free.com
 www.flstudiochina.com
@@ -190931,7 +190938,6 @@ xenopusbink.com
 xenosmussal.com
 xenotechllc.actonsoftware.com
 xenylclio.com
-xerixwebstudio.com
 xerolimited.tt.omtrdc.net
 xeroshoes-danmark.com
 xeroshoesdanmark.com
@@ -191492,7 +191498,6 @@ xpjjlgzqs.com
 xpjkf888.com
 xpkftctvei.com
 xpkxahje.xyz
-xpl.altervista.org
 xploitz.net
 xplosion.de
 xplus.adsame.com
