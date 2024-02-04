@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 03 February 2024 00:37:46 (UTC)
-# Unique Domains: 194,823
+# Last Update: 04 February 2024 00:41:25 (UTC)
+# Unique Domains: 194,831
 #
 # ===============================================================
 
@@ -8107,6 +8107,7 @@ a091.casalemedia.com
 a0912488.xsph.ru
 a0912696.xsph.ru
 a0914823.xsph.ru
+a0915052.xsph.ru
 a092.casalemedia.com
 a093.casalemedia.com
 a094.casalemedia.com
@@ -32722,7 +32723,6 @@ bot-traffic.icu
 bot-traffic.xyz
 bot.bigdepression.net
 bot.outbrain.com
-bot.pvp-rivals.com
 botamycos.fr
 botanyrecoverybusily.com
 botasasolomexico.com
@@ -36180,6 +36180,7 @@ caskscityoutskirts.com
 casksteam.com
 casl.couch-associates.com
 casneon.com
+casoluciones.cl
 casper.p7s1.net
 casper.pxf.io
 caspion.com
@@ -102729,6 +102730,7 @@ miwhethi.xyz
 miwllmo.com
 mix-omniture.rbs.com
 mix.adsame.com
+mix.avalmag.com
 mixadvert.com
 mixandfun.com
 mixclckchat.net
@@ -102877,6 +102879,7 @@ mkt059.com
 mkt062.com
 mkt063.com
 mkt064.com
+mkt0704.com
 mkt073.com
 mkt086.com
 mkt087.com
@@ -104855,6 +104858,7 @@ mkt11900.com
 mkt11901.com
 mkt11904.com
 mkt11905.com
+mkt11908.com
 mkt1191.com
 mkt11910.com
 mkt11911.com
@@ -104862,15 +104866,19 @@ mkt11912.com
 mkt11913.com
 mkt11915.com
 mkt11916.com
+mkt11917.com
 mkt11919.com
 mkt1192.com
 mkt11926.com
+mkt11928.com
 mkt11929.com
 mkt1193.com
 mkt11930.com
 mkt11932.com
+mkt11933.com
 mkt11937.com
 mkt1194.com
+mkt11943.com
 mkt1195.com
 mkt1196.com
 mkt1197.com
@@ -135815,6 +135823,7 @@ powderprofit.com
 powedw.com
 powenin.com
 power.adhacker.online
+power.poisontoolz.com
 power.viggo.com
 powerad.ai
 poweradblocker.com
@@ -141056,6 +141065,7 @@ reajyu.net
 real-consequence.pro
 real-difficulty.pro
 real-feedback.toros.daum.net
+real.avalmag.com
 real4bets.com
 realbid.brealtime.com
 realbig.media
@@ -143654,7 +143664,6 @@ robuxfreebies.site
 rocco-fvo.com
 rocept.com
 rochads.offerstrack.net
-rocheholding.top
 rochesterbranchessniffing.com
 rociestswipy.space
 rock.webmine.pro
@@ -146282,7 +146291,6 @@ sagonoll.com
 sagradafamiliacornella.com
 sagrew.com
 sagumnlx.com
-saham.iownyour.biz
 sahandkeightg.xyz
 saheckas.xyz
 sahmon.com
@@ -179207,6 +179215,7 @@ uruto.ru
 urwb.ru
 urxbvw.tui.nl
 uryle.ru
+urzemel.pt
 us-ads.adiquity.com
 us-ads.openx.net
 us-ads2.openx.net
@@ -193445,7 +193454,6 @@ z-na.amazon-adsystem.com
 z-na.amazon-adsystems.com
 z-prize.icu
 z.applovin.com
-z.botnet.rocks
 z.cdn.adpool.bet
 z.cdp-dev.cnn.com
 z.cnzz.com
