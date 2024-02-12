@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 11 February 2024 00:41:15 (UTC)
-# Unique Domains: 201,935
+# Last Update: 12 February 2024 00:38:46 (UTC)
+# Unique Domains: 201,934
 #
 # ===============================================================
 
@@ -8116,6 +8116,7 @@ a089.casalemedia.com
 a090.casalemedia.com
 a091.casalemedia.com
 a0912696.xsph.ru
+a0914857.xsph.ru
 a092.casalemedia.com
 a093.casalemedia.com
 a094.casalemedia.com
@@ -23730,7 +23731,6 @@ api.instabug.com
 api.int.datapipe.adsrvr.org
 api.intel.dynamicyield.com
 api.interfacehelper.com
-api.interfacesmode.com
 api.itaoxiaoshuo.com
 api.iterable.com
 api.iterative.ly
@@ -37402,7 +37402,6 @@ cbhvuivvkkrjrsg.com
 cbij.happy-garden.fr
 cbijwves.com
 cbilrirtqyawue.com
-cbinr.com
 cbjs.baidu.com
 cbl6.destinia.gt
 cbm01.webtrekk.net
@@ -47455,7 +47454,6 @@ cxwisl.jetstereo.com
 cxwqeehw.com
 cxy88.friok.com
 cy2.vortex.data.microsoft.com.akadns.net
-cy56478.tw1.ru
 cy5kr.fun
 cy98g9wuwn0n.angularjs.poc.glenigan.com
 cya1t.net
@@ -59217,7 +59215,6 @@ emeza-com01.webtrekk.net
 emeza-de01.webtrekk.net
 emgn-d.openx.net
 emgthropositeas.info
-emgvod.com
 emiaui.com
 emicalcove.xyz
 emicef.com
@@ -68492,6 +68489,7 @@ fucebit.ru
 fuchs01.webtrekk.net
 fuchsinthough.website
 fucillonissan.com
+fuck-niggers.xyz
 fuck.reutersnewsonline.com
 fuckbook.cm
 fuckbookdating.com
@@ -155456,7 +155454,6 @@ shoesnike.store
 shoessaucepaninvoke.com
 shoesstoregreece.com
 shogunbovietnam.com
-shohetrc.com
 shokala.com
 sholke.com
 shomsouw.xyz
@@ -170235,6 +170232,7 @@ stootsou.net
 stop-nark.ru
 stop-video.live
 stop-zavisimost.com
+stop.sunaviat.com
 stop.umengcloud.com
 stop.xml.auxml.com
 stopacceptable.com
@@ -196078,6 +196076,7 @@ www.kameleoon.com
 www.kanglingjiu.com
 www.kanmobi.net
 www.kanshuapp.com
+www.katanovna771.com
 www.keet1liod.com
 www.kejet.com
 www.keyad.fr
