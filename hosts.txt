@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 17 February 2024 00:37:21 (UTC)
-# Unique Domains: 201,413
+# Last Update: 18 February 2024 00:40:33 (UTC)
+# Unique Domains: 201,418
 #
 # ===============================================================
 
@@ -43626,6 +43626,7 @@ confinedexception.com
 confinedneighthimble.com
 confinehindrancethree.com
 confinementdisarm.com
+confinementpleabotany.com
 confirm-eur-fina.info
 confirm.aon.com
 confirm.ptvgroup.com
@@ -108234,8 +108235,10 @@ mkt11832.com
 mkt11833.com
 mkt11834.com
 mkt11836.com
+mkt11837.com
 mkt1184.com
 mkt11840.com
+mkt11841.com
 mkt11842.com
 mkt11843.com
 mkt11844.com
@@ -108303,12 +108306,14 @@ mkt11910.com
 mkt11911.com
 mkt11912.com
 mkt11913.com
+mkt11914.com
 mkt11915.com
 mkt11916.com
 mkt11917.com
 mkt11919.com
 mkt1192.com
 mkt11920.com
+mkt11922.com
 mkt11923.com
 mkt11924.com
 mkt11926.com
