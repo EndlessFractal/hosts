@@ -4,7 +4,7 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 18 February 2024 00:40:33 (UTC)
+# Last Update: 19 February 2024 00:38:57 (UTC)
 # Unique Domains: 201,418
 #
 # ===============================================================
@@ -78163,6 +78163,7 @@ hive-d.openx.net
 hiveanonymous.com
 hivedata.cc
 hiwaytractor.com
+hiwpro.xyz
 hixutb.xyz
 hiyaxgkemtiad.com
 hiyksu.karllagerfeldparis.com
@@ -155888,7 +155889,6 @@ sidekickopen13.com
 sidekickopen16.com
 sidekickopen24.com
 sidekickopen25.com
-sidekickopen55.com
 sidekickopen61.com
 sidekickopen68.com
 sidekickopen69.com
