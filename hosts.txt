@@ -4,7 +4,7 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 07 March 2024 00:30:56 (UTC)
+# Last Update: 08 March 2024 00:37:45 (UTC)
 # Unique Domains: 202,687
 #
 # ===============================================================
@@ -16296,7 +16296,6 @@ adppartner.solutions.adpinfo.com
 adpredictive.com
 adpremium.ru
 adpreview.mopub.com
-adprimemedia.com
 adprimemedia.net
 adpro.com.ua
 adpro.pro.cn
@@ -52269,6 +52268,7 @@ dgojzjdb.com
 dgpcdn.org
 dgpecqdwsk.com
 dgqdcetwbq.xyz
+dgsf.cat
 dgthcfiwa.com
 dgtklmbypacjq.com
 dgttkthhgjm.com
@@ -59471,6 +59471,7 @@ en.firefoxupdata.com
 en.support.appsflyer.com
 en.themoneytizer.com
 en25.com
+en2an.top
 ena-native-ads4.com
 enablement.vmware.com
 enablerubbingjab.com
@@ -192689,7 +192690,6 @@ webclickengine.com
 webclickmanager.com
 webclicktracer.com.re.getclicky.com
 webclicktracker.com
-webcollage.com
 webcollage.net
 webcompteur.com
 webcon.revcontent.com
