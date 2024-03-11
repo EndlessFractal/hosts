@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 10 March 2024 00:40:57 (UTC)
-# Unique Domains: 202,813
+# Last Update: 11 March 2024 00:39:10 (UTC)
+# Unique Domains: 202,812
 #
 # ===============================================================
 
@@ -22092,7 +22092,6 @@ analytics.pipelife.rs
 analytics.pipelife.se
 analytics.pixels.ai
 analytics.plaid.com
-analytics.playinfinity.cn
 analytics.plaza.ir
 analytics.plex.tv
 analytics.plumbworld.co.uk
@@ -55930,6 +55929,7 @@ dukan-diets.7eer.net
 dukebluedevils.store
 dukecollege.store
 dukecruise.com
+dukeenergyltd.top
 dukerationpe.com
 dukicationan.org
 dukingdraon.com
@@ -60849,7 +60849,6 @@ esty.com
 esumeformo.info
 esuracnce.com
 esurance.inq.com
-esvdigital.com
 eswsentatives.info
 esxemulator.com
 esxjpnkgyaeiu.xyz
@@ -74616,7 +74615,6 @@ gositego.live
 goskin.pro
 gosocial-d.openx.net
 gosoftwarenow.com
-gospelchor.info
 gospelsaneared.top
 gosquared.com
 gossip-about-celebs.com
@@ -154327,6 +154325,7 @@ seezfull.com
 sef7at.com
 sefkal.openapp.link
 sefsdvc.com
+sefuhsuifhishffo.ru
 sefulheadde.info
 seg.sharethis.com
 sega-rom.com
