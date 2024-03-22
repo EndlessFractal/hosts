@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 21 March 2024 00:39:20 (UTC)
-# Unique Domains: 204,123
+# Last Update: 22 March 2024 00:37:43 (UTC)
+# Unique Domains: 204,130
 #
 # ===============================================================
 
@@ -13992,6 +13992,7 @@ act.cwsglobal.org
 act.davistech.edu
 act.enli.net
 act.firstdata.com
+act.fishoaks.net
 act.jonasconstruction.com
 act.lanap.com
 act.online.engineering.nyu.edu
@@ -33117,6 +33118,7 @@ bn.dxlive.com
 bn.gogo.mn
 bn.imguol.com
 bn.kino-go.co
+bn.networkbn.click
 bn.ohah.ru
 bn.orthodoxy.ru
 bn.take-profit.org
@@ -33159,6 +33161,7 @@ bnfyzszm.icu
 bngdin.com
 bngdyn.com
 bngmadjd.de
+bngoc.skyljne.click
 bngprl.com
 bngprm.com
 bngpst.com
@@ -51478,6 +51481,7 @@ defraysheal.website
 defre.net
 defrostjudica.com
 defshop01.webtrekk.net
+deft-sunflower-97c3b5.netlify.app
 deftestrikshas.uno
 defutohy.pro
 defyblackmailrecommended.com
@@ -98373,6 +98377,7 @@ lucy.businessconsults.net
 lucy2.businessconsults.net
 lucy2.infosupports.com
 lucymods.com
+lucyvpn.xyz
 ludabmanros.com
 ludan102.com
 luddismwebworn.life
@@ -99602,6 +99607,7 @@ mahonetranvia.com
 mahoniaapteryx.digital
 mahourup.xyz
 mahrafavella.live
+mahran.sa
 mahrez.alphonso.tv
 mahuangperosis.cfd
 mai22uc.cn
@@ -136710,6 +136716,7 @@ pasta.esfile.duapps.com
 pasta.sd.duapps.com
 pastagroinadmirer.com
 paste-d.openx.net
+paste.ee
 pasteben.com
 pastefa.com
 pasteintermediaryforty.com
