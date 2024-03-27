@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 26 March 2024 00:38:09 (UTC)
-# Unique Domains: 204,351
+# Last Update: 27 March 2024 00:38:10 (UTC)
+# Unique Domains: 204,344
 #
 # ===============================================================
 
@@ -15876,7 +15876,6 @@ admin.adtiming.com
 admin.adx1.com
 admin.appnext.com
 admin.arrowservice.net
-admin.badteachers.ru
 admin.brandreachsys.com
 admin.chartboost.com
 admin.cm.media.net
@@ -15885,7 +15884,6 @@ admin.demandbase.com
 admin.di.adswizz.com
 admin.dm.media.net
 admin.dobermanmedia.com
-admin.easytalking.ir
 admin.eulerian.com
 admin.exoclick.com
 admin.firefoxupdata.com
@@ -20060,6 +20058,7 @@ akamai.smartadserver.com
 akamai.taboola.com
 akamai.tags.tiqcdn.com
 akamai.vungle-cdn.vungle.com
+akane-network.net
 akanoo.com
 akatemia.snoobi.fi
 akatracking.esearchvision.com
@@ -23771,7 +23770,6 @@ api.factors.ai
 api.fc.mob.com
 api.fd.mob.com
 api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
-api.filedoge.com
 api.final.env.sandbox53.localytics.com
 api.findmykids.org
 api.flexispy.com
@@ -34614,7 +34612,6 @@ broadcast.admob.com
 broadcast.snv.mediaplex.com
 broadcastbed.com
 broadcastsaplily.com
-broadcomllc.top
 broaddoor.com
 broadliquorsecretion.com
 broadlystipulate.com
@@ -64914,7 +64911,6 @@ fdytdc.xyz
 fe-au.imrworldwide.com
 fe-shop.cc
 fe.brandreachsys.com
-fe.foosaby.com
 fe.lea.lycos.co.uk
 fe.lwcvn.com
 fe.sitedataprocessing.com
@@ -82503,6 +82499,7 @@ iidohheneuda.com
 iifvcfwiqi.com
 iifyeldo.top
 iig01.webtrekk.net
+iigggkkl.monster
 iigmlx.com
 iihcjcil.com
 iin.getclicky.com
@@ -87351,7 +87348,6 @@ iponomarev.smi2.ru
 iportal-net.com
 iportal.coremetrics.com
 ipouvoog.com
-ipovpn.com
 ippaxapccehjt.com
 ippcodeblack.com
 ippcodepink.com
@@ -107506,7 +107502,6 @@ minyascannat.com
 minzong.getui.com
 miokoo.com
 miomedi.de.intellitxt.com
-miori.lol
 mip.api.mcafeewebadvisor.com
 mipagerank.com
 mipcache.bdstatic.com
@@ -126653,7 +126648,6 @@ ngoahotanglong.vn
 ngoctu.click
 ngocvang.pw
 ngokohorsing.top
-ngovpn.com
 ngozz.lyfd2xzauti9d8p.bapb.gdn
 ngpgjfojxyvgcp.com
 ngplansforourco.info
@@ -135869,7 +135863,6 @@ p3.brandreachsys.com
 p3.l.qq.com
 p3.pstatp.com
 p3.server.cpmstar.com
-p3.zbjimg.com
 p30rank.ir
 p31770.clksite.com
 p31770.inclk.com
@@ -136532,6 +136525,7 @@ parachutegustheory.com
 parachutelacquer.com
 parachutiste.com
 paradiseannouncingnow.com
+paradisecityofficial.de
 paradisenookminutes.com
 paradiseofhacks.com
 paradocs.ru
@@ -137654,7 +137648,6 @@ peptido.ru
 pepyyzqqgciv.com
 peqipuah.icu
 peqvwk.notino.at
-per.fishoaks.net
 peracy.com
 perceivedagrarian.com
 perceivedundesirable.com
@@ -147174,6 +147167,7 @@ realizesensitivenessflashlight.com
 realizevacation.com
 realkeygen.com
 reallifeforyouandme.com
+reallifehollywood.eu
 reallkeys.com
 reallygoodstuff.evergage.com
 reallyindependencehated.com
@@ -200144,7 +200138,6 @@ x.everesttech.net
 x.flurry.com
 x.g.l.inmobicdn.net
 x.gldn.io
-x.hxhk.cc
 x.infzm.com
 x.jd.com
 x.moatads.com
@@ -202717,6 +202710,7 @@ yunmeng.getui.com
 yunosurveys.com
 yunsennet.com
 yunshipei.com
+yunwei.liancheng518.com
 yunwu.red
 yunyi.talk.igexin.com
 yuoyan.finanzen.de
@@ -202908,7 +202902,6 @@ z.cnzz.com
 z.exoclick.com
 z.gds.cnzz.com
 z.grfyw.com
-z.hxhk.cc
 z.inlist.com
 z.lenmit.com
 z.moatads.com
