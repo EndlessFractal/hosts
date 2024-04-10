@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 09 April 2024 00:38:56 (UTC)
-# Unique Domains: 204,694
+# Last Update: 10 April 2024 00:38:31 (UTC)
+# Unique Domains: 204,704
 #
 # ===============================================================
 
@@ -8092,6 +8092,7 @@ a091.casalemedia.com
 a092.casalemedia.com
 a093.casalemedia.com
 a094.casalemedia.com
+a0940704.xsph.ru
 a095.casalemedia.com
 a096.casalemedia.com
 a097.casalemedia.com
@@ -33163,7 +33164,6 @@ bn.dxlive.com
 bn.gogo.mn
 bn.imguol.com
 bn.kino-go.co
-bn.networkbn.click
 bn.ohah.ru
 bn.orthodoxy.ru
 bn.take-profit.org
@@ -37285,6 +37285,7 @@ cas.sg1.vip.prod.criteo.com
 cas.sh.cn.criteo.com
 cas.sv.us.criteo.com
 cas.us.criteo.com
+cas.us5.vip.prod.criteo.com
 cas.va.us.criteo.com
 cas.va1.vip.prod.criteo.com
 casa.7eer.net
@@ -54045,6 +54046,7 @@ districtm.io
 districtm.net
 districtprovocativeforceful.com
 districtshortmetal.com
+distro.ibiblio.org
 distroscale-d.openx.net
 distrustawhile.com
 distrustuldistrustulshakencavalry.com
@@ -59323,6 +59325,7 @@ elreydelfalafel.com
 elrfqgvvljkvxg.com
 elrhieujvi.com
 elrkovhhyfkor.com
+elrn.io
 els298548211.medtronic.com
 elsa.memoinsights.com
 elsbfby.com
@@ -65794,6 +65797,7 @@ files.downloadsite.me
 files.im
 files.info.posteitaliane.it
 files.ly
+files.offshore.cat
 files.pbgiris.com
 files.propellerads.com
 files.revcontent.com
@@ -70265,6 +70269,7 @@ game-cards.org
 game-clicks.com
 game-crack.org
 game-fix.com
+game-hack.shop
 game-hack24.com
 game-hacked.com
 game-hacks24.com
@@ -75422,7 +75427,6 @@ goutylumpier.top
 gouzaich.com
 gov-delivry.com
 gov.au.id312666359-9036410720.w595505.com
-gov.kavir-host-sub.ir
 govbusi.info
 goveragemlz.club
 goverment.usabbs.org
@@ -76663,6 +76667,7 @@ gum.jp2.vip.prod.criteo.com
 gum.nl3.vip.prod.criteo.com
 gum.par.vip.prod.criteo.com
 gum.sg1.vip.prod.criteo.com
+gum.us5.vip.prod.criteo.com
 gum.va1.vip.prod.criteo.com
 gumbolersgthb.com
 gumcongest.com
@@ -92953,6 +92958,7 @@ ktivn.uranus.sogou.com
 ktkjmp.com
 ktlrhudvlsu.com
 ktlrqfxcskympvu.xyz
+ktlvz.dnsfailover.net
 ktmayxvea.com
 ktmforum.de.intellitxt.com
 ktnq.seidensticker.fr
@@ -94986,6 +94992,7 @@ lfjtiuy.cn
 lfkxjcrlrrar.com
 lflb001.batmobi.net
 lflcbcb.com
+lflsoftware.com
 lfmhcb.sefamerve.com
 lfn.lfg.com
 lfngqrtheim.com
@@ -154819,6 +154826,7 @@ sdg.fwtrck.com
 sdhfbvd.com
 sdhltncfqbu.com
 sdi.d1.sc.omtrdc.net
+sdiufgsdugif.group-networks.ru
 sdjbcjsbdjk.com
 sdjbvjsbvjz.com
 sdjkbcjksbdsvv.com
@@ -159407,6 +159415,7 @@ sjc-tools.contextweb.com
 sjc.cloud.optable.co
 sjc.contextweb.com
 sjczzdfvd.com
+sjdkghsdughpowieugh8932.griefcube.cc
 sjeapi.adsafeprotected.com
 sjeauth.adsafeprotected.com
 sjeci.adsafeprotected.com
@@ -186599,6 +186608,7 @@ uchxtxel.com
 ucjevgue.xyz
 uckbcroqkb.com
 uckgqa.xyz
+uclibc.org
 uclo.net
 uclrlydjewxcl.xyz
 ucmetrics.hypovereinsbank.de
