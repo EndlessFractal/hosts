@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 14 April 2024 00:45:30 (UTC)
-# Unique Domains: 204,205
+# Last Update: 15 April 2024 03:07:06 (UTC)
+# Unique Domains: 204,203
 #
 # ===============================================================
 
@@ -8118,6 +8118,7 @@ a093.casalemedia.com
 a094.casalemedia.com
 a0940704.xsph.ru
 a0942874.xsph.ru
+a0944905.xsph.ru
 a095.casalemedia.com
 a096.casalemedia.com
 a097.casalemedia.com
@@ -22476,13 +22477,11 @@ analytics.yugen.to
 analytics.zagg.com
 analytics.zapps.me
 analytics.zapps.vn
-analytics.zenly-app.com
 analytics.zevvle.com
 analytics.zg-api.com
 analytics.ziftsolutions.com
 analytics.zim.vn
 analytics.zoomit.ir
-analytics.zpbt.uk
 analytics00.meride.tv
 analytics1.dillards.com
 analytics1.vdo.ai
@@ -24343,7 +24342,6 @@ app-abj.marketo.com
 app-abk.marketo.com
 app-abm.marketo.com
 app-abq.marketo.com
-app-analytics-cn.huami.com
 app-analytics-de.huami.com
 app-analytics-in.huami.com
 app-analytics-ru.huami.com
@@ -56223,6 +56221,7 @@ duckiecaesura.com
 duckletnervous.uno
 ducksintroduce.com
 duckswillsmoochyou.com
+duckz.online
 duclick.baidu.com
 ductclickjl.com
 ductquest.com
@@ -56521,7 +56520,6 @@ dwithmefeyauknal.info
 dwlgdzzltdekr.com
 dwlmjxf.com
 dwn.vys.me
-dwnld.392391234.xyz
 dwnld24.com
 dwnlds.co
 dwnm2295blvjq.cloudfront.net
@@ -126366,6 +126364,7 @@ nextmillennium.io
 nextmillennium.liqwid.net
 nextmillmedia.com
 nextmobileltd-d.openx.net
+nextoneup.shop
 nextoptim.com
 nextpay-mposruttientindung.com
 nextpay-quettindung.com
@@ -155920,7 +155919,6 @@ sensualsheilas.com
 sensualtestresume.com
 sentbarn.com
 sentdysfunctional.com
-senten.org
 sentencefigurederide.com
 sentenceinformedveil.com
 sentexoticoncoming.com
@@ -183718,7 +183716,6 @@ transcriptjeanne.com
 transcriptobligegenerations.com
 transcripts.touchcommerce.com
 transfer.7eer.net
-transfer.adttemp.com.br
 transferamerica-to-vietnammoney.weebly.com
 transfergrab.com
 transferloitering.com
@@ -192779,6 +192776,7 @@ vvip.cnzz.com
 vvktyh.yotsuyagakuin.com
 vvlhrz.xyz
 vvmblock.ru
+vvnnmm.com
 vvobtrjtinsd.com
 vvpojbsibm.xyz
 vvqizy.witt-weiden.de
