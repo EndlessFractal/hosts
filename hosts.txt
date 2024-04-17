@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 16 April 2024 00:38:34 (UTC)
-# Unique Domains: 204,778
+# Last Update: 17 April 2024 00:39:08 (UTC)
+# Unique Domains: 204,784
 #
 # ===============================================================
 
@@ -8104,7 +8104,6 @@ a091.casalemedia.com
 a092.casalemedia.com
 a093.casalemedia.com
 a094.casalemedia.com
-a0940704.xsph.ru
 a0942874.xsph.ru
 a0944905.xsph.ru
 a095.casalemedia.com
@@ -22198,6 +22197,7 @@ analytics.redbubble.com
 analytics.redlink.com.ar
 analytics.regex101.com
 analytics.reliant.com
+analytics.renderbetter.net
 analytics.residencemagazine.se
 analytics.rever.vn
 analytics.reyrey.net
@@ -22402,6 +22402,7 @@ analytics.vnncdn.net
 analytics.vnpt.vn
 analytics.vnreview.vn
 analytics.vodgc.net
+analytics.voissa.fr
 analytics.volvocars.com
 analytics.vpplayer.tech
 analytics.waifu2x.org
@@ -31922,6 +31923,7 @@ bidder.us-east.mopub.actnx.com
 bidder.us-east.rubicon.actnx.com
 bidder.us.adacts.com
 bidder.us1.adacts.com
+bidder.us5.vip.prod.criteo.com
 bidder.va1.vip.prod.criteo.com
 bidder.vrtzads.com
 bidder2.criteo.com
@@ -37436,6 +37438,7 @@ cat.par.vip.prod.criteo.com
 cat.sg1.vip.prod.criteo.com
 cat.sh.cn.criteo.com
 cat.sv.us.criteo.com
+cat.us5.vip.prod.criteo.com
 cat.va.us.criteo.com
 cat.va1.vip.prod.criteo.com
 catalog.adgear.com
@@ -42308,6 +42311,7 @@ cnative.propellerads.com
 cnative.propellerclick.com
 cnb.cnews.ru
 cnbprivate.com
+cnc.buthost.pl
 cncapi.getui.com
 cncpt-central.com
 cncpt.dk
@@ -53984,7 +53988,6 @@ districtm.io
 districtm.net
 districtprovocativeforceful.com
 districtshortmetal.com
-distro.ibiblio.org
 distroscale-d.openx.net
 distrustacidaccomplish.com
 distrustawhile.com
@@ -56725,6 +56728,7 @@ dynamic.nl3.vip.prod.criteo.com
 dynamic.optimonk.com
 dynamic.par.vip.prod.criteo.com
 dynamic.sg1.vip.prod.criteo.com
+dynamic.us5.vip.prod.criteo.com
 dynamic.va1.vip.prod.criteo.com
 dynamic.ziftsolutions.com
 dynamic.zol.com.cn
@@ -59248,7 +59252,6 @@ elreydelfalafel.com
 elrfqgvvljkvxg.com
 elrhieujvi.com
 elrkovhhyfkor.com
-elrn.io
 els298548211.medtronic.com
 elsa.memoinsights.com
 elsbfby.com
@@ -70196,7 +70199,6 @@ game-cards.org
 game-clicks.com
 game-crack.org
 game-fix.com
-game-hack.shop
 game-hack24.com
 game-hacked.com
 game-hacks24.com
@@ -75249,6 +75251,7 @@ gostats.de
 gostats.pl
 gostats.ru
 gostats.vn
+gostatts.com
 gosteamanalyst.com
 gostoamt.com
 gostream.us
@@ -123211,6 +123214,7 @@ mug.jp2.vip.prod.criteo.com
 mug.nl3.vip.prod.criteo.com
 mug.par.vip.prod.criteo.com
 mug.sg1.vip.prod.criteo.com
+mug.us5.vip.prod.criteo.com
 mug.va1.vip.prod.criteo.com
 mugabedsock.website
 mugantlerfloral.com
@@ -137164,6 +137168,7 @@ pasta.esfile.duapps.com
 pasta.sd.duapps.com
 pastagroinadmirer.com
 paste-d.openx.net
+paste.ee
 pasteben.com
 pastefa.com
 pasteintermediaryforty.com
@@ -138429,6 +138434,7 @@ pgssjxz.com
 pgssl.com
 pgt1.voyage-prive.es
 pgtabxxmb.com
+pgteu1-excel-telemetry-vip.officeapps.live.com
 pgusgyzdfpj.ru
 pgv4.com
 pgwcrtobrdjx.com
@@ -154727,7 +154733,6 @@ sdg.fwtrck.com
 sdhfbvd.com
 sdhltncfqbu.com
 sdi.d1.sc.omtrdc.net
-sdiufgsdugif.group-networks.ru
 sdjbcjsbdjk.com
 sdjbvjsbvjz.com
 sdjkbcjksbdsvv.com
@@ -159327,7 +159332,6 @@ sjc-tools.contextweb.com
 sjc.cloud.optable.co
 sjc.contextweb.com
 sjczzdfvd.com
-sjdkghsdughpowieugh8932.griefcube.cc
 sjeapi.adsafeprotected.com
 sjeauth.adsafeprotected.com
 sjeci.adsafeprotected.com
@@ -170762,6 +170766,7 @@ static.tw.tour.spartan.contentdef.com
 static.umeng.com
 static.unoadsrv.com
 static.update.augeapps.com
+static.us5.vip.prod.criteo.net
 static.user-red.com
 static.v5.skyrock.net
 static.va1.vip.prod.criteo.net
@@ -184205,6 +184210,7 @@ transcriptjeanne.com
 transcriptobligegenerations.com
 transcripts.touchcommerce.com
 transfer.7eer.net
+transfer.adttemp.com.br
 transferamerica-to-vietnammoney.weebly.com
 transfergrab.com
 transferloitering.com
@@ -186635,7 +186641,6 @@ uchxtxel.com
 ucjevgue.xyz
 uckbcroqkb.com
 uckgqa.xyz
-uclibc.org
 uclo.net
 uclrlydjewxcl.xyz
 ucmetrics.hypovereinsbank.de
@@ -188094,6 +188099,7 @@ upcurlslytic.store
 upcurlsreid.website
 upd-pct.info
 upd.faronicslabs.com
+upd4t300top.b-cdn.net
 updaight.com
 update-it-now.com
 update-mac.com
