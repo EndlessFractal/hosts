@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 20 April 2024 00:39:34 (UTC)
-# Unique Domains: 205,115
+# Last Update: 21 April 2024 00:42:24 (UTC)
+# Unique Domains: 205,131
 #
 # ===============================================================
 
@@ -12730,7 +12730,6 @@ aaaaaco.com
 aaacdbf17d.com
 aaacompany.net
 aaaesme.cn
-aaahomestore.ru.com
 aaas.visitor-analytics.io
 aaat.2ndstreet.jp
 aab-check.me
@@ -15761,6 +15760,7 @@ adlook.me
 adlook.net
 adloop.co
 adlooxtracking.com
+adlooxtracking.ru
 adlpartner.com
 adls.suning.com
 adlserq.com
@@ -23320,6 +23320,7 @@ aolon1ine.com
 aolsvc.snowqueen.ru
 aoltech.sl.advertising.com
 aom.smartbrief.com
+aomacamada.ddns.net
 aomarketing.blytheco.com
 aomgqlaty.top
 aon.infobusinessus.org
@@ -24258,7 +24259,6 @@ apkdeposit.com
 apkfdc.vass-24.net
 apkhacks.com
 apkhackz.com
-apknew.ir
 apkonline.ru
 apkplaystore.in
 apkpros.com
@@ -33805,6 +33805,7 @@ bot.bigdepression.net
 bot.outbrain.com
 bot.stackbots.com
 bot.streaktrivia.com
+bot.vptmedia.click
 botamycos.fr
 botanyrecoverybusily.com
 botasasolomexico.com
@@ -61287,6 +61288,7 @@ eshbqn.icu
 eshedofiga.tech
 eshkol.io
 eshoohasteeg.com
+eshoradebitcoin.com
 eshouloo.net
 esignaturesource.actonsoftware.com
 esigns.evyy.net
@@ -65837,7 +65839,6 @@ files.downloadsite.me
 files.im
 files.info.posteitaliane.it
 files.ly
-files.offshore.cat
 files.pbgiris.com
 files.propellerads.com
 files.revcontent.com
@@ -91471,6 +91472,7 @@ kavijaseuranta.fi
 kawunimy.com
 kaxnoyxs.com
 kayoesfervor.com
+kayomirai.kro.kr
 kayoutlets.com
 kayzen.io
 kazanbossterrifying.com
@@ -94780,6 +94782,7 @@ legendaryspeed-d.openx.net
 legendbrowsprelude.com
 legendeducationalprojects.com
 legends.tintubright.com
+legendsworld.in
 legenhit.com
 legerikath.com
 legginsmexico.com
@@ -98029,6 +98032,7 @@ lombard18.rtb.appier.net
 loms.api.naiadsystems.com
 lon-mknodepub.marketo.com
 lon.rtb.adsrvr.org
+lon.vani.ovh
 lon5-network-dc1-1.112.2o7.net
 lon5-network-dc2-1.112.2o7.net
 lon5-rdc-dc1-1.d1.sc.omtrdc.net
@@ -126090,6 +126094,7 @@ nesto-sig.com
 net-am1.casalemedia.com
 net-filter.com
 net-hk.casalemedia.com
+net-killler.store
 net-ms.casalemedia.com
 net-ny.casalemedia.com
 net-profits.xyz
@@ -136525,6 +136530,7 @@ packages.treasuredata.com
 packagingsolutions.filamatic.com
 packetbye.com
 packethierarchy.com
+packetinfo.com
 packmenappui.top
 pacoaniy.net
 pacobarrero.com
@@ -136827,6 +136833,7 @@ palasidesdoor.com
 palatedaylight.com
 palatesovarium.digital
 palaverpageboy.com
+palberryslicker.sbs
 paleexamsletters.com
 paleleaf.com
 paletotpankin.website
@@ -138660,6 +138667,9 @@ pgssl.com
 pgt1.voyage-prive.es
 pgtabxxmb.com
 pgteu1-excel-telemetry-vip.officeapps.live.com
+pgteu2-word-telemetry-vip.officeapps.live.com
+pgteu3-powerpoint-telemetry-vip.officeapps.live.com
+pgteu4-excel-telemetry-vip.officeapps.live.com
 pgusgyzdfpj.ru
 pgv4.com
 pgwcrtobrdjx.com
@@ -143891,6 +143901,7 @@ proxy.batmobi.net
 proxy.cainus.teradatadmc.com
 proxy.dynamicyield.com
 proxy.dzeio.com
+proxy.heleh.vn
 proxy.kameleoon.com
 proxy.reptilicus.net
 proxy.sec.miui.com
@@ -150748,6 +150759,7 @@ root.xml.auxml.com
 root9b.actonservice.com
 rootcheats.com
 rootconf.media.net
+rootme.xyz
 rootmetropcs.com
 rootscaen.btttag.com
 rootscrack.com
@@ -155517,6 +155529,7 @@ secure-leadback.tui.db.advertising.com
 secure-media.msg.dotomi.com
 secure-mob-001.date
 secure-msg.dotomi.com
+secure-network-rebirthltd.ru
 secure-ngd.imrworldwide.com
 secure-nz.imrworldwide.com
 secure-origin-c.clickability.com
@@ -157144,6 +157157,7 @@ sex-man.info
 sex-porno.site
 sex-spying.ru
 sex-videochats.ru
+sex.secure-cyber-security-rebirthltd.su
 sex.viralof.online
 sexad.net
 sexbuggishbecome.info
@@ -189993,7 +190007,6 @@ valleysrelyfiend.com
 valonghost.xyz
 valoranthile.net
 valornutricional.cc
-valoxxx.net
 valp.atm.youku.com
 valpak.com.102.112.2o7.net
 valpeiros.com
@@ -195809,6 +195822,7 @@ wharployn.com
 whartaug.net
 whartfidalgo.life
 what.arrowservice.net
+what.ravec2.xyz
 whatcl.ru
 whatcounts.branch.rocks
 whatcounts.evergage.com
@@ -196844,6 +196858,8 @@ wodycaha.com
 woefifty.com
 woejh.com
 woemqmgf.xyz
+woermashunfac.top
+woermashunfae.top
 woespoke.com
 woetcwdynnltfnh.com
 wogaa.demdex.net
