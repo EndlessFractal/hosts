@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 02 May 2024 00:39:18 (UTC)
-# Unique Domains: 205,440
+# Last Update: 03 May 2024 00:41:55 (UTC)
+# Unique Domains: 205,437
 #
 # ===============================================================
 
@@ -15205,7 +15205,6 @@ addlnk.com
 addlog.thuvienphapluat.vn
 addlv.smt.docomo.ne.jp
 addmefastfreebot.com
-addnow.com
 addoer.com
 addon-teamspeak.com
 addonsmash.com
@@ -17819,7 +17818,6 @@ adsfs-sdkconfig.heytapimage.com
 adsfs.oppomobile.com
 adsfundi.com
 adsfuse.com
-adsgaga.com
 adsgainer.com
 adsgangsta.com
 adsgard.aprod.scopely.io
@@ -18514,13 +18512,10 @@ advertising.amazon.co.uk
 advertising.amazon.com
 advertising.amazon.in
 advertising.aol.com
-advertising.apple.com
 advertising.com
 advertising.criteo.com
 advertising.lycos.com
-advertising.microsoft.com
 advertising.oriel.io
-advertising.twitter.com
 advertising.yahoo.com
 advertising365.com
 advertisingbait.postaffiliatepro.com
@@ -37784,7 +37779,6 @@ ccdn.adx1.com
 ccdneniusruhebl.com
 ccdrofvofrfkqah.com
 ccef-c5ba-3efa-a9bd.reporo.net
-ccemails.com
 ccexperimentsstatic.oracleoutsourcing.com
 ccfullzshop.com
 ccgateway.net
@@ -39305,7 +39299,6 @@ challengeh.carte-gr.total.fr
 chamberlaincollegeofnursing.d1.sc.omtrdc.net
 chambershoist.com
 chambersthanweed.com
-chameleon.ad
 chameleostudios.com
 chamiteame.com
 chammaupases.life
@@ -44824,7 +44817,6 @@ context.media.net
 context.meta.ua
 contextads.live
 contextbar.ru
-contextendless.com
 contexthub.net
 contextrtb.com
 contextuads.com
@@ -45278,7 +45270,6 @@ coronetkittles.com
 corp-assets.triplelift.com
 corp-erp.com
 corp-static.amplitude.com
-corp.aol.com
 corp.booksonlineclub.com
 corp.eulerian.com
 corp.eulerian.eu
@@ -95206,6 +95197,7 @@ lgsmartad.com
 lgtdkpfnor.com
 lgtpdt.xyz
 lgtqcl8r5i9w.com
+lgtvonline.lge.com
 lguaud.icu
 lguvpl.com
 lgviqkrimvmy.xyz
@@ -110415,27 +110407,32 @@ mkt11962.com
 mkt11963.com
 mkt1197.com
 mkt11971.com
+mkt11975.com
 mkt11979.com
 mkt1198.com
 mkt11982.com
+mkt11983.com
 mkt11984.com
 mkt11987.com
 mkt11988.com
 mkt1199.com
 mkt11993.com
 mkt11994.com
+mkt11995.com
 mkt11997.com
 mkt1200.com
 mkt12001.com
 mkt12002.com
 mkt12004.com
 mkt12007.com
+mkt12008.com
 mkt1201.com
 mkt12013.com
 mkt12014.com
 mkt1202.com
 mkt12022.com
 mkt12024.com
+mkt12028.com
 mkt1203.com
 mkt12032.com
 mkt12033.com
