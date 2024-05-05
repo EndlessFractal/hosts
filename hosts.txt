@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 04 May 2024 00:39:16 (UTC)
-# Unique Domains: 205,500
+# Last Update: 05 May 2024 00:42:40 (UTC)
+# Unique Domains: 205,501
 #
 # ===============================================================
 
@@ -35004,7 +35004,6 @@ btr.vertamedia.com
 btrace.play.aiseet.atianqi.com
 btrace.play.t002.ottcn.com
 btrace.qq.com
-btrace.wetvinfo.com
 btrack.homedy.com
 btrihnvkprgnbh.xyz
 btrll.com
@@ -38806,7 +38805,6 @@ cedarverdure.com
 cedeimprovise.com
 cedelunatic.com
 cedexis-radar.net
-cedexis-ssl.cdn.warpcache.net
 cedexis-test.com
 cedexis.com
 cedexiscom.btttag.com
@@ -110460,10 +110458,13 @@ mkt12014.com
 mkt1202.com
 mkt12022.com
 mkt12024.com
+mkt12025.com
 mkt12028.com
+mkt12029.com
 mkt1203.com
 mkt12032.com
 mkt12033.com
+mkt12034.com
 mkt1204.com
 mkt1205.com
 mkt1206.com
