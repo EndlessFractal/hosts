@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 05 May 2024 00:42:40 (UTC)
-# Unique Domains: 205,501
+# Last Update: 06 May 2024 00:40:48 (UTC)
+# Unique Domains: 205,499
 #
 # ===============================================================
 
@@ -41544,7 +41544,6 @@ clixco.in
 clixcount.com
 clixcrafts.com
 clixgalore.com
-clixmetrix.com
 clixpy.com
 clixsense.com
 clixtk.com
@@ -42335,8 +42334,6 @@ cname-ade.original-calendar.com
 cname-ade.shachihata.biz
 cname-adebis.nice2meet.us
 cname-adebis.vcube.com
-cname-ali-asia-stsdk.vivoglobal.com
-cname-asia-stsdk09.vivoglobal.com
 cname.crank-in.net
 cname.ebis.folio-sec.com
 cname.finess.jp
@@ -189487,6 +189484,7 @@ user-data.apptimize.com
 user-metrics.onthemarket.com
 user-registration.fr3.vip.prod.criteo.com
 user-registration.nl3.vip.prod.criteo.com
+user-registration.us5.vip.prod.criteo.com
 user-service.voodoo-tech.io
 user-shield-check.com
 user-stats.rbl.ms
