@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 07 May 2024 00:39:54 (UTC)
-# Unique Domains: 205,739
+# Last Update: 08 May 2024 00:33:25 (UTC)
+# Unique Domains: 205,740
 #
 # ===============================================================
 
@@ -197888,6 +197888,7 @@ wpooxqs.com
 wpot.arrowservice.net
 wpot.businessconsults.net
 wpowiqkgykf.com
+wppspy.tech
 wppyub.mygenerator.com.au
 wpsconfig4svr.elasticbeanstalk.com
 wpshsdk.com
