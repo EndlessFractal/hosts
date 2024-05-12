@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 11 May 2024 00:39:41 (UTC)
-# Unique Domains: 205,870
+# Last Update: 12 May 2024 00:44:05 (UTC)
+# Unique Domains: 205,855
 #
 # ===============================================================
 
@@ -110621,6 +110621,7 @@ mkt1196.com
 mkt11960.com
 mkt11962.com
 mkt11963.com
+mkt11967.com
 mkt1197.com
 mkt11971.com
 mkt11975.com
@@ -110649,6 +110650,7 @@ mkt1202.com
 mkt12022.com
 mkt12024.com
 mkt12025.com
+mkt12026.com
 mkt12028.com
 mkt12029.com
 mkt1203.com
@@ -131646,7 +131648,6 @@ om-ssl.consorsbank.de
 om.abritel.fr
 om.ads.justpremium.com
 om.aopa.org
-om.au
 om.burberry.com
 om.cbsi.com
 om.churchofjesuschrist.org
@@ -134737,7 +134738,6 @@ opificelitoral.com
 opim.pixmania.com
 opinionatedprovide.com
 opinionbar.com
-opinionsquare.com
 opinionsurprise.com
 opinionthroughambition.com
 opinonsmattersurvey.com
@@ -140360,7 +140360,6 @@ pixels.ingbank.com.tr
 pixels.livingsocial.com
 pixels.perfectaudience.com
 pixelspivot.com
-pixelsrvdmn.com
 pixeltrack.eyeviewads.com
 pixelunion.net
 pixelxxx.everesttech.net
@@ -145051,7 +145050,6 @@ pubs.smrtb.com
 pubs.xl.pt
 pubs2.latinspots.com
 pubscale.com
-pubsqrd.com
 pubsrv.devhints.io
 pubstack.io
 pubstage.redtrack.io
@@ -145508,7 +145506,6 @@ pushtuisotely.live
 pushtutuzla.top
 pushub.net
 pushup.wtf
-pushvault.com
 pushvisit.xyz
 pushwelcome.com
 pushwhy.com
@@ -145764,7 +145761,6 @@ pxl.zapr.in
 pxl2.connexity.net
 pxl3.connexity.net
 pxl4.connexity.net
-pxlad.io
 pxlctl.elpais.com
 pxleu.connexity.net
 pxlgnpgecom-a.akamaihd.net
@@ -149239,7 +149235,6 @@ remarkedoneof.info
 remarket.clicktripz.com
 remarketing.doubleclick.net
 remarketing.oncourselearning.com
-remarketingpixel.com
 remarketstats.com
 remarkinspector.com
 remarksnicermasterpiece.com
@@ -150158,7 +150153,6 @@ reveal.clearbit.com
 revealedlinen.com
 revealedsolid.com
 revealingsmellhood.com
-revealytics.com
 revee.outbrain.com
 reveetracking.outbrain.com
 revelationneighbourly.com
@@ -150561,7 +150555,6 @@ rightfullyrosyvalve.com
 rightfulstudioshades.com
 rightlydunggive.com
 rightlytendertrack.com
-rightmoveanalytics.co.uk
 rightsapphiresand.info
 rightstats.com
 rightycolonialism.com
@@ -151975,7 +151968,6 @@ rtbsuperhub.com
 rtbsystem.com
 rtbsystem.org
 rtbterra.com
-rtbtrackers.com
 rtbtracking.com
 rtbtraffic.com
 rtbtrail.com
@@ -152265,11 +152257,9 @@ rum.kobo.com
 rum.layer0.co
 rum.logsss.com
 rum.marquardmedia.hu
-rum.minutemediaservices.com
 rum.ngenix.net
 rum.perfops.net
 rum.uptime.com
-rum20.a.trbcdn.net
 rumadel.com
 rumamba.com
 rumanalytics.com
@@ -154871,7 +154861,6 @@ sc-forbes.forbes.com
 sc-nossl.speakeasy.net
 sc-static.net
 sc-va.liveclicker.net
-sc.3xdb.com
 sc.actonservice.com
 sc.blurb.fr
 sc.cc.com
@@ -155844,7 +155833,6 @@ search2.media.net
 search4sports.com
 searchad-phinf.pstatic.net
 searchadmin-sys.digitalriver.com
-searchanalytics.turkcell.com.tr
 searchassured.com
 searchboll.com
 searchcheat.com
@@ -156587,7 +156575,6 @@ securemetrics.gap.eu
 securemetrics.gpsuniforms.com
 securemetrics.marthastewart.com
 securemetrics.nbnco.com.au
-securemetrics.yeezygap.com
 securemoney.ru
 securemvt.apple.com
 securemvt.apple.com.cn
@@ -156932,7 +156919,6 @@ send2.alsearsmd.com
 sendaufile.com
 sendblaze.com
 senddataserver.com
-sendekazan100.com
 sendercert.com
 sendercert.de
 sendercert.eu
@@ -157669,7 +157655,6 @@ sewipo.ru
 sewmcqkulwxmrx.com
 sewmerecontaining.com
 sewussoo.xyz
-sex-affiliation.com
 sex-and-flirt.com
 sex-chat.me
 sex-incest.ru
