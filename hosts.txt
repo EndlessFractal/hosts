@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 12 May 2024 00:44:05 (UTC)
-# Unique Domains: 205,855
+# Last Update: 13 May 2024 00:41:40 (UTC)
+# Unique Domains: 205,843
 #
 # ===============================================================
 
@@ -159399,19 +159399,16 @@ sidekickopen13.com
 sidekickopen16.com
 sidekickopen24.com
 sidekickopen25.com
-sidekickopen61.com
 sidekickopen68.com
 sidekickopen69.com
 sidekickopen70.com
 sidekickopen72.com
-sidekickopen75.com
 sidekickopen77.com
 sidekickopen78.com
 sidekickopen79.com
 sidekickopen80.com
 sidekickopen81.com
 sidekickopen82.com
-sidekickopen83.com
 sidekickopen84.com
 sidekickopen85.com
 sidekickopen87.com
@@ -160042,7 +160039,6 @@ sitescoutadserver.com
 sitesdesbloqueados.com
 sitesense-oo.com
 sitest.jp
-sitestat.com
 sitestats.ets.org
 sitestats.ttcportals.com.re.getclicky.com
 sitetag.us
@@ -161224,7 +161220,6 @@ smetrics.airandgo.fr
 smetrics.airasia.com
 smetrics.aircanada.com
 smetrics.aircraftbluebook.com
-smetrics.aireserv.com
 smetrics.airmiles.ca
 smetrics.airngo.at
 smetrics.airngo.de
@@ -161319,9 +161314,7 @@ smetrics.arcobusinesssolutions.com
 smetrics.argenta.be
 smetrics.argenta.eu
 smetrics.argos.co.uk
-smetrics.argos.ie
 smetrics.arhealthwellness.com
-smetrics.ariba.com
 smetrics.arkansastotalcare.com
 smetrics.armadaskis.com
 smetrics.army.mod.uk
@@ -161444,8 +161437,6 @@ smetrics.beatsbydre.com
 smetrics.beatsbydre.com.cn
 smetrics.beckmancoulter.com
 smetrics.becomeanex.org
-smetrics.bedbathandbeyond.ca
-smetrics.bedbathandbeyond.com
 smetrics.beefeater.co.uk
 smetrics.belairdirect.com
 smetrics.belk.com
@@ -161580,7 +161571,6 @@ smetrics.bupa.com.au
 smetrics.business.comcast.com
 smetrics.businessfinancemag.com
 smetrics.buyagift.co.uk
-smetrics.buybuybaby.com
 smetrics.buyersedge.com.au
 smetrics.buytickets.virgintrains.co.uk
 smetrics.buytickets.westmidlandsrailway.co.uk
@@ -162214,13 +162204,11 @@ smetrics.harborfreight.com
 smetrics.harley-davidson.com
 smetrics.havenwellwithin.com
 smetrics.hayesandjarvis.co.uk
-smetrics.hbf.com.au
 smetrics.hbogo.com
 smetrics.hbonow.com
 smetrics.hbr.org
 smetrics.hbs.edu
 smetrics.hbsp.harvard.edu
-smetrics.hctra.org
 smetrics.hdcymru.co.uk
 smetrics.hdfcbank.com
 smetrics.health.com
