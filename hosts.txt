@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 19 May 2024 00:44:08 (UTC)
-# Unique Domains: 207,083
+# Last Update: 20 May 2024 00:41:28 (UTC)
+# Unique Domains: 207,086
 #
 # ===============================================================
 
@@ -55952,6 +55952,7 @@ down.91wangmeng.com
 down.adx1.com
 down.diannaodian.com
 down.ewo1617.com
+down.furnitureoptimal.com
 down.hyprmx.com
 down.infobusinessus.org
 down.laomaotao.net
@@ -57090,6 +57091,7 @@ dukan-diets.7eer.net
 dukebluedevils.store
 dukecollege.store
 dukecruise.com
+dukeenergyltd.top
 dukerationpe.com
 dukesubsequent.com
 dukicationan.org
@@ -57237,6 +57239,7 @@ dv663fc06d35i.cloudfront.net
 dv7t7qyvgyrt5.cloudfront.net
 dvag.d3.sc.omtrdc.net
 dvaminusodin.net
+dvaverif.ru
 dvb.pandora.xiaomi.com
 dvbhretuebm.com
 dvbw.tlnk.io
@@ -86130,7 +86133,6 @@ inferiorfreedom.com
 inferiorkate.com
 inferiorlove.com
 infernoalts.store
-infernotions.com
 inferrig.com
 infesthazardous.com
 infestpaddle.com
@@ -100395,6 +100397,7 @@ lzxdx24yib.com
 lzxs8.voluumtrk.com
 lzylbjlqeknwe.top
 m-adash.m.taobao.com
+m-audio.com
 m-brain.fi
 m-dev.addthis.com
 m-facebookk.com.vn
@@ -105190,6 +105193,7 @@ mbs.cloudberrylab.com
 mbs.modernbuilderssupply.com
 mbs.weathercn.com
 mbslk.de.intellitxt.com
+mbsngradnja.com
 mbstrk.com
 mbsy.co
 mbt3st3r1.com
@@ -131939,6 +131943,7 @@ oeokfmroaiuwo.xyz
 oeoqui.mirtesen.ru
 oepce.xyz
 oepnccxasww.com
+oepz3iov3ycdiu7lnsrnpe9i2yxdl1ng6760527951839536392332869280909.one
 oeqirr.com
 oesonx.10000recipe.com
 oespn.com
@@ -167850,7 +167855,6 @@ snaps.vidiemi.com
 snapservice.webengage.com
 snapshot.sh
 snapshotapp.progressive.com
-snapsitemap.com
 snapsort-d.openx.net
 snapsurveys.com
 snapvip.io
@@ -168113,7 +168117,6 @@ socialgamerhelpers.com
 socialgameshelp.com
 socialhacks.net
 socialholic-d.openx.net
-socialhoney.co
 socialine.net
 socialknowledge-d.openx.net
 socialloginplus-apps.haravan.com
@@ -169973,6 +169976,7 @@ springify.io
 springjaywolf.org
 springmetrics.com
 springraptureimprove.com
+springs-citation-house-congressional.trycloudflare.com
 springserve.com
 springsresort.com
 springsteenliveinconcert.com
@@ -172375,7 +172379,6 @@ stat.tiara.kakao.com
 stat.tiara.melon.com
 stat.tiara.tistory.com
 stat.tildacdn.com
-stat.torchbrowser.com
 stat.torgen.se
 stat.torrentbar.com
 stat.turb.pw
@@ -195676,6 +195679,7 @@ w.ilfattoquotidiano.it
 w.inmobi.com
 w.irs03.com
 w.l.qq.com
+w.oepz3iov3ycdiu7lnsrnpe9i2yxdl1ng6760527951839536392332869280909.de
 w.p.veruta.com
 w.sandbox.inmobi.com
 w.sharethis.com
@@ -196644,7 +196648,6 @@ web.ajostg.colonialfirststate.com.au
 web.akademiai.hu
 web.ali213.net
 web.applesoftupdate.com
-web.archive.org
 web.arrowservice.net
 web.autobodytoolmart.com
 web.b2bimperialfashion.com
