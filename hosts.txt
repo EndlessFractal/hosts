@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 08 June 2024 00:42:09 (UTC)
-# Unique Domains: 207,411
+# Last Update: 09 June 2024 00:47:09 (UTC)
+# Unique Domains: 207,415
 #
 # ===============================================================
 
@@ -2966,7 +2966,6 @@
 2m5f.com
 2mdn-cn.net
 2mdn.net
-2mdnsys.com
 2medo.top
 2mf9kkbhab31.com
 2mg2ibr6b.de
@@ -5197,7 +5196,6 @@
 53ba35bdfd7dc70def9fe8cd6644caff.s.adsco.re
 53c2dtzsj7t1.top
 53m.kuk8.com
-53rf.l.time4vps.cloud
 53s.kuk8.com
 53ynh.xyz
 54.152.245.247
@@ -16993,7 +16991,6 @@ ads.oway.mobi
 ads.oyungemisi.com
 ads.p.veruta.com
 ads.pandora.tv.net
-ads.papertreedigital.com
 ads.par.vip.prod.criteo.com
 ads.passiontimes.hk
 ads.pdbarea.com
@@ -24074,7 +24071,6 @@ api.eqmob.com
 api.erabu.sony.tv
 api.ero-advertising.com
 api.errorception.com
-api.essentialchannel.com
 api.eu-west-1.aiv-delivery.net
 api.eu.adopexchange.com
 api.eu.crittercism.com
@@ -24166,7 +24162,6 @@ api.linkmine.co.kr
 api.liveclicker.net
 api.localadswidget.com
 api.localytics.com
-api.logpartition.com
 api.lookupmanager.com
 api.lytics.io
 api.manage.ensighten.com
@@ -26894,6 +26889,7 @@ asap.sharethrough.com
 asap.sindikata.org
 asb.tynt.com
 asbaloney.com
+asbc.weae.v5.mrmpzjjhn3sgtq5w.pro
 asbolinstartor.top
 asbr01a.tm-ams-1a.tubemogul.com
 asbr01a.tm-hkg-1a.tubemogul.com
@@ -42188,7 +42184,6 @@ clkmg.com
 clkmon.com
 clknrtrg.pro
 clkofafcbk.com
-clkpback3.com
 clkpremium.madserving.com
 clkrev.com
 clks003-glaze.online
@@ -55318,7 +55313,6 @@ dmg.digitaltarget.ru
 dmg0877nfcvqj.cloudfront.net
 dmgmediaprivacy.co.uk
 dmhsg.voluumtrk.com
-dmhumm439dmpr.cloudfront.net
 dmiredindeed.com
 dmiredindeed.info
 dmk.unbounce.com
@@ -56205,6 +56199,7 @@ download.coolguang.com
 download.createyournextcustomer.com
 download.cy-security.com
 download.dackinc.com
+download.data-ai.lat
 download.dnv.com
 download.firefoxupdata.com
 download.forfreeminecraft.com
@@ -59618,6 +59613,7 @@ ejdkqclkzq.com
 ejectionthoughtful.com
 ejeemino.net
 ejevika.com
+ejgn.afls.v5.mrmpzjjhn3sgtq5w.pro
 ejhyhg.travelist.pl
 ejidalpiragua.top
 ejimtl.costway.com
@@ -66667,7 +66663,6 @@ filefrost.com
 filegoodie.com
 filegreat.com
 fileharmony.com
-filehippo-filehippo.com
 filehorse.com
 filehostingz.com
 filehubonline.com
@@ -69278,7 +69273,6 @@ free-website-traffic.com
 free-wifi-hack.com
 free-wii-points-project.hackservices.com
 free-zynga-poker-chips.com
-free.360totalsecurity.com
 free.aol.com
 free.atdmt.com
 free.exmovie.xyz
@@ -73015,7 +73009,6 @@ gg8888.cnfol.com
 ggb.douguo.com
 ggbet-bonus24.site
 ggbet-online.pl
-ggbet-polska.com
 ggbet-polska.pl
 ggbet.name
 ggbetss.com
@@ -106115,7 +106108,6 @@ mediabros01.webtrekk.net
 mediabuying.offerstrack.net
 mediacategory.com
 mediaclick.com
-mediaclubspot.com
 mediacpc.com
 mediacpm.com
 mediacpm.pl
@@ -111541,6 +111533,7 @@ mkt1181.com
 mkt11810.com
 mkt11811.com
 mkt11812.com
+mkt11813.com
 mkt11814.com
 mkt11815.com
 mkt11816.com
@@ -111701,6 +111694,7 @@ mkt1197.com
 mkt11971.com
 mkt11973.com
 mkt11975.com
+mkt11976.com
 mkt11978.com
 mkt11979.com
 mkt1198.com
@@ -111726,6 +111720,7 @@ mkt12008.com
 mkt1201.com
 mkt12013.com
 mkt12014.com
+mkt12018.com
 mkt1202.com
 mkt12022.com
 mkt12024.com
@@ -111744,10 +111739,17 @@ mkt12045.com
 mkt12046.com
 mkt12047.com
 mkt1205.com
+mkt12052.com
+mkt12053.com
 mkt12056.com
+mkt12058.com
 mkt1206.com
+mkt12060.com
 mkt12062.com
+mkt12064.com
+mkt12066.com
 mkt1207.com
+mkt12076.com
 mkt1208.com
 mkt1209.com
 mkt1210.com
@@ -156963,6 +156965,7 @@ sdqwf.ga
 sdrive.skoda-auto.com
 sds.btttag.com
 sdsherriff.com
+sdsi.bpnp.v5.mrmpzjjhn3sgtq5w.pro
 sdsjweb.com
 sdsp.ipinyou.com
 sdtagging.azureedge.net
@@ -168464,7 +168467,6 @@ soft2bet-webtracksdk-stg.optimove.net
 soft4cash.net
 softballcreeperamuse.com
 softboxik1.ru
-softcatalog.ru
 softclick.com.br
 softedoo.com
 softendevastated.com
@@ -176310,6 +176312,7 @@ sutraf.com
 suunta.visma.fi
 suvomac.ru
 suvoz.ru
+suvs.xzip.v5.mrmpzjjhn3sgtq5w.pro
 suvset.sohu.com
 suwotsoukry.com
 suwytid.com
@@ -203467,6 +203470,7 @@ xertivemedia-auto.t.domdex.com
 xertivemedia-finance.t.domdex.com
 xertivemedia-travel.t.domdex.com
 xetlugupyug.com
+xeuh.rqtp.v5.mrmpzjjhn3sgtq5w.pro
 xevbjycybvb.xyz
 xewihp.bayut.com
 xexe.club
