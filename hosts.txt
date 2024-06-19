@@ -4,7 +4,7 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 18 June 2024 00:43:08 (UTC)
+# Last Update: 19 June 2024 00:42:48 (UTC)
 # Unique Domains: 207,887
 #
 # ===============================================================
@@ -26392,7 +26392,6 @@ ara.blackcake.net
 ara.infosupports.com
 ara2.blackcake.net
 ara2.infosupports.com
-arabcomputersupportgroup.com
 arabcuff.com
 arabdevastatingpatty.com
 arabiangazette.ae.intellitxt.com
@@ -35985,6 +35984,7 @@ businessclick.ch
 businessclick.com
 businessconf03.com
 businessconsults.net
+businessdownloads.ltd
 businessengage.comcast.com
 businessenviron.com
 businessessities.com
