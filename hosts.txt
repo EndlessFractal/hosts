@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 23 June 2024 00:45:56 (UTC)
-# Unique Domains: 207,997
+# Last Update: 24 June 2024 00:44:17 (UTC)
+# Unique Domains: 207,989
 #
 # ===============================================================
 
@@ -14312,7 +14312,6 @@ ad-api.band.us
 ad-api.cnblogs.com
 ad-api.ehawk.com
 ad-api.enuri.info
-ad-app.morion.ua
 ad-arata.s3.amazonaws.com
 ad-arrow.com
 ad-assets.wynk.in
@@ -14327,7 +14326,6 @@ ad-brix.com
 ad-cache.dopool.com
 ad-cdn.qingting.fm
 ad-cdn.technoratimedia.com
-ad-center.com
 ad-channel.wikawika.xyz
 ad-cheers.com
 ad-clcount.com
@@ -14931,7 +14929,6 @@ ad2.img.static.youmi.net
 ad2.mimint.co.kr
 ad2.mobring.co
 ad2.nend.net
-ad2.on.cc
 ad2.rambler.ru
 ad2.shallwead.com
 ad2.sina.com.cn
@@ -15912,7 +15909,6 @@ adleadevent.com
 adleads.com
 adleap.jp
 adlearnop.advertising.com
-adledge.com
 adlegend.com
 adlermode01.webtrekk.net
 adlermodede.widget.criteo.com
@@ -24219,7 +24215,6 @@ api.lookupmanager.com
 api.lytics.io
 api.manage.ensighten.com
 api.market.pubnative.net
-api.masterprotocols.com
 api.matt.env.sandbox53.localytics.com
 api.mediatailor.eu-west-1.amazonaws.com
 api.mediation.amberweather.com
@@ -24315,7 +24310,6 @@ api.rishi.env.sandbox53.localytics.com
 api.rlcdn.com
 api.rmsi.adswizz.com
 api.rollbar.com
-api.rotatornet.com
 api.rqmob.com
 api.rtxplatform.com
 api.runative.com
@@ -42380,7 +42374,6 @@ clomgiriwil.com
 cloneabaff.com
 clonesmesopic.com
 clonkfanion.com
-clonyjohn.com
 cloodfront.com
 clopembira.website
 clopscesses.guru
@@ -73221,7 +73214,6 @@ gg8888.cnfol.com
 ggb.douguo.com
 ggbet-bonus24.site
 ggbet-online.pl
-ggbet-polska.pl
 ggbet.name
 ggbetss.com
 ggcode.2345.com
