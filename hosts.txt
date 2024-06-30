@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 29 June 2024 00:42:00 (UTC)
-# Unique Domains: 208,271
+# Last Update: 30 June 2024 00:47:25 (UTC)
+# Unique Domains: 208,294
 #
 # ===============================================================
 
@@ -1298,6 +1298,7 @@
 171630.engine.mobileapptracking.com
 171910.engine.mobileapptracking.com
 171934.engine.mobileapptracking.com
+172-105-66-118.ip.linodeusercontent.com
 172-eeu-190.mktoresp.com
 172.240.108.68
 172.240.108.76
@@ -2279,6 +2280,7 @@
 21udflra4wd.app-dev.cainthus.com
 21wiz.com
 22.news-subscribe.com
+220-133-67-91.hinet-ip.hinet.net
 220-edc-409.mktoresp.com
 22006.engine.mobileapptracking.com
 22012.engine.mobileapptracking.com
@@ -28556,10 +28558,15 @@ avantifinance.actonservice.com
 avantisvideo.com
 avantiwendo.com
 avasgtest.branch.rocks
+avast-antivirus.com
 avast.firefoxupdata.com
 avast.legratuits.com
 avastats.com
+avastcsw.com
 avastcv.com
+avastpst.com
+avastsf.com
+avastsgp.com
 avatacar.eulerian.net
 avault.net
 avaya-engage.avaya.com
@@ -29495,6 +29502,7 @@ b3z29k1uxb.com
 b403-6d08-1072-5a5e.reporo.net
 b42rracj.com
 b44794baad.com
+b46.oss-cn-hongkong.aliyuncs.com
 b461-9ef7-5e55-9fc6.reporo.net
 b477.life
 b4dda3f4a1.com
@@ -64284,6 +64292,7 @@ extragamebox.com
 extragifis.site
 extrahacks.net
 extrahacks.org
+extraiptv.giize.com
 extrajeux.fr
 extralarge-proposal.pro
 extramilefloorcare.ericksonbuilt.com
@@ -92507,6 +92516,7 @@ juxiao.adsmogo.net
 juxiao.mediav.com
 juy6asert67.click
 juyafctq.xyz
+juytlioojbni.duckdns.org
 juyvatnil.com
 juzqsq.finanzcheck.de
 juzzbunker.com
@@ -92889,7 +92899,6 @@ kalitereklam.com
 kallerupstone.viessmann.dk
 kallonworld.com
 kalmukrattail.com
-kaloo.ga
 kalooga.com
 kalpaksaffect.top
 kalseech.xyz
@@ -100453,6 +100462,7 @@ lsnghcma.com
 lspfuw.siwonschool.com
 lsqggflcsm.com
 lsqzxexvphk.com
+lsrael.today
 lstmoney.xyz
 lstonorallantyne.com
 lsubalhqkg.com
@@ -103191,6 +103201,7 @@ manager.teads.tv
 manager.wazuh.53.localytics.com
 manager.wazuh.sandbox53.localytics.com
 manager.yieldoptimizer.com
+managermagnetcccccmango.duckdns.org
 managersinvestmentgroupllc.demdex.net
 managesborerecords.com
 managesdancing.com
@@ -112168,6 +112179,7 @@ mkt11951.com
 mkt11952.com
 mkt11955.com
 mkt11956.com
+mkt11957.com
 mkt11959.com
 mkt1196.com
 mkt11960.com
@@ -112205,6 +112217,7 @@ mkt12004.com
 mkt12007.com
 mkt12008.com
 mkt1201.com
+mkt12010.com
 mkt12013.com
 mkt12014.com
 mkt12018.com
@@ -112231,6 +112244,7 @@ mkt12047.com
 mkt12048.com
 mkt12049.com
 mkt1205.com
+mkt12051.com
 mkt12052.com
 mkt12053.com
 mkt12054.com
@@ -112257,6 +112271,7 @@ mkt12074.com
 mkt12076.com
 mkt12077.com
 mkt12078.com
+mkt12079.com
 mkt1208.com
 mkt12080.com
 mkt12081.com
@@ -112275,6 +112290,7 @@ mkt12094.com
 mkt12095.com
 mkt12096.com
 mkt12097.com
+mkt12098.com
 mkt1210.com
 mkt12100.com
 mkt1211.com
@@ -150867,6 +150883,7 @@ regionshop.biz
 regis2tarsgroup.click
 regis2tarsinc.click
 registartion-service-prod.optimove.net
+register-agov.com
 register-implants.dentsplysirona.com
 register.7eer.net
 register.appsflyer.com
@@ -173719,6 +173736,7 @@ statictest.fraudmetrix.cn
 staticvc.adsafeprotected.com
 staticw2.yotpo.com
 staticxz.com
+station-jup.org
 stationspire.com
 statis.dsp.vn
 statis.mobile.youku.com
@@ -201289,6 +201307,9 @@ www.agile-company-365.com
 www.agile-enterprise-365.com
 www.agile365enterprise.com
 www.agiledata7.com
+www.agov-access.com
+www.agov-access.net
+www.agov-ch.com
 www.aiea6gaza.com
 www.ailiyou1999.com
 www.aimtell.com
@@ -201399,6 +201420,7 @@ www.auditude.com
 www.aunewsonline.com
 www.automatad.com
 www.auxml.com
+www.avastsp.com
 www.avismarketing.gr
 www.avocet.io
 www.avvmail.com
@@ -201508,7 +201530,6 @@ www.burn5tilt.com
 www.business-path-55.com
 www.businessformars.com
 www.busketball.com
-www.busyestinglsv.site
 www.bux1le001.com
 www.buysellads.com
 www.buysellads.net
@@ -201896,6 +201917,7 @@ www.exoclick.com
 www.explore-123.com
 www.express.mgid.com
 www.expresscashback.in
+www.extraiptv.giize.com
 www.extranet.dotomi.com
 www.eyeota.net
 www.eyeviewads.com
@@ -202908,6 +202930,7 @@ www.redtrack.io
 www.referral.supersonic.com
 www.refersion.com
 www.refl3alea.com
+www.register-agov.com
 www.registrocofinavit.com
 www.registrocumbresallegro.com
 www.registroeventosjaver.com
