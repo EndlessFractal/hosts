@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 30 June 2024 00:47:25 (UTC)
-# Unique Domains: 208,294
+# Last Update: 01 July 2024 00:49:55 (UTC)
+# Unique Domains: 208,291
 #
 # ===============================================================
 
@@ -22292,7 +22292,6 @@ analytics.kellerpermits.com
 analytics.kellyservices.com
 analytics.kemlu.go.id
 analytics.kerns.co
-analytics.khmerload.com
 analytics.kidoz.net
 analytics.kkb.com.tr
 analytics.klickly.com
@@ -28567,6 +28566,7 @@ avastcv.com
 avastpst.com
 avastsf.com
 avastsgp.com
+avastsp.com
 avatacar.eulerian.net
 avault.net
 avaya-engage.avaya.com
@@ -42346,7 +42346,6 @@ clk.ubi.com
 clk.uunt.com
 clk.wagon-hire.com
 clka.media.net
-clkads.com
 clkbnoqb.com
 clkcv.biglobehikari-kaisen.com
 clkcv.livede55.com
@@ -56367,6 +56366,7 @@ down.91wangmeng.com
 down.adx1.com
 down.diannaodian.com
 down.ewo1617.com
+down.ftp21.cc
 down.hyprmx.com
 down.infobusinessus.org
 down.laomaotao.net
@@ -98426,7 +98426,6 @@ live365.adswizz.com
 liveadexchanger.com
 liveadoptimizer.com
 liveads.jp
-liveadvert.com
 liveappsearch.com
 liveburst.com
 livec.l.qq.com
@@ -101448,7 +101447,6 @@ m1.we556.com
 m1.zedo.com
 m1170.top
 m1crosoft.co
-m1dnightclubx.com
 m1ll1c4n0.com
 m1tm.motor1.com
 m2-c.adyield.co
@@ -121925,7 +121923,6 @@ mobileads.ero-advertising.com
 mobileads.indiatimes.com
 mobileads.msn.com
 mobileadstrk.com
-mobileadtrading.com
 mobileadvertise.de
 mobileadx.ru
 mobileanalytics.us-east-1.amazonaws.com
@@ -122646,6 +122643,7 @@ more.socialflow.com
 more.spglobal.com
 more.tubemogul.com
 more.vizury.com
+moreapp4you.online
 morebattery4u.com
 moreenbopster.website
 moregamers.com
@@ -168859,7 +168857,6 @@ sniperdz.com
 sniperghostwarrior2.sharezips.info
 sniperlog.ru
 snipersex.com
-snipeskins.com
 sniphub.com
 snipishdements.com
 snippets.cdn.mozilla.net
