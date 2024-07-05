@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 04 July 2024 00:43:15 (UTC)
-# Unique Domains: 209,137
+# Last Update: 05 July 2024 00:42:53 (UTC)
+# Unique Domains: 209,153
 #
 # ===============================================================
 
@@ -18752,6 +18752,7 @@ adserviceretry.kugou.com
 adserving.unibet.com
 adservingbase.ace.advertising.com
 adservingfactory.com
+adservings.ru
 adservingsolutionsinc.adk2x.com
 adservme.com
 adservme.g2afse.com
@@ -23987,6 +23988,7 @@ anonads.net
 anonstat.pw
 anonym.data.funkedigital.de
 anonymestupes.website
+anonymous-analytics.tonkeeper.com
 anonymous-hacks.com
 anonymous-net.com
 anonymousads.com
@@ -40400,6 +40402,7 @@ cellmonitoring.co
 cellojapanelmo.info
 cellphone-remote-tracker.com
 cellphoneservices.info
+cellrebel.com
 cellsmonitor.com
 cellspsoatic.com
 cellstats.mako.co.il
@@ -44047,6 +44050,7 @@ cnzz.com
 cnzz.mmstat.com
 cnzz.net
 cnzz.yifenghuyu.com
+co-buying.com
 co-gmtdmp.mookie1.com
 co.ad.lgsmartad.com
 co.ads.justpremium.com
@@ -89909,7 +89913,6 @@ iogous.com
 ioi.life
 ioiefyw.com
 ioiubby73b1n.com
-iojhfyughnklnjb.shop
 iojnask.com
 iokhsx.unionmonthly.jp
 iokqtntsuwshtjh.com
@@ -107346,6 +107349,7 @@ medi-8.net
 media-412.com
 media-active.ru
 media-ads.zaloapp.com
+media-adv.market.yandex.ru
 media-ams5.msg.dotomi.com
 media-atl3-1.cdn.whatsapp.net.iberostar.com
 media-bofa.inq.com
@@ -139380,6 +139384,7 @@ p38943.clksite.com
 p38959.inclk.com
 p39620.clksite.com
 p3a.brave.com
+p3c0der.github.io
 p3p.mmstat.com
 p3p.sogou.com
 p3p.yahoo.com
@@ -141735,9 +141740,17 @@ pgssl.com
 pgt1.voyage-prive.es
 pgtabxxmb.com
 pgteu1-excel-telemetry-vip.officeapps.live.com
+pgteu1-powerpoint-telemetry-vip.officeapps.live.com
+pgteu1-word-telemetry-vip.officeapps.live.com
+pgteu2-excel-telemetry-vip.officeapps.live.com
+pgteu2-powerpoint-telemetry-vip.officeapps.live.com
 pgteu2-word-telemetry-vip.officeapps.live.com
+pgteu3-excel-telemetry-vip.officeapps.live.com
 pgteu3-powerpoint-telemetry-vip.officeapps.live.com
+pgteu3-word-telemetry-vip.officeapps.live.com
 pgteu4-excel-telemetry-vip.officeapps.live.com
+pgteu4-powerpoint-telemetry-vip.officeapps.live.com
+pgteu4-word-telemetry-vip.officeapps.live.com
 pgusgyzdfpj.ru
 pgv4.com
 pgvjhejpnnir.com
@@ -145084,6 +145097,7 @@ poshreducingawoke.com
 poshsenseless.com
 poshsplitdr.com
 poshyouthfulton.com
+posindonesianews.lol
 position.dftoutiao.com
 positionavailreproach.com
 positioner.info
@@ -163227,6 +163241,7 @@ sketchinferiorunits.com
 sketchupmodel.org
 sketchyrecycleimpose.com
 sketchystairwell.com
+skf-mx.com
 skf.actonservice.com
 skfda5.com
 skfudf763-dsfew95-90fjksj.xyz
@@ -177870,7 +177885,6 @@ svtrd.com
 svvev3.com
 svwhhiiyihcwh.com
 svyksa.info
-sw-rail-7.com
 sw.broadcom.com
 sw.hugesoft.org
 sw.mobile.sogou.com
@@ -195318,6 +195332,7 @@ videos-by.vemba.com
 videos-for-your-business.com
 videos.acceptance.sharethrough.com
 videos.adp.ca
+videos.ergo-unterwegs.de
 videos.exchange4media.com
 videos.oms.eu
 videos.personneltoday.com
@@ -196250,6 +196265,7 @@ vjvj.vj24co.com
 vjzjpt.xyz
 vjzlgtnaov.com
 vk-ads.ru
+vk-analytics.ru
 vkanalytics.net
 vkarrc.com
 vkbvny.ddanzi.com
