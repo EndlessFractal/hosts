@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 06 July 2024 00:41:50 (UTC)
-# Unique Domains: 209,249
+# Last Update: 07 July 2024 00:48:04 (UTC)
+# Unique Domains: 209,258
 #
 # ===============================================================
 
@@ -417,6 +417,7 @@
 1.11130.com.cn
 1.11467.com
 1.15lu.com
+1.172-245-112-195.cprapid.com
 1.201980.com
 1.32xp.com
 1.5000yan.com
@@ -1297,7 +1298,7 @@
 171630.engine.mobileapptracking.com
 171910.engine.mobileapptracking.com
 171934.engine.mobileapptracking.com
-172-105-66-118.ip.linodeusercontent.com
+172-245-112-195.cprapid.com
 172-eeu-190.mktoresp.com
 172.240.108.68
 172.240.108.76
@@ -2204,6 +2205,7 @@
 20szp.com
 20trackdomain.com
 20tracks.com
+21.172-245-112-195.cprapid.com
 21.cizhibaogao.org
 21.fh21static.com
 21.huanqiu.com
@@ -2278,7 +2280,6 @@
 21udflra4wd.app-dev.cainthus.com
 21wiz.com
 22.news-subscribe.com
-220-133-67-91.hinet-ip.hinet.net
 220-edc-409.mktoresp.com
 22006.engine.mobileapptracking.com
 22012.engine.mobileapptracking.com
@@ -2585,6 +2586,7 @@
 25ix8gm8ien.sandbox.panprices.com
 25ktra.cn
 25obpfr.de
+26.172-245-112-195.cprapid.com
 261-qyg-921.mktoresp.com
 261826549347986.wt-eu02.net
 26230025.adoric-om.com
@@ -4998,6 +5000,7 @@
 50onred.com
 50onred.xml.auxml.com
 50shadesofgreydownload.net
+51.172-245-112-195.cprapid.com
 51.178.76.105
 51.68.87.229
 51.91.211.94
@@ -5485,6 +5488,7 @@
 57d9149556b95e00110c981b.tracker.adotmob.com
 57ebe236bc6623001283a26b.tracker.adotmob.com
 57fb96d5ea40e000127fc2bb.tracker.adotmob.com
+58.172-245-112-195.cprapid.com
 58.249.74.79
 58011369.log.optimizely.com
 58039902.adoric-om.com
@@ -29352,7 +29356,6 @@ avantifinance.actonservice.com
 avantisvideo.com
 avantiwendo.com
 avasgtest.branch.rocks
-avast-antivirus.com
 avast.firefoxupdata.com
 avast.legratuits.com
 avastats.com
@@ -29360,7 +29363,6 @@ avastcsw.com
 avastcv.com
 avastpst.com
 avastsf.com
-avastsgp.com
 avastsp.com
 avatacar.eulerian.net
 avatarweb.site
@@ -30309,7 +30311,6 @@ b3z29k1uxb.com
 b403-6d08-1072-5a5e.reporo.net
 b42rracj.com
 b44794baad.com
-b46.oss-cn-hongkong.aliyuncs.com
 b461-9ef7-5e55-9fc6.reporo.net
 b477.life
 b4dda3f4a1.com
@@ -47540,11 +47541,16 @@ cpc.brand.sogou.com
 cpc.click.alimama.com
 cpc.sogou.com
 cpc.sohu.com
+cpcalendars.13.172-245-112-195.cprapid.com
 cpcalendars.spymasterpro.com
 cpcd02.smaato.net
 cpcd03.smaato.net
 cpcmanager.com
 cpcmart.com
+cpcontacts.34.172-245-112-195.cprapid.com
+cpcontacts.52.172-245-112-195.cprapid.com
+cpcontacts.70.172-245-112-195.cprapid.com
+cpcontacts.78.172-245-112-195.cprapid.com
 cpcontacts.feckwear.com
 cpcontacts.spymasterpro.com
 cpcvabi.com
@@ -54734,6 +54740,8 @@ dhaxhsa325.com
 dhc.pxf.io
 dhcjcjjdjcjzengkfj.xyz
 dhcmni6m2kkyw.cloudfront.net
+dhcp-206-248-59-5.metro86.ru
+dhcp-211-248-59-5.metro86.ru
 dhdaa.duke.edu
 dhdkgbm.cyou
 dheircrhnerdgfd.info
@@ -65256,7 +65264,6 @@ extragamebox.com
 extragifis.site
 extrahacks.net
 extrahacks.org
-extraiptv.giize.com
 extrajeux.fr
 extralarge-proposal.pro
 extramilefloorcare.ericksonbuilt.com
@@ -93565,7 +93572,6 @@ juxiao.adsmogo.net
 juxiao.mediav.com
 juy6asert67.click
 juyafctq.xyz
-juytlioojbni.duckdns.org
 juyvatnil.com
 juzqsq.finanzcheck.de
 juzzbunker.com
@@ -94038,6 +94044,7 @@ karenmilleusasale.com
 karenmilleusastore.com
 karep.ru
 kargo.com
+karimgouss.ug
 karinot.ru
 karisimbi.net
 karisma.evergage.com
@@ -96145,6 +96152,7 @@ l0ix1.site
 l1.adsplay.in
 l1.konotor.com
 l1.zedo.com
+l11196s.vps-kinghost.net
 l1ihpb0dz521ol.cfd
 l1native.com
 l1vec4ms.com
@@ -101506,7 +101514,6 @@ lsnghcma.com
 lspfuw.siwonschool.com
 lsqggflcsm.com
 lsqzxexvphk.com
-lsrael.today
 lstkadfnevu.com
 lstmoney.xyz
 lstonorallantyne.com
@@ -102893,6 +102900,7 @@ magreprints.com
 magsrv.com
 magutr.pro
 mahabaliexpress.com
+mahadukan.com
 mahaidroagra.com
 mahao1.cn
 mahaplinths.com
@@ -102925,6 +102933,8 @@ mail-count.matsui.co.jp
 mail-rite.actonservice.com
 mail-spinner.com
 mail-u.com.my
+mail.45.172-245-112-195.cprapid.com
+mail.59.172-245-112-195.cprapid.com
 mail.academyforconsciousleadership.net
 mail.act.bamboohr.com
 mail.actonpearl.com
@@ -104242,7 +104252,6 @@ manager.teads.tv
 manager.wazuh.53.localytics.com
 manager.wazuh.sandbox53.localytics.com
 manager.yieldoptimizer.com
-managermagnetcccccmango.duckdns.org
 managersinvestmentgroupllc.demdex.net
 managesborerecords.com
 managesdancing.com
@@ -113185,6 +113194,7 @@ mkt12018.com
 mkt12019.com
 mkt1202.com
 mkt12022.com
+mkt12023.com
 mkt12024.com
 mkt12025.com
 mkt12026.com
@@ -151836,7 +151846,6 @@ regionshop.biz
 regis2tarsgroup.click
 regis2tarsinc.click
 registartion-service-prod.optimove.net
-register-agov.com
 register-implants.dentsplysirona.com
 register.7eer.net
 register.appsflyer.com
@@ -174612,7 +174621,6 @@ statictest.fraudmetrix.cn
 staticvc.adsafeprotected.com
 staticw2.yotpo.com
 staticxz.com
-station-jup.org
 stationspire.com
 statis.dsp.vn
 statis.mobile.youku.com
@@ -181022,6 +181030,7 @@ techousnorimon.life
 techprovider.intel.com
 techpump.com
 techreviewtech.com
+techseasoning.com
 techservices.trapptechnology.com
 techsmith.pxf.io
 techsparks.netcoresmartech.com
@@ -199001,6 +199010,9 @@ weblog.woowa.in
 weblog.zdnet.co.kr
 weblog2.eseoul.go.kr
 weblogiklan.com
+webmail.00.172-245-112-195.cprapid.com
+webmail.45.172-245-112-195.cprapid.com
+webmail.61.172-245-112-195.cprapid.com
 webmail.advanbusiness.com
 webmail.aoldaily.com
 webmail.applesoftupdate.com
@@ -202190,9 +202202,6 @@ www.agile-company-365.com
 www.agile-enterprise-365.com
 www.agile365enterprise.com
 www.agiledata7.com
-www.agov-access.com
-www.agov-access.net
-www.agov-ch.com
 www.aiea6gaza.com
 www.ailiyou1999.com
 www.aimtell.com
@@ -202303,7 +202312,6 @@ www.auditude.com
 www.aunewsonline.com
 www.automatad.com
 www.auxml.com
-www.avastsp.com
 www.avismarketing.gr
 www.avocet.io
 www.avvmail.com
@@ -202807,7 +202815,6 @@ www.exoclick.com
 www.explore-123.com
 www.express.mgid.com
 www.expresscashback.in
-www.extraiptv.giize.com
 www.extranet.dotomi.com
 www.eyeota.net
 www.eyeviewads.com
@@ -203121,6 +203128,7 @@ www.irbkobqlrbtt.com
 www.iron0walk.com
 www.isanalyze.com
 www.isitone.com
+www.ivancamposfx.com
 www.iwoop.com
 www.iyfnzgb.com
 www.jabalproperties.org
@@ -203172,6 +203180,7 @@ www.kameleoon.com
 www.kanglingjiu.com
 www.kanmobi.net
 www.kanshuapp.com
+www.karimgouss.ug
 www.keet1liod.com
 www.kejet.com
 www.keyade.fr
@@ -203830,7 +203839,6 @@ www.redtrack.io
 www.referral.supersonic.com
 www.refersion.com
 www.refl3alea.com
-www.register-agov.com
 www.registrocofinavit.com
 www.registrocumbresallegro.com
 www.registroeventosjaver.com
@@ -204223,6 +204231,7 @@ www.tujidao.com
 www.tula9mari.com
 www.tummiarunzpf.com
 www.turn.com
+www.tuskslacx.ug
 www.tvpage.com
 www.tynt.com
 www.tz-dsp.com
