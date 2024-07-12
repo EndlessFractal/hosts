@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 11 July 2024 00:44:08 (UTC)
-# Unique Domains: 209,493
+# Last Update: 12 July 2024 00:43:21 (UTC)
+# Unique Domains: 209,494
 #
 # ===============================================================
 
@@ -23102,7 +23102,6 @@ analytics.languagetoolplus.com
 analytics.laregione.ch
 analytics.lasegunda.ecn.cl
 analytics.launch.bz
-analytics.lbry.com
 analytics.lego.com.ssl.d1.sc.omtrdc.net
 analytics.lekumo.jp
 analytics.lemoolah.com
@@ -30584,6 +30583,7 @@ badahub.com
 badchad.net
 badding.oss-ap-southeast-1.aliyuncs.com
 badeldestarticulate.com
+bades.co.tz
 badge-services.com
 badge.realclever.com
 badgegirdle.com
@@ -31094,6 +31094,7 @@ bar.onthe.io
 bar.rad.atdmt.com
 baraga.ru
 barah-flo.com
+barakaest.com
 barakttt.amobee.com
 barbabridgeoverprotective.com
 barbarahome.top
@@ -44418,6 +44419,7 @@ coinads.offerstrack.net
 coinadster.com
 coinbank247.com
 coinbase.gift
+coinbasenftapp.com
 coinbasepro-giveaway.com
 coinblind.com
 coinblocktyrusmiram.com
@@ -67557,7 +67559,6 @@ festoonnapkin.guru
 festtube.com
 festusthedrag.com
 fetch.gethuan.com
-fetchback.com
 fetchedhighlight.com
 fetchinstalmenttraffic.com
 fetd.prod.cps.awseuwest1.itvcloud.zone
@@ -68024,7 +68025,6 @@ files.crittercism.com
 files.downloadsite.me
 files.im
 files.info.posteitaliane.it
-files.kovey-net.ru
 files.ly
 files.pbgiris.com
 files.propellerads.com
@@ -69409,6 +69409,7 @@ food.informaengage.com
 food.msnhome.org
 food.pentonmarketingsvcs.com
 food52.com.proxy.firstimpression.io
+foodbook.live
 foodbrochure.advancedtech.com
 foodieblogroll.com
 foodin.site
@@ -110326,6 +110327,7 @@ mhysbwo.xyz
 mhz-design.actonservice.com
 mhzftye.xyz
 mi-de-ner-nis3.info
+mi.ab48.sa.com
 mi.eulerian.net
 mi.gdt.qq.com
 mi.grubhub.com
@@ -139604,7 +139606,6 @@ p38943.clksite.com
 p38959.inclk.com
 p39620.clksite.com
 p3a.brave.com
-p3c0der.github.io
 p3p.mmstat.com
 p3p.sogou.com
 p3p.yahoo.com
@@ -163491,7 +163492,6 @@ sketchinferiorunits.com
 sketchupmodel.org
 sketchyrecycleimpose.com
 sketchystairwell.com
-skf-mx.com
 skf.actonservice.com
 skfda5.com
 skfudf763-dsfew95-90fjksj.xyz
@@ -195626,7 +195626,6 @@ videos-by.vemba.com
 videos-for-your-business.com
 videos.acceptance.sharethrough.com
 videos.adp.ca
-videos.ergo-unterwegs.de
 videos.exchange4media.com
 videos.oms.eu
 videos.personneltoday.com
@@ -197316,6 +197315,7 @@ vprivate-sexa.ru
 vpromalpe.mirtesen.ru
 vprtrfc.com
 vprwamqmdd.xyz
+vps-276e8ec4.vps.ovh.net
 vps-a907fa49.vps.ovh.ca
 vps.amobee.com
 vps.eulerian.com
@@ -206208,6 +206208,7 @@ xtractor.no
 xtrades.pro
 xtraffic.plus
 xtrafficplus.com
+xtrafficplus.online
 xtrafficplus.xyz
 xtrail-forum.de.intellitxt.com
 xtramannchinhhang.com
