@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 14 July 2024 00:49:06 (UTC)
-# Unique Domains: 210,673
+# Last Update: 15 July 2024 00:45:53 (UTC)
+# Unique Domains: 210,630
 #
 # ===============================================================
 
@@ -418,7 +418,6 @@
 1.11130.com.cn
 1.11467.com
 1.15lu.com
-1.172-245-112-195.cprapid.com
 1.201980.com
 1.32xp.com
 1.5000yan.com
@@ -954,7 +953,6 @@
 13js1lbtbj3.sparkloop.app
 13niao20230422.live
 13p76nnir.de
-14.172-245-112-195.cprapid.com
 140-kob-440.mktoresp.com
 14012.engine.mobileapptracking.com
 1403639.fls.doubleclick.net
@@ -1049,7 +1047,6 @@
 14fefmsjd.de
 14i8trbbx4.com
 15-reasons-for-seo.com
-15.172-245-112-195.cprapid.com
 15.197.244.48
 15.taboola.com
 150-lji-111.mktoresp.com
@@ -1306,7 +1303,6 @@
 171630.engine.mobileapptracking.com
 171910.engine.mobileapptracking.com
 171934.engine.mobileapptracking.com
-172-245-112-195.cprapid.com
 172-eeu-190.mktoresp.com
 172.240.108.68
 172.240.108.76
@@ -5019,7 +5015,6 @@
 50onred.com
 50onred.xml.auxml.com
 50shadesofgreydownload.net
-51.172-245-112-195.cprapid.com
 51.178.76.105
 51.68.87.229
 51.91.211.94
@@ -5510,7 +5505,6 @@
 57d9149556b95e00110c981b.tracker.adotmob.com
 57ebe236bc6623001283a26b.tracker.adotmob.com
 57fb96d5ea40e000127fc2bb.tracker.adotmob.com
-58.172-245-112-195.cprapid.com
 58.249.74.79
 58011369.log.optimizely.com
 58039902.adoric-om.com
@@ -6196,7 +6190,6 @@
 6796.engine.mobileapptracking.com
 67trackdomain.com
 68-175.net.jumia.co.ke
-68.172-245-112-195.cprapid.com
 68.197.33.124
 68.news-subscribe.com
 680-onc-130.mktoresp.com
@@ -47850,19 +47843,11 @@ cpc.click.alimama.com
 cpc.sogou.com
 cpc.sohu.com
 cpcalendars.13.172-245-112-195.cprapid.com
-cpcalendars.45.172-245-112-195.cprapid.com
-cpcalendars.49.172-245-112-195.cprapid.com
 cpcalendars.spymasterpro.com
 cpcd02.smaato.net
 cpcd03.smaato.net
 cpcmanager.com
 cpcmart.com
-cpcontacts.34.172-245-112-195.cprapid.com
-cpcontacts.42.172-245-112-195.cprapid.com
-cpcontacts.52.172-245-112-195.cprapid.com
-cpcontacts.70.172-245-112-195.cprapid.com
-cpcontacts.78.172-245-112-195.cprapid.com
-cpcontacts.96.172-245-112-195.cprapid.com
 cpcontacts.spymasterpro.com
 cpcvabi.com
 cpczy.voluumtrk.com
@@ -94663,7 +94648,6 @@ karenmilleusasale.com
 karenmilleusastore.com
 karep.ru
 kargo.com
-karimgouss.ug
 karinot.ru
 karisimbi.net
 karisma.evergage.com
@@ -103642,9 +103626,6 @@ mail-count.matsui.co.jp
 mail-rite.actonservice.com
 mail-spinner.com
 mail-u.com.my
-mail.23.172-245-112-195.cprapid.com
-mail.45.172-245-112-195.cprapid.com
-mail.59.172-245-112-195.cprapid.com
 mail.academyforconsciousleadership.net
 mail.act.bamboohr.com
 mail.actonpearl.com
@@ -103785,7 +103766,6 @@ mail.lifemiles.com
 mail.lksoftvc.net
 mail.locktonaffinitymarketing.com
 mail.mailcenterng.com
-mail.maritaxfleet.com
 mail.mcafeepaying.com
 mail.medtechintelligence.net
 mail.meyeremails.com
@@ -105296,7 +105276,6 @@ marisappear.pro
 marit01.webtrekk.net
 maritaltrousersidle.com
 maritanewark.com
-maritaxfleet.com
 maritimeway.com
 maritipitons.com
 marjorieblog.online
@@ -132378,7 +132357,6 @@ ns1.omtrdc.net
 ns1.puserving.com
 ns1.reporo.net
 ns1.stg.fwmrm.net
-ns1.timecheck.ug
 ns1.trafficclub.com
 ns1.tribalfusion.com
 ns1.viglink.com
@@ -132419,7 +132397,6 @@ ns2.omtrdc.net
 ns2.reporo.net
 ns2.steepto.com
 ns2.stg.fwmrm.net
-ns2.timecheck.ug
 ns2.videoplaza.tv
 ns2.viglink.com
 ns21.adlegend.com
@@ -141432,7 +141409,6 @@ pastoralcorn.com
 pastoralroad.com
 pastorbrianvindas.com
 pastoupt.com
-pastrasasca.ug
 pastreflected.com
 pastrentroom.com
 pastureacross.com
@@ -145784,7 +145760,6 @@ pop.media.net
 pop.micyuisyahooapis.com
 pop.msnhome.org
 pop.newsonlinesite.com
-pop.partaususd.ru
 pop.pop-musicsite.com
 pop.satellitebbs.com
 pop.staycools.net
@@ -146113,7 +146088,6 @@ poshreducingawoke.com
 poshsenseless.com
 poshsplitdr.com
 poshyouthfulton.com
-posindonesianews.lol
 positietwl.site
 position.dftoutiao.com
 positionavailreproach.com
@@ -181660,7 +181634,6 @@ taxi.com.102.122.2o7.net
 taxicabarete.com
 taxiconsiderable.com
 taximenmugwort.com
-taxinhanhlongan.com
 taxiqipi.ru
 taxismaned.top
 taxissung.com
@@ -183951,7 +183924,6 @@ thtpxwnqfx.com
 thuah.com
 thuant.com
 thubanoa.com
-thuexeditinh365.click
 thugkinup.com
 thugskins.top
 thuliagum.com
@@ -198456,7 +198428,6 @@ vpromalpe.mirtesen.ru
 vprtrfc.com
 vprwamqmdd.xyz
 vps-276e8ec4.vps.ovh.net
-vps-a907fa49.vps.ovh.ca
 vps.amobee.com
 vps.eulerian.com
 vps.eulerian.eu
@@ -198484,7 +198455,6 @@ vps22.adsplay.in
 vps23.adsplay.in
 vps24.adsplay.in
 vps25.adsplay.in
-vps6.dsservice.co
 vps7.adsplay.in
 vps8.adsplay.in
 vps8449vn.com
@@ -200297,7 +200267,6 @@ webdatatrace.com
 webdev.marketo.com
 webdev0.com
 webdeveloper.us.intellitxt.com
-webdisk.22.172-245-112-195.cprapid.com
 webdissector.com
 webeatyouradblocker.com
 webed.dm-event.net
@@ -200367,7 +200336,6 @@ weblog.woowa.in
 weblog.zdnet.co.kr
 weblog2.eseoul.go.kr
 weblogiklan.com
-webmail.45.172-245-112-195.cprapid.com
 webmail.61.172-245-112-195.cprapid.com
 webmail.advanbusiness.com
 webmail.aoldaily.com
@@ -203332,7 +203300,6 @@ www.123-tracker.com
 www.123metrics.com
 www.142904.com
 www.143nchrtl3.com
-www.16.172-245-112-195.cprapid.com
 www.163ren.com
 www.17zhaole.com
 www.18dusun.com
@@ -203384,7 +203351,6 @@ www.55-trk-srv.com
 www.555p555p.com
 www.5634.com
 www.56yk.com
-www.57.172-245-112-195.cprapid.com
 www.57.com.cn
 www.5857.com
 www.588yw.com
@@ -204562,7 +204528,6 @@ www.kameleoon.com
 www.kanglingjiu.com
 www.kanmobi.net
 www.kanshuapp.com
-www.karimgouss.ug
 www.keet1liod.com
 www.kejet.com
 www.keyade.fr
@@ -204720,7 +204685,6 @@ www.maltempata.com
 www.marfeel.com
 www.mari4norm.com
 www.marinsm.com
-www.maritaxfleet.com
 www.marketing.aftermath.com
 www.marketing.altn.com
 www.marketing.linguamatics.com
@@ -204962,7 +204926,6 @@ www.ooniu.com
 www.opencache.com
 www.openx.net
 www.operationintelligence7.com
-www.opsdjs.ug
 www.optaim.com
 www.optimix.cn
 www.optimonk.com
@@ -205537,10 +205500,8 @@ www.the-lead-tracker.com
 www.the.unbounce.com
 www.thefilter.com
 www.themoneytizer.com
-www.thuexeditinh365.click
 www.thztv.net
 www.tibethome.org
-www.timebound.ug
 www.tinytapgame.com
 www.tire1soak.com
 www.titanium.servicios.com.ec
@@ -205616,7 +205577,6 @@ www.tujidao.com
 www.tula9mari.com
 www.tummiarunzpf.com
 www.turn.com
-www.tuskslacx.ug
 www.tvpage.com
 www.tynt.com
 www.tz-dsp.com
@@ -205794,7 +205754,6 @@ www.xapads.com
 www.xavingtsun.com
 www.xavmcsvas.bid
 www.xbzzzx.com
-www.xelientinhmiennam.com
 www.xgvertjtfl.bid
 www.xiacai.com
 www.xiaodaoyuedu.com
@@ -206602,7 +206561,6 @@ xejpzk.fram.fr
 xekjzy.rinascente.it
 xekmhvbb.xyz
 xel-xel-fie.com
-xelientinhmiennam.com
 xelllwrite.com
 xemiro.uno
 xenar.xyz
@@ -207795,7 +207753,6 @@ yappedperlid.com
 yaprifxbrcrx.com
 yaprin.com
 yapunderstandsounding.com
-yarasports.com
 yard.earthsolution.org
 yardbarker.tags.crwdcntrl.net
 yardianalytics.com
