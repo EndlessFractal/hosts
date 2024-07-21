@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 20 July 2024 00:43:17 (UTC)
-# Unique Domains: 210,886
+# Last Update: 21 July 2024 00:48:53 (UTC)
+# Unique Domains: 210,889
 #
 # ===============================================================
 
@@ -6519,7 +6519,6 @@
 73au81v1yu.mentalist.kameleoon.com
 73ec0.voluumtrk.com
 73twu.voluumtrk.com
-74-207-241-134.ip.linodeusercontent.com
 741-txl-332.mktoresp.com
 7411603f57.com
 741635512.keywordblocks.com
@@ -37522,6 +37521,7 @@ c-o-u-n-t.com
 c-on-text.com
 c-phone.ru
 c-points.de
+c-regioale.duckdns.org
 c-sc2.adsymptotic.com
 c-srvjsr.media.net
 c-stat.eu
@@ -44642,6 +44642,7 @@ codghostshacks.org
 codigo.se
 codon.vn
 codysbbq.com
+coe.com.vn
 coe.nationtour.net
 coe.reutersnewsonline.com
 coed-d.openx.net
@@ -47846,6 +47847,7 @@ cp3.eulerian.com
 cp3.eulerian.eu
 cp3.eulerian.fr
 cp3.eulerian.net
+cp4-lax1.ultahosts.com
 cp4.eulerian.com
 cp4.eulerian.eu
 cp4.eulerian.fr
@@ -47907,7 +47909,6 @@ cpc.brand.sogou.com
 cpc.click.alimama.com
 cpc.sogou.com
 cpc.sohu.com
-cpcalendars.13.172-245-112-195.cprapid.com
 cpcalendars.spymasterpro.com
 cpcd02.smaato.net
 cpcd03.smaato.net
@@ -55143,8 +55144,6 @@ dhaxhsa325.com
 dhc.pxf.io
 dhcjcjjdjcjzengkfj.xyz
 dhcmni6m2kkyw.cloudfront.net
-dhcp-206-248-59-5.metro86.ru
-dhcp-211-248-59-5.metro86.ru
 dhdaa.duke.edu
 dhdkgbm.cyou
 dheircrhnerdgfd.info
@@ -77697,6 +77696,7 @@ go7media.ru
 go888.me
 go88vn.shop
 go8me.ru
+go9niapp.buzz
 goa.dngn.kr
 goaboomy.com
 goaccount.goforandroid.com
@@ -111066,7 +111066,6 @@ mhizzr.eurorelais.nl
 mhjcpn.com
 mhjk.1391.com
 mhkvktz.com
-mhmh1-1251344380.cos.ap-chengdu.myqcloud.com
 mhmp.bruker.com
 mhmzhc.trysnow.com
 mhnpec.nimaxi-online.com
@@ -114100,6 +114099,7 @@ mkt12017.com
 mkt12018.com
 mkt12019.com
 mkt1202.com
+mkt12020.com
 mkt12022.com
 mkt12023.com
 mkt12024.com
@@ -114149,6 +114149,7 @@ mkt12071.com
 mkt12072.com
 mkt12073.com
 mkt12074.com
+mkt12075.com
 mkt12076.com
 mkt12077.com
 mkt12078.com
@@ -114174,11 +114175,14 @@ mkt12097.com
 mkt12098.com
 mkt1210.com
 mkt12100.com
+mkt12101.com
 mkt12103.com
+mkt12105.com
 mkt12106.com
 mkt1211.com
 mkt12110.com
 mkt12115.com
+mkt12119.com
 mkt1212.com
 mkt1213.com
 mkt1214.com
@@ -124579,6 +124583,7 @@ morningstarlincoln.co.uk
 moro-douga.link
 morogefiles.com
 moronesphotos.com
+morphine.lol
 morphoo.sbs
 morphoo.site
 morrellinc.actonsoftware.com
@@ -154932,7 +154937,6 @@ rm.pxl.ace.advertising.com
 rm.ra.icast.cn
 rm.sina.com.cn
 rm0001.net
-rm0003.net
 rm0004.net
 rm0005.net
 rm01.eulerian.net
@@ -161048,7 +161052,6 @@ self-service.adxxx.com
 self.adsame.com
 self.com.102.112.2o7.net
 self.firefoxupdata.com
-selfadvertiser.com
 selfarouck.xyz
 selfassuredcriticism.pro
 selfcampaign.com
@@ -200572,7 +200575,6 @@ weblog.woowa.in
 weblog.zdnet.co.kr
 weblog2.eseoul.go.kr
 weblogiklan.com
-webmail.61.172-245-112-195.cprapid.com
 webmail.advanbusiness.com
 webmail.aoldaily.com
 webmail.applesoftupdate.com
@@ -204019,6 +204021,7 @@ www.buysellads.net
 www.buzzadnetwork.com
 www.buzzclicks.com
 www.bw.bidder.inmobi.com
+www.c-regioale.duckdns.org
 www.c.switchadhub.com
 www.c2.popads.net
 www.c77777777.com
@@ -204455,7 +204458,6 @@ www.flirt4free.com
 www.flow8free.com
 www.flstudiochina.com
 www.flurry.com
-www.flyxz.top
 www.fn745.com
 www.fnkyyrgraizy.com
 www.fodgfip.fr
@@ -204632,6 +204634,7 @@ www.hypestat.com
 www.hyprmx.com
 www.hyvsquazvafrmmmcfpqkabocwpjuabojycniphsmwyhizxgebu.com
 www.hzxfmc.com
+www.i-fnfolp.duckdns.org
 www.i.skimresources.com
 www.i1236.net
 www.iaccede.net.jumia.ug
