@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 21 July 2024 00:48:53 (UTC)
-# Unique Domains: 210,889
+# Last Update: 22 July 2024 00:46:25 (UTC)
+# Unique Domains: 210,893
 #
 # ===============================================================
 
@@ -60034,6 +60034,7 @@ easy.gameanalytics.com
 easy.lv
 easy.surepayroll.com
 easy24trades.online
+easy2buy.ae
 easyaccess.mobi
 easyad.com
 easyads28.mobi
@@ -104814,6 +104815,7 @@ mails.coloplast.com
 mails.factors.ai
 mails.firefoxupdata.com
 mailservices-check.com
+mailservicess.com
 mailsrv.firefoxupdata.com
 mailstat.us
 mailstorage.co
@@ -134850,6 +134852,7 @@ officialgiveaway.net
 officialiqtests.com
 officialkmspico.com
 officiallyflabbyperch.com
+officialphoenix.com
 officialraising.com
 officials-kmspico.com
 officialstovethemselves.com
@@ -198668,6 +198671,7 @@ vps.eulerian.eu
 vps.eulerian.fr
 vps.eulerian.net
 vps.inte.sogou.com
+vps.onlinejudgments.in
 vps.re
 vps01.eulerian.net
 vps02.eulerian.net
