@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 06 August 2024 00:44:40 (UTC)
-# Unique Domains: 210,199
+# Last Update: 07 August 2024 00:45:35 (UTC)
+# Unique Domains: 210,201
 #
 # ===============================================================
 
@@ -29047,7 +29047,6 @@ audioarctic.com
 audioboom.adswizz.com
 audioboom.deliveryengine.adswizz.com
 audioexaminationearl.com
-audioeye.com
 audiofly.actonservice.com
 audiogo.adswizz.com
 audiogon-d.openx.net
@@ -85824,6 +85823,7 @@ ilyonanalytics.herokuapp.com
 ilzztxhn5m.mentalist.kameleoon.com
 im-apps.net
 im-rqsg1.vserv.mobi
+im-sentry.sportmaster.ru
 im-x.jd.com
 im.02f4a500.e9c8ce8.ads.a4cdn.contentabc.com
 im.05168100.8def740.ads.a4cdn.contentabc.com
@@ -160883,6 +160883,8 @@ sentry-05.thd.cc
 sentry-06.thd.cc
 sentry-07.thd.cc
 sentry-api.sberdevices.ru
+sentry-do.x5.ru
+sentry-dsn-customers.megamarket.tech
 sentry-product-new.bbrp.co
 sentry.50onred.com
 sentry.alaatv.com
