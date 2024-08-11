@@ -4,7 +4,7 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 10 August 2024 00:45:10 (UTC)
+# Last Update: 11 August 2024 00:50:28 (UTC)
 # Unique Domains: 210,357
 #
 # ===============================================================
@@ -74773,7 +74773,6 @@ gg86.pinggu.org
 gg88.bj.bcebos.com
 gg8888.cnfol.com
 ggb.douguo.com
-ggbet-bonus24.site
 ggbet-online.pl
 ggbet.name
 ggbetss.com
@@ -113871,6 +113870,7 @@ mkt12035.com
 mkt12036.com
 mkt12037.com
 mkt1204.com
+mkt12043.com
 mkt12044.com
 mkt12045.com
 mkt12046.com
