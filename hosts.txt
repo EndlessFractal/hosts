@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 20 August 2024 00:45:09 (UTC)
-# Unique Domains: 208,677
+# Last Update: 21 August 2024 00:44:54 (UTC)
+# Unique Domains: 208,676
 #
 # ===============================================================
 
@@ -19410,7 +19410,6 @@ advance-auto-parts.evyy.net
 advanced-ip-sccanner.com
 advanced-web-analytics.com
 advancedbitmine.com
-advancedhosters.com
 advancedigital-d.openx.net
 advancedisco.com
 advancedmaccleaner.pxf.io
