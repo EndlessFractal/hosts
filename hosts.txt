@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 25 August 2024 00:50:49 (UTC)
-# Unique Domains: 208,804
+# Last Update: 26 August 2024 00:46:28 (UTC)
+# Unique Domains: 208,803
 #
 # ===============================================================
 
@@ -27335,7 +27335,6 @@ archivesleadership.com
 archlycadetclutch.com
 archswimming.com
 archtics-shows.evyy.net
-archyads.net
 arcomobi.g2afse.com
 arcomobi.go2affise.com
 arcor-partner.de
