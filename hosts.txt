@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 29 August 2024 00:47:22 (UTC)
-# Unique Domains: 208,979
+# Last Update: 30 August 2024 00:47:52 (UTC)
+# Unique Domains: 208,983
 #
 # ===============================================================
 
@@ -35579,6 +35579,7 @@ bracketterminusalias.com
 bractivacar.eccocar.com
 brada.buzz
 braddumacar.eccocar.com
+bradford-concept-quit-pen.trycloudflare.com
 bradleyboulevardscale.com
 bradleyincorrect.com
 bradleylive.xyz
@@ -102905,6 +102906,7 @@ mail.vivus1.com
 mail.voiceofman.com
 mail.wbcemails.com
 mail.wbgh.info
+mail.wealthconsultantmanager.com
 mail.webtrekk-tech.de
 mail.webtrekk.com
 mail.wondery.com
@@ -198379,6 +198381,7 @@ weaktongue.com
 weakwiki.com
 wealth.informabi.com
 wealthcarecapital.actonservice.com
+wealthconsultantmanager.com
 wealthextend.com
 wealthfront.evyy.net
 wealthsgraphis.com
@@ -204201,6 +204204,7 @@ www.want7feed.com
 www.wathspap.com
 www.wauk1care.com
 www.wcnmd.top
+www.wealthconsultantmanager.com
 www.web-01-gbl.com
 www.web-cntr-07.com
 www.web.moengage.com
