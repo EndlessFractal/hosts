@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 31 August 2024 00:47:27 (UTC)
-# Unique Domains: 208,741
+# Last Update: 01 September 2024 00:56:48 (UTC)
+# Unique Domains: 208,748
 #
 # ===============================================================
 
@@ -53029,6 +53029,7 @@ ddiutilities.com
 ddkf.xyz
 ddkh59.com
 ddl.alma.iltalehti.fi
+ddl.safone.dev
 ddlbr.timesclub.co
 ddlcvm.clas.style
 ddlh1467paih3.cloudfront.net
@@ -81221,6 +81222,7 @@ hhworkwearcanada.com
 hhxfjgiyiheil.com
 hhyajwolmq.com
 hi-go.shop
+hi.admini.website
 hi.bigduck.com
 hi.bigducknyc.com
 hi.bpyoyo.com
@@ -90581,6 +90583,7 @@ itslive.com
 itsme-support.com
 itsparedhonor.com
 itspsmup.com
+itsthepartything.serv00.net
 itsup.com
 itsvfputpvsqnb.com
 itswabluon.com
@@ -112987,6 +112990,8 @@ mkt12136.com
 mkt1214.com
 mkt12140.com
 mkt12143.com
+mkt12145.com
+mkt12147.com
 mkt1215.com
 mkt1216.com
 mkt1217.com
@@ -154918,6 +154923,7 @@ rusticprice.com
 rusticsnoop.com
 rusticswollenbelonged.com
 rustlesimulator.com
+rustmacro.ru
 rustrackers.ru
 rustydeceasedwe.com
 rustypassportbarbecue.com
@@ -202043,6 +202049,7 @@ www.canoedaily.com
 www.carambo.la
 www.carbonads.com
 www.care5alea.com
+www.careerpower.in
 www.cart8draw.com
 www.cas.clickability.com
 www.casaneo.fr
