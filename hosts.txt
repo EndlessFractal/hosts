@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 03 September 2024 00:47:17 (UTC)
-# Unique Domains: 208,400
+# Last Update: 04 September 2024 00:48:12 (UTC)
+# Unique Domains: 208,381
 #
 # ===============================================================
 
@@ -8262,7 +8262,6 @@ a102.casalemedia.com
 a1020.casalemedia.com
 a1021.casalemedia.com
 a10222.actonsoftware.com
-a1022248.xsph.ru
 a10255.actonsoftware.com
 a1027.casalemedia.com
 a1028.casalemedia.com
@@ -24440,7 +24439,6 @@ aodainusinh-cuoinam20233.weebly.com
 aodaisieuvietnhi2022.weebly.com
 aodzbx.com
 aoelfb.nanouniverse.jp
-aoesync.com
 aofppecbmordq.com
 aogk88.asia
 aoihaizo.xyz
@@ -28396,7 +28394,6 @@ astw.adgear.com
 asuipiirq.com
 asumi.shinobi.jp
 asupro.com
-asurastrike.de
 asus.adsame.com
 asus01.webtrekk.net
 asv.nuggad.net
@@ -38395,6 +38392,7 @@ captainad.com
 captainbicycle.com
 captainconceivedentangled.com
 captcha-display.com
+captcha.webredirect.org
 captchafine.live
 captcharesolver.com
 captcharesolving-universe.com
@@ -41658,6 +41656,7 @@ chrochr.com
 chroenl.com
 chrolae.com
 chrolal.com
+chrome.webredirect.org
 chron.moengage.com
 chron.stats.com
 chronicads.com
@@ -45814,7 +45813,6 @@ conjurestruck.com
 conleysch.widget.criteo.com
 conleysde.widget.criteo.com
 conn.firefoxupdata.com
-conn.masjesu.zip
 connateautobiography.com
 connatedresspint.com
 connatix-d.openx.net
@@ -48397,7 +48395,6 @@ cs.coopeservidores.fi.cr
 cs.emxdgt.com
 cs.firefoxupdata.com
 cs.genieesspv.jp
-cs.go.kg
 cs.gssprt.jp
 cs.hot.net.il
 cs.marinsm.com
@@ -56060,7 +56057,6 @@ djnaivalj34ub.cloudfront.net
 djnqoe.rani.com.tr
 djonwatch.ru
 djp.bz
-djpd.pl
 djphnuhkbjf.com
 djpjwf.com
 djponj.xyz
@@ -56309,7 +56305,6 @@ dluat.supremapoker.net
 dlupload.com
 dlv4.com
 dlvds9i67c60j.cloudfront.net
-dlw1.appzona.org
 dlxk2dj1h3e83.cloudfront.net
 dlxohfxenojlpb.com
 dlxpix.net
@@ -57228,7 +57223,6 @@ down.safalife.com
 down.winads.cn
 down.winbaicai.com
 down.xiazaidc.com
-down10d.zol.com.cn
 down1oads.com
 down2.9apps.com
 down2.download.9appsinstall.com
@@ -68182,7 +68176,6 @@ fishyscalpelweight.com
 fishyshortdeed.com
 fisikcbsosqet.com
 fisiozone.marfeel.com
-fisoasjkpoewesfoosnoox.cloud
 fissionply.life
 fistdoggie.com
 fistevasionjoint.com
@@ -71583,7 +71576,6 @@ fuywsmvxhtg.com
 fuyytjuopkikl.com
 fuzakumpaks.com
 fuzeclick.offerstrack.net
-fuzeclient.xyz
 fuzegameit.com
 fuzem.ru
 fuzinghummaul.com
@@ -83473,7 +83465,6 @@ hypedrop.net
 hypelab.com
 hypemakers.net
 hyper-chiller.evyy.net
-hyper-clash.online
 hyperactivate.com
 hyperadx.com
 hyperbanner.net
@@ -84282,6 +84273,7 @@ identiv.actonsoftware.com
 identtyguard.com
 ideoclick.com
 idescargarapk.com
+idessit.com
 idev.online-metrix.net
 idevaffiliate.com
 idevs.co
@@ -84381,7 +84373,6 @@ ie-business.vodafone.com
 ie-gmtdmp.mookie1.com
 ie-go.experian.com
 ie-mktg.vodafone.com
-ie-serv.cloud
 ie-tv3.a.videoplaza.tv
 ie-tv3.cdn.videoplaza.tv
 ie-tv3.videoplaza.tv
@@ -88335,7 +88326,6 @@ inhospitablecakegames.com
 inhospitablededucefairness.com
 inhospitablemasculinerasp.com
 inhumanswancondo.com
-ini.sh-pp.com
 ini.update.360safe.com
 inifdlao.top
 inimage.carambo.la
@@ -106287,7 +106277,6 @@ mc.hujiang.com
 mc.mwgpg.cn
 mc.propellerads.com
 mc.s10.exacttarget.com
-mc.swinghvh.ru
 mc.viglink.com
 mc.weather.com.cn
 mc.webvisor.com
@@ -139189,7 +139178,6 @@ pagiwp.com
 pagnehmfxah.xyz
 pagoda.com.102.112.2o7.net
 pagoda56.com
-pagodasaktiraya.com
 pagode.com
 pagtvmcbfjafj.com
 pahbasqibpih.com
@@ -144309,7 +144297,6 @@ populis.com
 populisengage.com
 populr.me
 popult.com
-popunder.b-cdn.net
 popunder.bid
 popunder.ir
 popunder.ru
@@ -151997,7 +151984,6 @@ resistpajamas.com
 resistsarcasm.com
 resistshy.com
 resktdahcyqgu.xyz
-resliueosadop.cloud
 resniks.pro
 resnikscdn.pro
 resnubdreich.com
@@ -189419,6 +189405,7 @@ twittery.com
 twityter.com
 twiz.wizaly.co.uk
 twiz.wizaly.fr
+twizt.net
 twj6s.icu
 twjobq.sixt.com
 twjobq.sixt.de
@@ -201252,7 +201239,6 @@ www.56yk.com
 www.57.com.cn
 www.5857.com
 www.588yw.com
-www.594mu.com
 www.600ad.com
 www.620117982.world
 www.66-trk-srv.com
@@ -201532,7 +201518,6 @@ www.appvirality.com
 www.apxadtracking.net
 www.apxor.com
 www.aqedsw4.com
-www.aqianniao.com
 www.aralego.com
 www.aran9midi.com
 www.arbor.io
@@ -202641,7 +202626,6 @@ www.mediavine.com
 www.mediavoice.com
 www.mediazotic.com
 www.mediazotic.net
-www.medises.co.kr
 www.mediwebinars.com
 www.medtronicsolutions.com
 www.meet3monk.com
@@ -203066,7 +203050,6 @@ www.qiaopiguniang.com
 www.qinchugudao.com
 www.qlzn6i1l.com
 www.qpwoei2.com
-www.qqqmy.com
 www.qualaroo.com
 www.quantcast.com
 www.quantserve.com
@@ -203278,7 +203261,6 @@ www.smucdn.com
 www.snigelweb.com
 www.snoobi.fi
 www.snta0034.com
-www.soft.lannaoke.com
 www.softtrack08.com
 www.soil5hear.com
 www.sokrati.com
@@ -203421,7 +203403,6 @@ www.tire1soak.com
 www.titanium.servicios.com.ec
 www.tj-cmys.com
 www.tjhuajiantang.com
-www.tkacz.vot.pl
 www.tm1-001.com
 www.tns-counter.ru
 www.tnsglobal.com
