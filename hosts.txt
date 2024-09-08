@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 07 September 2024 00:47:07 (UTC)
-# Unique Domains: 209,151
+# Last Update: 08 September 2024 00:53:10 (UTC)
+# Unique Domains: 209,152
 #
 # ===============================================================
 
@@ -113067,6 +113067,7 @@ mkt11992.com
 mkt11993.com
 mkt11994.com
 mkt11995.com
+mkt11996.com
 mkt11997.com
 mkt1200.com
 mkt12000.com
