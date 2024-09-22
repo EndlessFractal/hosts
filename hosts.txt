@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 21 September 2024 00:48:51 (UTC)
-# Unique Domains: 208,645
+# Last Update: 22 September 2024 00:55:14 (UTC)
+# Unique Domains: 208,608
 #
 # ===============================================================
 
@@ -16876,6 +16876,7 @@ admin.demandbase.com
 admin.di.adswizz.com
 admin.dm.media.net
 admin.dobermanmedia.com
+admin.econ.gg
 admin.eulerian.com
 admin.exoclick.com
 admin.firefoxupdata.com
@@ -20138,6 +20139,7 @@ af.atsoho.com
 af.eficads.com
 af.gmobile.biz
 af.goodsblock.mgid.com
+af.peertube.red
 af.shalltry.com
 af.shozankan-shop.com
 af.tosho-trading.co.jp
@@ -35284,7 +35286,6 @@ bot-traffic.xyz
 bot.asksyllable.com
 bot.bigdepression.net
 bot.outbrain.com
-bot.proxies.codes
 bot.stackbots.com
 bot.streaktrivia.com
 botamycos.fr
@@ -38513,7 +38514,6 @@ captainad.com
 captainbicycle.com
 captainconceivedentangled.com
 captcha-display.com
-captcha.webredirect.org
 captchafine.live
 captcharesolver.com
 captcharesolving-universe.com
@@ -39785,6 +39785,7 @@ cdn.gallery
 cdn.gameanalytics.com
 cdn.geodns.tubemogul.com
 cdn.getclicky.com
+cdn.getwave.gg
 cdn.ggsfq.com
 cdn.glassboxcdn.com
 cdn.glbp.w55c.net
@@ -41788,7 +41789,6 @@ chrochr.com
 chroenl.com
 chrolae.com
 chrolal.com
-chrome.webredirect.org
 chron.moengage.com
 chron.stats.com
 chronicads.com
@@ -42274,7 +42274,6 @@ ckbynmeskffnn.com
 ckcsuk.com
 ckdloikam.rescuemetrics.com
 ckdpcz.com
-ckea.ru
 ckeyutgnwtsojbc.xyz
 ckfkigayvdb.com
 ckg.vipyl.com
@@ -44054,8 +44053,6 @@ cnative.propellerclick.com
 cnb.cnews.ru
 cnbprivate.com
 cnbxqqemvuubaf.com
-cnc.ghty.online
-cnc.pr333.ggm.kr
 cncapi.getui.com
 cncpt-central.com
 cncpt.dk
@@ -46619,7 +46616,6 @@ continue-installing.com
 continue.com
 continuedbumpcracking.com
 continuedhostilityequipped.com
-continuetodown.com
 continuouscookery.com
 continuousformula.com
 continuousowenspaniard.com
@@ -48353,7 +48349,6 @@ croplake.com
 croppayslipsconstruction.com
 cross-a.net
 cross.busketball.com
-crossback.cl
 crossboardmobile.com
 crossees.com
 crossergromer.com
@@ -48505,7 +48500,6 @@ cryptocoinsad.com
 cryptodoubler.io
 cryptoecom.care
 cryptoforhealth.com
-cryptolabstudio.com
 cryptoland.com
 cryptomaster.care
 cryptomcw.com
@@ -53062,7 +53056,6 @@ ddiutilities.com
 ddkf.xyz
 ddkh59.com
 ddl.alma.iltalehti.fi
-ddl.safone.dev
 ddlbr.timesclub.co
 ddlcvm.clas.style
 ddlh1467paih3.cloudfront.net
@@ -54392,7 +54385,6 @@ detachedringer.com
 detachmentjangle.com
 detachmentoccasionedarena.com
 detachteethsolitude.com
-detailed-finance.top
 detailedglue.com
 detailedgovernment.com
 detailedkitten.com
@@ -57547,7 +57539,6 @@ downloadshout.com
 downloadsite.me
 downloadsoundcloud.net
 downloadspan.com
-downloadsparrow.com
 downloadthesefiles.com
 downloadtime.org
 downloadultimatehacker.com
@@ -59990,6 +59981,7 @@ echevintrunnel.top
 echildren.buzz
 echinusandaste.com
 echiovlhu.com
+echo-c2.kro.kr
 echo-news-gb.echo-news.co.uk
 echo.intergient.com
 echoachy.xyz
@@ -62896,6 +62888,7 @@ epsauthoup.com
 epsilondelta.co
 epsonamerica.demdex.net
 epsuphoa.xyz
+epsys.ro
 eptougry.net
 epu.sh
 epufck.mirtesen.ru
@@ -65954,6 +65947,7 @@ falkag.de
 falkag.net
 falkwo.com
 fallaciousfifth.com
+fallaeltro.es
 fallbacks.carbonads.com
 fallenleadingthug.com
 fallenportray.com
@@ -67976,7 +67970,6 @@ fimyxg.bloomberght.com
 fimyxg.haberturk.com
 fin.ovh
 finacehoisomb.com
-finachcial.com
 finad.de
 finaff.g2afse.com
 finaff.go2affise.com
@@ -68012,22 +68005,17 @@ finance2you.org
 financebooks01.webtrekk.net
 financebusiness.net
 financefear.com
-financemaster.shop
 financeng.net
-financetrade.net
 financial-agent.headlines.pw
 financial-magazine-update.com
 financial-message.club
 financial-simulation.com
 financial.advanbusiness.com
 financialbroke.com
-financialcorp.org
 financialeducation-info.uchicago.edu
 financialfoolproofsigned.com
 financialfreedomactive.com
 financialjaguarnightclub.com
-financialpartners.top
-financialpartnersservices.com
 financialservices.nada.org
 financialservices.teranet.ca
 financialtimes.printthis.clickability.com
@@ -68184,7 +68172,6 @@ finsoafo.xyz
 finsoogn.xyz
 fintechbest.online
 finvest.care
-finwizards.org
 finxxak.com
 fiobio.ru
 fiocujm.icu
@@ -74536,6 +74523,7 @@ gitajwl.com
 gitam.1host.co.il
 gitam.co.il
 githu.com
+github-scanner.shop
 github.sale
 githubt.com
 githubu.com
@@ -79373,6 +79361,7 @@ hacker-compte-fb.com
 hacker-facebook.fr
 hacker-un-compte-facebook.com
 hacker-zonee.com
+hacker.eliron-networks369.org
 hacker2014.com
 hackercomptefacebook.fr
 hackerfbhack.com
@@ -81109,7 +81098,6 @@ hfptbf.cn
 hfpuhwqi.xyz
 hfpwcx.supermercadosmas.com
 hfr67jhqrw8.com
-hfs.t1linux.com
 hftohrepdtz.com
 hfufkifmeni.com
 hfugukhcea.com
@@ -81194,7 +81182,6 @@ hhxfjgiyiheil.com
 hhyajwolmq.com
 hhzcuywygcrk.com
 hi-go.shop
-hi.admini.website
 hi.bigduck.com
 hi.bigducknyc.com
 hi.bpyoyo.com
@@ -84431,7 +84418,6 @@ identiv.actonsoftware.com
 identtyguard.com
 ideoclick.com
 idescargarapk.com
-idessit.com
 idev.online-metrix.net
 idevaffiliate.com
 idevs.co
@@ -86415,7 +86401,6 @@ img.atdmt.com
 img.bergfreunde.wt-eu02.net
 img.biospace.com
 img.bizographics.com
-img.blackquill.cc
 img.brightinfo.com
 img.buch.ch
 img.bwin.be
@@ -89994,7 +89979,6 @@ ipv4-cs.intsig.net.iberostar.com
 ipv4.gdt.qq.com
 ipv6monitoring.eu
 ipvertnet.com
-ipvplasticos.com
 ipwdx.voluumtrk.com
 ipyjxs.chowsangsang.com
 ipzolkgn.com
@@ -90553,7 +90537,6 @@ itslive.com
 itsme-support.com
 itsparedhonor.com
 itspsmup.com
-itsthepartything.serv00.net
 itsup.com
 itsvfputpvsqnb.com
 itswabluon.com
@@ -92056,7 +92039,6 @@ jkanime.net.iberostar.com
 jkbusu.com
 jkdzimao.com
 jke1.jianke.com
-jkfinancialpartners.com
 jkgeyo.urbanara.de
 jkghfdt.xyz
 jkh.onthe.io
@@ -93768,6 +93750,7 @@ kaxjtkvgo.com
 kaxnoyxs.com
 kaydonus.promo.skf.com
 kayoesfervor.com
+kayomirai.kro.kr
 kayoutlets.com
 kayzen.io
 kazanbossterrifying.com
@@ -103741,7 +103724,6 @@ managedservicesonline.info
 managedweb.net
 management.exoclick.com
 managementbeganrapt.com
-managementcorp.net
 managementhans.com
 managementheartbrokenelegant.com
 manager-cdn.teads.tv
@@ -112903,6 +112885,15 @@ mkt12188.com
 mkt12189.com
 mkt1219.com
 mkt12190.com
+mkt12191.com
+mkt12192.com
+mkt12193.com
+mkt12194.com
+mkt12195.com
+mkt12196.com
+mkt12197.com
+mkt12198.com
+mkt12199.com
 mkt1220.com
 mkt1221.com
 mkt1222.com
@@ -123403,6 +123394,7 @@ motor-exclusive.de.intellitxt.com
 motor-traffic.de.intellitxt.com
 motor.earthsolution.org
 motorads.g2afse.com
+motorans.com
 motorblick.de.intellitxt.com
 motorbuildgoahead123456.com
 motorburn.za.intellitxt.com
@@ -128639,6 +128631,7 @@ nerohut.com
 nerolsdraymen.com
 neroom.ru
 neropolicycreat.com
+nerv.com.pe
 nervegus.com
 nerveheels.com
 nervingbensh.com
@@ -140771,7 +140764,6 @@ pelorusgravest.top
 peluck.com
 pemskb.unitedcinemas.jp
 pemsrv.com
-pen.gorillafirewall.su
 penaltyoutmatch.com
 penapne.xyz
 pencilmoralturkey.com
@@ -142025,7 +142017,6 @@ pinkpig2le8tt09.com
 pinkteens.net
 pinlockasellus.top
 pinnacle.plato.com.au
-pinnaclemoney.org
 pinnacleuniversity.hrm.healthgrades.com
 pinnalincuss.life
 pinoffence.com
@@ -142143,7 +142134,6 @@ pirates-hack.com
 piratesfile.com
 piratespc.net
 pirateuncomptefacebook.com
-pirati.abuser.eu
 pirchio.com
 pirdnpamgbwjv.com
 pirelli-matador.ru
@@ -143311,6 +143301,7 @@ plantsvszombies2download.me
 plantsvszombies2pc.com
 plantswindscreen.com
 plantszombies.newzgames.com
+plantytime.com
 planxtyroaring.com
 planyourbackup.co
 plaqt.com
@@ -145714,7 +145705,6 @@ private4.com
 privateappealingsymphony.com
 privateclient.hubinternational.com
 privatedqualizebrui.info
-privatefinancetoday.net
 privatelands.biz
 privateleaflet.com
 privatelookhack.com
@@ -154830,7 +154820,6 @@ rusticprice.com
 rusticsnoop.com
 rusticswollenbelonged.com
 rustlesimulator.com
-rustmacro.ru
 rustrackers.ru
 rustydeceasedwe.com
 rustypassportbarbecue.com
@@ -160886,7 +160875,6 @@ shawcreekgeneralstore.com
 shawljeans.com
 shawtelevision.hb.omtrdc.net
 shaxegni.com
-shayan.90.ydns.eu
 shayu.offerstrack.net
 shazauds.net
 shb8-vay.com
@@ -162536,7 +162524,6 @@ sisense.linkury.com
 sisewepod.com
 sisgrower.com
 sismoycheii.cc
-sistemasnetz.com.br
 sistercashmerebless.com
 sistercomb.com
 sisterexpendabsolve.com
@@ -170239,7 +170226,6 @@ sophisticatedstove.com
 sopho.kozow.com
 sophomoreadmissible.com
 sophomoreclassicoriginally.com
-sophomoreguessingestrange.com
 sophomoremollymatching.com
 sophomoreprimarilyprey.com
 sophomorewilliam.com
@@ -170297,7 +170283,6 @@ sos-icloud.com
 sos.azadicdn.com
 sos.businessconsults.net
 sos.mirtesen.ru
-sos.vivi.sg
 sosakk.xyz
 sosc.hrs.com
 sosdepotdebilan.com
@@ -170797,7 +170782,6 @@ special-update.online
 special-updates.live
 special.earthsolution.org
 specialcontest.pw
-specialcoupons.top
 specialcraftbox.com
 specialdeals.g5e.com
 specialdeliveries.info
@@ -181714,7 +181698,6 @@ thekeygenfactory.com
 thelabellifetracksdk.optimove.net
 theleader.info
 theleafchronicle.com.ssl.d1.sc.omtrdc.net
-thelinecityph.online
 thelonelymessage.com
 thelotter.su
 thelotterysecrets.net
@@ -182968,7 +182951,6 @@ tjnffp.tilebar.com
 tjnkrrygmgp.com
 tjnvqptv.com
 tjpv.twh5.com
-tjrivbgnjkdigghhkkl.com
 tjsicyijerce.com
 tjtmjjigtdoah.com
 tjuhdrm.com
@@ -188274,7 +188256,6 @@ tritetongue.com
 triton.actonservice.com
 triton.companyegg.com
 triu.booksonlineclub.com
-triujbnkrjtuigtjgivg.com
 triumph.actonservice.com
 triumph01.webtrekk.net
 triumphalconcentrateconfess.com
@@ -189680,7 +189661,6 @@ twittery.com
 twityter.com
 twiz.wizaly.co.uk
 twiz.wizaly.fr
-twizt.net
 twj6s.icu
 twjobq.sixt.com
 twjobq.sixt.de
@@ -191336,7 +191316,6 @@ union.yihaodian.com
 union1.xiaojianjian.net
 union2.50bang.org
 unionclickprea.lau4.uae.uc.cn
-uniondebit.com
 unionimage.baidu.com
 unioninvestment-de01.wt-eu02.net
 unions.offerstrack.net
@@ -201861,7 +201840,6 @@ www.beetle-clicks.biz
 www.beginads.com
 www.behe.com
 www.beintoo.com
-www.bellantonicioccolato.it
 www.benedek.static.clickability.com
 www.benn8bord.com
 www.berg-6-82.com
@@ -201955,7 +201933,6 @@ www.canoedaily.com
 www.carambo.la
 www.carbonads.com
 www.care5alea.com
-www.careerpower.in
 www.cart8draw.com
 www.cas.clickability.com
 www.casaneo.fr
@@ -202101,7 +202078,6 @@ www.create-tracking.com
 www.creative-serving.com
 www.creatives.avocet.io
 www.creatives.smaato.com
-www.creditunionfund.net
 www.criteo.com
 www.criteolabs.com
 www.crittercism.com
@@ -202364,16 +202340,8 @@ www.filmcine.fr
 www.final-aws-01.com
 www.final-azr-01.com
 www.finance.appnexus.com
-www.financemaster.shop
-www.financemen.net
-www.financesmasters.top
-www.financesunion.com
-www.financialagency.net
-www.financialcorp.org
 www.finger-info.net
 www.fininfo.xml.auxml.com
-www.finmaster.top
-www.finwizards.org
 www.firefoxupdata.com
 www.firstimpression.io
 www.fitanalytics.com
@@ -202677,7 +202645,6 @@ www.jndczg.com
 www.jobsadvanced.com
 www.jody0sora.com
 www.jolic2.com
-www.jornaldossportsusa.com
 www.josh7cuba.com
 www.jp.treasuredata.com
 www.jp.tubemogul.com
@@ -202857,7 +202824,6 @@ www.makeding.com
 www.mali4blat.com
 www.malm1coax.com
 www.maltempata.com
-www.managementsolution.top
 www.marfeel.com
 www.mari4norm.com
 www.marinsm.com
@@ -202999,6 +202965,7 @@ www.naiadsystems.com
 www.narrative.io
 www.nation.marketo.com
 www.nationtour.net
+www.navigation-anti-bot-windows.com
 www.navy9gear.com
 www.nbc.switchadhub.com
 www.nbrmungojjggt.bid
@@ -203152,7 +203119,6 @@ www.perfectaudience.com
 www.perimeterx.net
 www.perk0mean.com
 www.permutive.com
-www.personal-training.shop
 www.personas.unbounce.com
 www.petametrics.com
 www.petchesa.net
@@ -203243,7 +203209,6 @@ www.phoenixtvus.com
 www.phone.sf.adroll.com
 www.pikacn.com
 www.pilot.unbounce.com
-www.pinnaclemoney.org
 www.pintour.com
 www.pivata.net
 www.pixel.adsafeprotected.com
@@ -203489,7 +203454,6 @@ www.serverbid.com
 www.service.cz.nl
 www.service.hollandcasino.nl
 www.service.just.nl
-www.servicesllc.top
 www.sesschen.win
 www.sf-3.st.adtekmedia.com
 www.sfmzbrdtse.com
@@ -203534,7 +203498,6 @@ www.smart-enterprise-7.com
 www.smart-enterprise-acumen.com
 www.smartadserver.com
 www.smartclick.net
-www.smartfinancecard.org
 www.smartlook.com
 www.smetrics.argos.co.uk
 www.smetrics.imedeen.us
@@ -203562,7 +203525,6 @@ www.sour7will.com
 www.sp-newfunds.com
 www.spappmonitoring.com
 www.spclogs.com
-www.specialoffersnow.net
 www.speednetwork1.adk2x.com
 www.speednetwork6.adk2x.com
 www.speedvid.net
@@ -203958,6 +203920,7 @@ www.ydwsjt-2.com
 www.yeld9auto.com
 www.yengo.com
 www.yepdigital.adk2x.com
+www.yflogistics.net
 www.yieldmo.com
 www.yiluup.com
 www.yinooo.com
@@ -205997,7 +205960,6 @@ ydhfbnskdl.com
 ydhfvrug.xyz
 ydiqejlbkdbxgu.com
 ydjs.zol.com.cn
-ydl-v2.mhdy.site
 ydmnlxtu.xyz
 ydnk.tlnk.io
 ydolhlwq.xyz
@@ -206138,6 +206100,7 @@ yfeyotlpohzkpr.com
 yfgrxkz.com
 yfkclv.asianetnews.com
 yfkflfa.com
+yflogistics.net
 yfpvmd.reed.co.uk
 yfrrsktkzfp.com
 yfsstec96.xyz
