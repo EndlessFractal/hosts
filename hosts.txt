@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 22 September 2024 00:55:14 (UTC)
-# Unique Domains: 208,608
+# Last Update: 23 September 2024 00:52:00 (UTC)
+# Unique Domains: 208,605
 #
 # ===============================================================
 
@@ -7719,7 +7719,6 @@
 9l3s3fnhl.com
 9l5ss9l.de
 9mdx5.voluumtrk.com
-9mediaonline.com
 9monate.de.intellitxt.com
 9n28.tlnk.io
 9nl.com
@@ -16674,7 +16673,6 @@ adkernel.com
 adkiemtien123.click
 adklick.de
 adklick.net
-adklik.com.tr
 adklimages.com
 adklip.com
 adkmob.com
@@ -19443,7 +19441,6 @@ adv.baovemoitruong.org.vn
 adv.bullguard.com
 adv.ccb.com
 adv.dailyissue.co.kr
-adv.dlh.net
 adv.drtuber.com
 adv.ettoday.net
 adv.fjtv.net
