@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 26 September 2024 00:51:17 (UTC)
-# Unique Domains: 208,836
+# Last Update: 27 September 2024 00:51:41 (UTC)
+# Unique Domains: 208,857
 #
 # ===============================================================
 
@@ -1025,6 +1025,7 @@
 14d.us
 14fefmsjd.de
 14i8trbbx4.com
+14stirling.dyndns.org
 15-reasons-for-seo.com
 15.197.244.48
 15.taboola.com
@@ -2283,6 +2284,7 @@
 21udflra4wd.app-dev.cainthus.com
 21wiz.com
 22.news-subscribe.com
+220-133-67-91.hinet-ip.hinet.net
 220-edc-409.mktoresp.com
 22006.engine.mobileapptracking.com
 22012.engine.mobileapptracking.com
@@ -61030,6 +61032,12 @@ electronicsmissilethreaten.com
 electroworld.se.d1.sc.omtrdc.net
 electroworld.se.ssl.d1.sc.omtrdc.net
 electroworld.sk.d1.sc.omtrdc.net
+electrum-bch.org
+electrum-hmstr.org
+electrum-ton.org
+electrum-usdt.com
+electrum-xrp.org
+electrum-zec.org
 elegancech.widget.criteo.com
 elegancede.widget.criteo.com
 elegancemixed.com
@@ -81775,6 +81783,7 @@ hksfkh.otomotoprofi.pl
 hkskqs.belvilla.fr
 hksmstpzsnlj.com
 hksnu.com
+hksswbhjd.com
 hktestpxs.atomex.net
 hktracker.hankookilbo.com
 hkuuopuhl.xyz
@@ -87056,6 +87065,10 @@ in-automate.sendinblue.com
 in-bads.adiquity.com
 in-business.vodafone.com
 in-ctdbonrt-stsdk.vivoglobal.com
+in-ftd-65.fr3.vip.prod.criteo.com
+in-ftd-65.jp2.vip.prod.criteo.com
+in-ftd-65.nl3.vip.prod.criteo.com
+in-ftd-65.sg1.vip.prod.criteo.com
 in-ftd-65.us5.vip.prod.criteo.com
 in-gmtdmp.mookie1.com
 in-go.experian.com
@@ -96504,6 +96517,7 @@ lawste2.purpledaily.com
 lawsuit-runescape.com
 lawsuniversitywarning.com
 lawunfriendlyknives.com
+lawyerconsult.top
 lawyerleads.pxf.io
 lawyers.rigbycooke.com.au
 lax-1-apex.go.sonobi.com
@@ -140195,6 +140209,7 @@ pastagroinadmirer.com
 pastastealscald.com
 paste-d.openx.net
 pasteben.com
+pastecodeapp.vercel.app
 pastecompetent.com
 pastefa.com
 pasteintermediaryforty.com
@@ -150654,6 +150669,7 @@ rdl.sourcesite360.com
 rdlrbm.studying.jp
 rdm7.piensoymascotas.com
 rdnplpj.cn
+rdoge.pro
 rdpyjpljfqfwah.xyz
 rdr.appier.net
 rdr.wargaming.net
@@ -152987,6 +153003,7 @@ rgpqgasbmqere.com
 rgqhamkhnoex.xyz
 rgqllsbt.com
 rgrd.xyz
+rgrowtopia.com
 rgryk.voluumtrk.com
 rgsiuevpupqz.com
 rgsnktxhe.com
@@ -153687,6 +153704,7 @@ roewnand.biz
 rof77skt5zo0.com
 rofant.com
 rofmjd.xyz
+rofossecurity.xyz
 rofowa.ru
 rofschild.lol
 rogbhbxvqe.com
@@ -189718,6 +189736,7 @@ tvseries-cravings.info
 tvserieshd.net
 tvshowzonline.com
 tvsmiles.g2afse.com
+tvspress.com
 tvsquared.com
 tvsquirrel.com
 tvt.eulerian.net
@@ -205912,6 +205931,7 @@ y.ilancc.com
 y.moatads.com
 y.photoint.net
 y.pzclw.cn
+y.shavsl.com
 y.sphinxtube.com
 y.topya.com
 y.unilz588.com
@@ -207412,6 +207432,7 @@ z.moatads.com
 z.nowscore.com
 z.o00.kr
 z.opmnstr.com
+z.shavsl.com
 z.sora.yoyi.com.cn
 z.supersonicads.com
 z.tudouxy01.com
