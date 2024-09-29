@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 28 September 2024 00:51:17 (UTC)
-# Unique Domains: 208,959
+# Last Update: 29 September 2024 00:55:59 (UTC)
+# Unique Domains: 208,972
 #
 # ===============================================================
 
@@ -20160,7 +20160,6 @@ af.atsoho.com
 af.eficads.com
 af.gmobile.biz
 af.goodsblock.mgid.com
-af.peertube.red
 af.shalltry.com
 af.shozankan-shop.com
 af.tosho-trading.co.jp
@@ -29516,8 +29515,14 @@ avasgtest.branch.rocks
 avast.firefoxupdata.com
 avast.legratuits.com
 avastats.com
+avastcsw.com
+avastcv.com
 avastkx.com
+avastop.com
 avastpm.com
+avastpst.com
+avastsf.com
+avastsp.com
 avastxv.com
 avastzx.com
 avatacar.eulerian.net
@@ -38079,6 +38084,7 @@ cajaro.ru
 cajbdciiefegiifciabc.world
 cajdldhaci.com
 cajggfj.com
+cajgtus.com
 cajipdiqqjijeh.xyz
 cajrijrhov.com
 cajsritwoamx.com
@@ -39838,7 +39844,6 @@ cdn.gallery
 cdn.gameanalytics.com
 cdn.geodns.tubemogul.com
 cdn.getclicky.com
-cdn.getwave.gg
 cdn.ggsfq.com
 cdn.glassboxcdn.com
 cdn.glbp.w55c.net
@@ -56460,6 +56465,7 @@ dl.uu.cc
 dl.wan.sogoucdn.com
 dl.wooribank.com.kh
 dl.workindia.in
+dl.zerotheme.ir
 dl.zola.com
 dl01.casalemedia.com
 dl02.casalemedia.com
@@ -57500,6 +57506,7 @@ download.coinseed.co
 download.connectie.com
 download.coolguang.com
 download.createyournextcustomer.com
+download.cudo.org
 download.cy-security.com
 download.dackinc.com
 download.dnv.com
@@ -60066,7 +60073,6 @@ echevintrunnel.top
 echildren.buzz
 echinusandaste.com
 echiovlhu.com
-echo-c2.kro.kr
 echo-news-gb.echo-news.co.uk
 echo.intergient.com
 echoachy.xyz
@@ -62983,7 +62989,6 @@ epsauthoup.com
 epsilondelta.co
 epsonamerica.demdex.net
 epsuphoa.xyz
-epsys.ro
 eptougry.net
 epu.sh
 epufck.mirtesen.ru
@@ -68091,6 +68096,7 @@ finalizeimprovise.com
 finallydisintegrate.com
 finallysuburblaunching.com
 finallytrained.com
+finalstepgo.com
 finalsteptogo.com
 finam-rss.mirtesen.ru
 finance-hot-news.com
@@ -68282,6 +68288,7 @@ finsoafo.xyz
 finsoogn.xyz
 fintechbest.online
 finvest.care
+finwizards.org
 finxxak.com
 fiobio.ru
 fiocujm.icu
@@ -74650,7 +74657,6 @@ gitajwl.com
 gitam.1host.co.il
 gitam.co.il
 githu.com
-github-scanner.shop
 github.sale
 githubt.com
 githubu.com
@@ -77929,6 +77935,7 @@ grafana.appsflyer.com
 grafana.org
 grafanaboard.appsflyer.com
 grafic.evyy.net
+graficaminervaa.shop
 grafpedia.com
 grafzen.com
 gragleek.com
@@ -79503,7 +79510,6 @@ hacker-compte-fb.com
 hacker-facebook.fr
 hacker-un-compte-facebook.com
 hacker-zonee.com
-hacker.eliron-networks369.org
 hacker2014.com
 hackercomptefacebook.fr
 hackerfbhack.com
@@ -87119,6 +87125,7 @@ in-automate.sendinblue.com
 in-bads.adiquity.com
 in-business.vodafone.com
 in-ctdbonrt-stsdk.vivoglobal.com
+in-ftd-65.da1.vip.prod.criteo.com
 in-ftd-65.fr3.vip.prod.criteo.com
 in-ftd-65.jp2.vip.prod.criteo.com
 in-ftd-65.nl3.vip.prod.criteo.com
@@ -93929,7 +93936,6 @@ kaxjtkvgo.com
 kaxnoyxs.com
 kaydonus.promo.skf.com
 kayoesfervor.com
-kayomirai.kro.kr
 kayoutlets.com
 kaysons-group.com
 kayzen.io
@@ -100488,6 +100494,7 @@ lolhack.softwareuninstallerdownload.com
 loliskins.com
 loliumglucic.digital
 loliumpruigo.com
+lollllllllllllllllll.kro.kr
 lolmystery.net
 lologhfd.com
 lolomoche.space
@@ -113100,7 +113107,13 @@ mkt12201.com
 mkt12202.com
 mkt12203.com
 mkt12204.com
+mkt12205.com
+mkt12206.com
+mkt12207.com
+mkt12208.com
+mkt12209.com
 mkt1221.com
+mkt12210.com
 mkt1222.com
 mkt1223.com
 mkt1224.com
@@ -123602,7 +123615,6 @@ motor-exclusive.de.intellitxt.com
 motor-traffic.de.intellitxt.com
 motor.earthsolution.org
 motorads.g2afse.com
-motorans.com
 motorblick.de.intellitxt.com
 motorbuildgoahead123456.com
 motorburn.za.intellitxt.com
@@ -128842,7 +128854,6 @@ nerohut.com
 nerolsdraymen.com
 neroom.ru
 neropolicycreat.com
-nerv.com.pe
 nervegus.com
 nerveheels.com
 nervingbensh.com
@@ -136950,6 +136961,7 @@ ooo-olni.ru
 ooo.0o0.ooo
 oooh.pro
 ooop.zqwlkj.cn
+oootorgline.ru
 oopatet.com
 oophoame.xyz
 oophuvum.net
@@ -143531,7 +143543,6 @@ plantsvszombies2download.me
 plantsvszombies2pc.com
 plantswindscreen.com
 plantszombies.newzgames.com
-plantytime.com
 planxtyroaring.com
 planyourbackup.co
 plaqt.com
@@ -158643,6 +158654,7 @@ sebeewho.xyz
 sebillatonally.digital
 sebkhapaction.com
 sebotr.rizeclinic.com
+seburage.com
 sec-analytics.panasonic.co.uk
 sec-cdn.static.xiaomi.net
 sec.cdn.ksapisrv.com
@@ -162801,6 +162813,7 @@ sisense.linkury.com
 sisewepod.com
 sisgrower.com
 sismoycheii.cc
+sispy.net
 sistercashmerebless.com
 sistercomb.com
 sisterexpendabsolve.com
@@ -202235,6 +202248,7 @@ www.brightroll.com
 www.brillen.demarketing.net.brillen.pl
 www.browsee.io
 www.brunoespiao.com.br
+www.bsa.bsafesafety.com
 www.bshare.cn
 www.bsw.digitru.st
 www.btrll.com
@@ -203294,7 +203308,6 @@ www.naiadsystems.com
 www.narrative.io
 www.nation.marketo.com
 www.nationtour.net
-www.navigation-anti-bot-windows.com
 www.navy9gear.com
 www.nbc.switchadhub.com
 www.nbrmungojjggt.bid
@@ -203827,6 +203840,7 @@ www.smart-enterprise-7.com
 www.smart-enterprise-acumen.com
 www.smartadserver.com
 www.smartclick.net
+www.smartfinancecard.org
 www.smartlook.com
 www.smetrics.argos.co.uk
 www.smetrics.imedeen.us
@@ -203906,6 +203920,7 @@ www.subscriptions.nokiasiemensnetworks.com
 www.success.act-on.com
 www.success.unbounce.com
 www.sugh8yami.com
+www.sumerda.com
 www.summerhamster.com
 www.sunbux.info
 www.sundady.online
@@ -204249,7 +204264,6 @@ www.ydwsjt-2.com
 www.yeld9auto.com
 www.yengo.com
 www.yepdigital.adk2x.com
-www.yflogistics.net
 www.yieldmo.com
 www.yiluup.com
 www.yinooo.com
@@ -206439,7 +206453,6 @@ yfeyotlpohzkpr.com
 yfgrxkz.com
 yfkclv.asianetnews.com
 yfkflfa.com
-yflogistics.net
 yfpvmd.reed.co.uk
 yfrrsktkzfp.com
 yfsstec96.xyz
