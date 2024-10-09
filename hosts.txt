@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 08 October 2024 00:51:38 (UTC)
-# Unique Domains: 209,337
+# Last Update: 09 October 2024 00:51:29 (UTC)
+# Unique Domains: 209,336
 #
 # ===============================================================
 
@@ -37732,7 +37732,6 @@ c2.clickability.com
 c2.computrition.com
 c2.l.qq.com
 c2.mouseflow.com
-c2.paris-services.xyz
 c2.popads.net
 c2.statcounter.com
 c2.taboola.com
@@ -44178,7 +44177,6 @@ cnbprivate.com
 cnbxqqemvuubaf.com
 cnc.duc3k.com
 cnc.merisprivate.net
-cnc.ziparchive.xyz
 cncapi.getui.com
 cncpt-central.com
 cncpt.dk
@@ -56557,7 +56555,6 @@ dl.uu.cc
 dl.wan.sogoucdn.com
 dl.wooribank.com.kh
 dl.workindia.in
-dl.zerotheme.ir
 dl.zola.com
 dl01.casalemedia.com
 dl02.casalemedia.com
@@ -57548,7 +57545,6 @@ down.ewo1617.com
 down.hyprmx.com
 down.infobusinessus.org
 down.laomaotao.net
-down.lianfamedical.com
 down.msnhome.org
 down.safalife.com
 down.winads.cn
@@ -61173,6 +61169,7 @@ electroworld.se.d1.sc.omtrdc.net
 electroworld.se.ssl.d1.sc.omtrdc.net
 electroworld.sk.d1.sc.omtrdc.net
 electrum-bch.org
+electrum-dash.org
 electrum-eth.org
 electrum-usdt.com
 electrum-xrp.org
@@ -68051,7 +68048,6 @@ files.propellerads.com
 files.revcontent.com
 files.sharethrough.com
 files.urlinsgroup.com
-files.veritas.org.ng
 files.vertamedia.com
 files2.adform.net
 files2.sogou.com
@@ -70414,7 +70410,6 @@ frameworkjaw.com
 frameworkprobable.com
 framingmanoeuvre.com
 francaise-poesie.com
-francaorganizacoes.online
 france.adswizz.com
 france.alphabet.com
 france.id100429421-9222533281.e406019.com
@@ -92162,6 +92157,7 @@ jgygtv.cn
 jgzhsu.caterer.com
 jh4ne.voluumtrk.com
 jh8ggwnyto.kameleoon.eu
+jhbaghjbasdg.shop
 jhd.newsonet.net
 jhd.safalife.com
 jhevhckrxoivig.com
@@ -93912,6 +93908,7 @@ kakworldoftanks.ru
 kaladyaudiology.ericksonbuilt.com
 kalauxet.com
 kalaydode.widget.criteo.com
+kale.amwebsolution.com
 kaleidoscopeadjacent.com
 kaleidoscopefingernaildigging.com
 kaleidoscopelive.mirtesen.ru
@@ -131669,6 +131666,7 @@ nscash.com
 nsclick.baidu.com
 nsclickvideo.baidu.com
 nscmetrics.shell.com
+nsdm.cumpar-auto-orice-tip.ro
 nsdsvc.com
 nsedgj.bonprix.de
 nservantasrela.info
@@ -147134,6 +147132,7 @@ proxy-beta.smartlook.com
 proxy-mob-cld.alicdn.com
 proxy.ads.canalplus-bo.net
 proxy.alphonso.tv
+proxy.amazonscouts.com
 proxy.batmobi.net
 proxy.cainus.teradatadmc.com
 proxy.dynamicyield.com
