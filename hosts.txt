@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 12 October 2024 00:50:31 (UTC)
-# Unique Domains: 208,343
+# Last Update: 13 October 2024 00:55:27 (UTC)
+# Unique Domains: 208,346
 #
 # ===============================================================
 
@@ -14386,7 +14386,6 @@ academicassociation.in
 academics.academicsuperstore.com
 academics01.webtrekk.net
 academicvast.com
-academistrasbourg.duckdns.org
 academy-test.addthis.com
 academy.dynamicyield.com
 academy.evergage.com
@@ -24079,6 +24078,7 @@ annoyedairport.com
 annoyedfifth.com
 annoyingacoustics.com
 annoyingclover.com
+annoyingfiler.com
 annoynoveltyeel.com
 annrdf.com
 annualbubble.com
@@ -25868,6 +25868,7 @@ app.csurams.com
 app.ctc.ru
 app.cuahealth.com.au
 app.cubuffs.com
+app.cumpar-auto-orice-tip.ro
 app.curesk.in
 app.currenciesdirect.com
 app.customer.adaptiveinsights.com
@@ -26394,6 +26395,7 @@ app.rlax.me
 app.rmbr.in
 app.rolltide.com
 app.roomsync.com
+app.rtpdgox.info
 app.rtxplatform.com
 app.sbas.sage.com
 app.sbz.workers.dev
@@ -29436,8 +29438,17 @@ avasgtest.branch.rocks
 avast.firefoxupdata.com
 avast.legratuits.com
 avastats.com
+avastcsw.com
+avastcv.com
 avastkx.com
+avastop.com
 avastpm.com
+avastpst.com
+avastpy.com
+avastsf.com
+avastsp.com
+avastwp.com
+avastxo.com
 avastxv.com
 avastzx.com
 avatacar.eulerian.net
@@ -37860,6 +37871,7 @@ cache.betweendigital.com
 cache.brandreachsys.com
 cache.celtra.com
 cache.cnzz.com
+cache.ussc.org
 cache.xw126.com
 cache2.delvenetworks.com
 cached.liveshows.contentabc.com
@@ -42467,7 +42479,6 @@ clausepredatory.com
 clausumbaret.uno
 clava.7eer.net
 clavialguttera.com
-clavity.me
 clayapologizingappreciate.com
 clayballast.com
 claydreamteerie.com
@@ -44397,7 +44408,6 @@ coinads.offerstrack.net
 coinadster.com
 coinbank247.com
 coinbase.gift
-coinbasenftapp.com
 coinbasepro-giveaway.com
 coinblind.com
 coinblocktyrusmiram.com
@@ -48028,7 +48038,6 @@ creativedisplayformat.com
 creativedot.net
 creativefade.com
 creativefix.pro
-creativefocusmediainc.com
 creativeformatsnetwork.com
 creativemeasuredoffend.com
 creativemindsacademyfl.com
@@ -54470,7 +54479,6 @@ devconn.co
 deveincyanids.com
 develop.firefoxupdata.com
 developer.ad4game.com
-developer.creativefocusmediainc.com
 developercleavemillions.com
 developerfriendsdisappoint.com
 developermedia.com
@@ -87124,17 +87132,12 @@ index.onthe.io
 index.ru
 index.umeng.com
 indexad.net
-indexconnectchorus.duckdns.org
-indexconnectwe.duckdns.org
-indexconnexionwe.duckdns.org
 indexesinsist.com
 indexeslaughter.com
 indexexchange.com
 indexmediapartnersltdpersonal.t.domdex.com
-indexoran.duckdns.org
 indexstats.com
 indextools.com
-indexwet.duckdns.org
 indexww.com
 india-abc.com
 india.activity.browser.intl.miui.com
@@ -112770,6 +112773,7 @@ mkt12209.com
 mkt1221.com
 mkt12210.com
 mkt12211.com
+mkt12212.com
 mkt12213.com
 mkt12214.com
 mkt12215.com
@@ -131447,7 +131451,6 @@ nwr.static.mmcdn.com
 nwrcz.com
 nwrgdifq.xyz
 nws.naltis.com
-nwsfillw.com
 nwvupz.cljoias.com.br
 nwwais.com
 nwwrtbbit.com
@@ -133027,6 +133030,7 @@ odnoseksnikis.mirtesen.ru
 odologyelicit.com
 odologyvitita.store
 odonticmetae.top
+odoo.kseibitools.com
 odorantpilkins.top
 odoredpersia.life
 odoscope.cloud
@@ -140037,7 +140041,6 @@ paydotcom.com
 payement-renew.me
 payfertilisedtint.com
 paygmlaudwl.com
-payhostmsa.shop
 payingbeswim.com
 payingnoodlescam.com
 paylienquan.club
@@ -146455,6 +146458,7 @@ proxy.dzeio.com
 proxy.kameleoon.com
 proxy.reptilicus.net
 proxy.sec.miui.com
+proxy.siteterbaru.xyz
 proxy.smartlook.com
 proxy.teads.tv
 proxy.telemetry.us-ashburn-1.oci.oraclecloud.com
@@ -154359,7 +154363,6 @@ ru.tubeadvertising.eu
 ru.usefomo.com
 ru.xs.mookie1.com
 ru01.webtrekk.net
-ru3w2.com
 ru4.com
 ruamupr.com
 ruay-888.com
@@ -160193,6 +160196,7 @@ sfsinfo.sabic.com
 sftaaj.com
 sftapi.com
 sftp.actonservice.com
+sftp.wddidgo.site
 sftrack.searchforce.net
 sfuoasztfxr.com
 sfw.adsafeprotected.com
@@ -170450,7 +170454,6 @@ spapi.i-mobile.co.jp
 spapresentation.com
 sparcmedia.adk2x.com
 sparda01.wt-eu02.net
-spare-shadows-dreams-tourist.trycloudflare.com
 sparebank1.demdex.net
 sparedshabbylaugh.com
 sparefoot.pxf.io
@@ -189416,6 +189419,7 @@ twittery.com
 twityter.com
 twiz.wizaly.co.uk
 twiz.wizaly.fr
+twizt.net
 twj6s.icu
 twjobq.sixt.com
 twjobq.sixt.de
@@ -192360,7 +192364,6 @@ uswest.bfmio.com
 uswfb.adsrvr.org
 uswvideo.adsrvr.org
 usxuyr.icu
-usyefsf.net
 usyliet.top
 usylkoifiwa.com
 usync.aws.rubiconproject.com
@@ -197956,6 +197959,7 @@ web.info.yeppon.it
 web.infosupports.com
 web.iru.org
 web.jana-shoes.com
+web.johnmccrea.com
 web.leanplum.com
 web.life-cw.com
 web.localytics.com
@@ -201710,7 +201714,6 @@ www.cimetrix.inmobi.com
 www.ciscenje.net.jumia.com.ng
 www.claiks.com
 www.clarity.inmobi.com
-www.clavity.me
 www.click-now-on.me
 www.click-to-trace.com
 www.click.elixmedia.com
