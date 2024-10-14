@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 13 October 2024 00:55:27 (UTC)
-# Unique Domains: 208,346
+# Last Update: 14 October 2024 00:53:33 (UTC)
+# Unique Domains: 208,345
 #
 # ===============================================================
 
@@ -20504,7 +20504,6 @@ afs.ero-advertising.com
 afs.googlesyndication.com
 afs.moatads.com
 afsanalytics.com
-afscvfa.com
 afshan.shop
 afshanthough.pro
 afssdmin.com
@@ -35256,7 +35255,6 @@ botsaunirt.com
 botscanner.com
 botsdownload.com
 botsvisit.com
-bott.ddns.net
 botteshunterfrance.fr
 bottle.onthe.io
 bottlecapgames.com
@@ -43989,7 +43987,6 @@ cnative.propellerclick.com
 cnb.cnews.ru
 cnbprivate.com
 cnbxqqemvuubaf.com
-cnc.merisprivate.net
 cncapi.getui.com
 cncpt-central.com
 cncpt.dk
@@ -45886,6 +45883,7 @@ conjurestruck.com
 conleysch.widget.criteo.com
 conleysde.widget.criteo.com
 conn.firefoxupdata.com
+conn.masjesu.zip
 connateautobiography.com
 connatedresspint.com
 connatix-d.openx.net
@@ -54746,6 +54744,7 @@ dhuleproperty.com
 dhvoxb.com
 dhwmtx.stylewe.com
 dhx.newshuntads.com
+di-nai.com
 di.adsame.com
 di.adswizz.com
 di.deliveryengine.adswizz.com
@@ -96034,7 +96033,6 @@ laqsvgmjrw.com
 laquearhokan.com
 laquinontest.actonsoftware.com
 laquinta.d1.sc.omtrdc.net
-lar-8.com
 laraliadirt.top
 lararforbundet.analytics.ozzi.io
 larasub.conxxx.pro
@@ -128548,6 +128546,7 @@ net.home24.ch
 net.home24.com
 net.home24.it
 net.iberia.com
+net.igxhost.ru
 net.infosupports.com
 net.inq.com
 net.jumia.com
@@ -159198,7 +159197,6 @@ semnicneposilejte.cz
 semqraso.net
 semsicou.net
 semtracker.de
-semurox.com
 semxiu.com
 semygruja.com
 senacertificados.co
@@ -159685,6 +159683,7 @@ server.blis.com
 server.blismedia.com
 server.cpmstar.com
 server.exposebox.com
+server.eye-network.ru
 server.freeandroidspy.com
 server.iad.liveperson.net
 server.ind.liveperson.net
