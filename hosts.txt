@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 19 October 2024 00:51:36 (UTC)
-# Unique Domains: 208,376
+# Last Update: 20 October 2024 00:56:34 (UTC)
+# Unique Domains: 208,375
 #
 # ===============================================================
 
@@ -112742,6 +112742,11 @@ mkt12219.com
 mkt1222.com
 mkt12220.com
 mkt12221.com
+mkt12222.com
+mkt12224.com
+mkt12225.com
+mkt12226.com
+mkt12227.com
 mkt1223.com
 mkt1224.com
 mkt1225.com
@@ -142130,13 +142135,7 @@ pixel.andalbrighth.pro
 pixel.anyclip.com
 pixel.app.returnpath.net
 pixel.archipro.co.nz
-pixel.archive.fo
-pixel.archive.is
-pixel.archive.li
-pixel.archive.md
-pixel.archive.ph
 pixel.archive.today
-pixel.archive.vn
 pixel.archivecaslytosk.onion
 pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion
 pixel.audienceinsights.net
