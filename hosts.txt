@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 20 October 2024 00:56:34 (UTC)
-# Unique Domains: 208,375
+# Last Update: 21 October 2024 00:53:52 (UTC)
+# Unique Domains: 208,373
 #
 # ===============================================================
 
@@ -24721,7 +24721,6 @@ api-analytics-bootstrap.metaps.com
 api-analytics-cn.huami.com
 api-analytics-in.huami.com
 api-analytics-prd.pelcro.com
-api-analytics-ru.huami.com
 api-analytics-sg.huami.com
 api-analytics.4patientcare.com
 api-analytics.metaps.com
@@ -38653,7 +38652,6 @@ carrierdestined.com
 carroll.datafirst.io
 carrotimpregnable.com
 carrotquest.io
-carrottrack.io
 carrydollarcrashed.com
 carryhummight.com
 carryingfarmerlumber.com
