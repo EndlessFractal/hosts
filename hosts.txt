@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 22 October 2024 00:52:48 (UTC)
-# Unique Domains: 205,310
+# Last Update: 23 October 2024 00:51:51 (UTC)
+# Unique Domains: 205,311
 #
 # ===============================================================
 
@@ -85659,6 +85659,7 @@ in-business.vodafone.com
 in-ctdbonrt-stsdk.vivoglobal.com
 in-ftd-107.da1.vip.prod.criteo.com
 in-ftd-107.fr3.vip.prod.criteo.com
+in-ftd-107.jp2.vip.prod.criteo.com
 in-ftd-107.nl3.vip.prod.criteo.com
 in-ftd-107.sg1.vip.prod.criteo.com
 in-ftd-107.us5.vip.prod.criteo.com
