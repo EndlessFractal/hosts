@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 24 October 2024 00:51:50 (UTC)
-# Unique Domains: 205,480
+# Last Update: 25 October 2024 00:52:25 (UTC)
+# Unique Domains: 205,483
 #
 # ===============================================================
 
@@ -61192,6 +61192,7 @@ emp01.wt-eu02.net
 empa.flixbus.de
 empafnyfiexpectt.info
 empak.de
+empatiya.net
 empdat.com
 emperorinfo.com
 emperorsmall.com
@@ -85722,6 +85723,7 @@ in-ftd-107.jp2.vip.prod.criteo.com
 in-ftd-107.nl3.vip.prod.criteo.com
 in-ftd-107.sg1.vip.prod.criteo.com
 in-ftd-107.us5.vip.prod.criteo.com
+in-ftd-109.sg1.vip.prod.criteo.com
 in-ftd-65.da1.vip.prod.criteo.com
 in-ftd-65.fr3.vip.prod.criteo.com
 in-ftd-65.jp2.vip.prod.criteo.com
@@ -190949,6 +190951,7 @@ vastcdn.adsafeprotected.com
 vastcdn.outbrain.com
 vasteeds.net
 vastevent.startappservice.com
+vastila.com
 vastinspector.teads.tv
 vastlog.adsafeprotected.com
 vastpixel.adsafeprotected.com
