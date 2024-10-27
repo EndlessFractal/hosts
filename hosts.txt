@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 26 October 2024 00:50:40 (UTC)
-# Unique Domains: 205,578
+# Last Update: 27 October 2024 00:56:12 (UTC)
+# Unique Domains: 205,582
 #
 # ===============================================================
 
@@ -33993,6 +33993,7 @@ blogstar.fun
 blogstatistics.sapoapps.vn
 blogtotal.de
 blogtraffic.de
+blogtraffic.shop
 blogtw.net
 blogua.org
 blogun.ru
@@ -66414,6 +66415,7 @@ fegortius.com
 fehbsu.com
 fehrda.xyz
 fei.pro-market.net
+feiacmr.shop
 feignedfaucet.com
 feignoccasionedmound.com
 feignsubdue.com
@@ -85768,6 +85770,7 @@ in-ftd-107.jp2.vip.prod.criteo.com
 in-ftd-107.nl3.vip.prod.criteo.com
 in-ftd-107.sg1.vip.prod.criteo.com
 in-ftd-107.us5.vip.prod.criteo.com
+in-ftd-109.fr3.vip.prod.criteo.com
 in-ftd-109.sg1.vip.prod.criteo.com
 in-ftd-109.us5.vip.prod.criteo.com
 in-ftd-65.da1.vip.prod.criteo.com
@@ -189418,6 +189421,7 @@ urbanairship.com
 urbanarade.widget.criteo.com
 urbanblog.shop
 urbancheats.com
+urbanchr.online
 urbandoubt.com
 urbangestalt.com
 urbanindo.qgr.ph
