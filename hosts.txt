@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 27 October 2024 00:56:12 (UTC)
-# Unique Domains: 205,582
+# Last Update: 28 October 2024 00:54:41 (UTC)
+# Unique Domains: 205,581
 #
 # ===============================================================
 
@@ -85731,7 +85731,6 @@ imrk.net
 imrtrack.com
 imrworldwide.com
 imrww.exelator.com
-imshopping.com
 imspro.adtech.de
 imspro.adtechus.com
 imstks.com
