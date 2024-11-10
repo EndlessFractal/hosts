@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 09 November 2024 00:49:51 (UTC)
-# Unique Domains: 203,445
+# Last Update: 10 November 2024 00:54:44 (UTC)
+# Unique Domains: 203,447
 #
 # ===============================================================
 
@@ -16104,7 +16104,6 @@ addonsmash.com
 addoor.net
 addotnet.com
 addpaypal.com
-addr.cx
 addr.infosupports.com
 addressanythingbridge.com
 addresseepaper.com
@@ -54349,7 +54348,6 @@ digitaldeepak.moengage.com
 digitaldesire.com
 digitaldigsads.com
 digitaldoughnut.com
-digitaldoughnut.email
 digitaldsp.com
 digitalemailspace.com
 digitalemitdportal.com
@@ -110195,6 +110193,10 @@ mkt12240.com
 mkt12241.com
 mkt12242.com
 mkt12243.com
+mkt12244.com
+mkt12245.com
+mkt12246.com
+mkt12247.com
 mkt1225.com
 mkt1226.com
 mkt1227.com
