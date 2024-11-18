@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 17 November 2024 00:57:50 (UTC)
-# Unique Domains: 203,910
+# Last Update: 18 November 2024 00:56:22 (UTC)
+# Unique Domains: 203,909
 #
 # ===============================================================
 
@@ -120835,7 +120835,6 @@ motaikhoanchungkhoanvps.com
 motaikhoannganhang.online
 motcmn.icu
 motdepasse.net
-motdgd.com
 motelproficientsmartly.com
 mothandhad.info
 mothandhadbe.info
