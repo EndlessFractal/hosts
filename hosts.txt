@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 24 November 2024 00:58:28 (UTC)
-# Unique Domains: 204,160
+# Last Update: 25 November 2024 00:56:03 (UTC)
+# Unique Domains: 204,157
 #
 # ===============================================================
 
@@ -41425,7 +41425,6 @@ cic.umeng.com
 cicamica.xyz
 cicda.com
 cicfbo.yt-hgs.de
-ciclonrox.com
 ciconversion.evergage.com
 cicqdaqtrws.info
 cid.segment.com
@@ -124773,7 +124772,6 @@ myprofile.panasonic.eu
 myprofile.technics.eu
 mypsncodes.com
 mypush.io
-mypushz.com
 myq-see.com
 myqmgm.xyz
 myqnascloud.com
@@ -131641,7 +131639,6 @@ onclick.dashboard.propellerads.com
 onclick.ir
 onclickads.net
 onclickalgo.com
-onclickbright.com
 onclickclear.com
 onclickgenius.com
 onclickmax.com
