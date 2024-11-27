@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 26 November 2024 00:55:12 (UTC)
-# Unique Domains: 204,223
+# Last Update: 27 November 2024 00:55:53 (UTC)
+# Unique Domains: 204,224
 #
 # ===============================================================
 
@@ -18948,6 +18948,7 @@ adspcces.ero-advertising.com
 adspdbl.com
 adspecs.yahoo.com
 adspectacle.net
+adspector.io
 adspeed.com
 adspeed.net
 adsperfection.g2afse.com
