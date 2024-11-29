@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 28 November 2024 00:55:54 (UTC)
-# Unique Domains: 203,139
+# Last Update: 29 November 2024 00:55:53 (UTC)
+# Unique Domains: 203,136
 #
 # ===============================================================
 
@@ -86764,7 +86764,6 @@ inspakedolts.shop
 inspectcol.com
 inspectionflowing.com
 inspectlet.com
-inspectlet.io
 inspectletws.herokuapp.com
 inspectmergersharpen.com
 inspector-api-stg.ironbeast.io
@@ -99582,7 +99581,6 @@ magogvel.shop
 magoosfurniture.com
 magpiejoyfulboxes.com
 magr.cloud
-magreprints.com
 magsrv.com
 magtgingleagained.org
 magukaudsodo.xyz
@@ -104056,7 +104054,6 @@ medgoodfood.com
 medhelpinternational.112.2o7.net
 medherb.de
 medhyg.actonservice.com
-medi-8.net
 media-412.com
 media-active.ru
 media-ads.zaloapp.com
