@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 05 December 2024 00:57:19 (UTC)
-# Unique Domains: 203,567
+# Last Update: 06 December 2024 00:56:33 (UTC)
+# Unique Domains: 203,568
 #
 # ===============================================================
 
@@ -67923,6 +67923,7 @@ forcelessgooseberry.com
 forcelessgreetingbust.com
 forceopminecraft.com
 forceporn.com
+forcesafesearch.google.com
 forcesofnature.evergage.com
 forcetraf.com
 forcetwice.com
