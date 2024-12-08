@@ -4,8 +4,8 @@
 # Licence: https://github.com/EndlessFractal/hosts/blob/master/LICENSE
 # Expires: 1 days
 #
-# Last Update: 07 December 2024 00:56:07 (UTC)
-# Unique Domains: 203,654
+# Last Update: 08 December 2024 01:01:18 (UTC)
+# Unique Domains: 203,656
 #
 # ===============================================================
 
@@ -16861,7 +16861,6 @@ admixer.co.kr
 admixer.com
 admixer.net
 admixplay.com
-admized.com
 admjmp.com
 admktsvc.atlassolutions.com
 admnew.dynamicyield.com
@@ -20959,7 +20958,6 @@ aj2204.online
 aj2208.online
 aj2218.online
 aj2295.online
-aj2323.online
 aj2345.online
 aj2393.online
 aj2396.online
@@ -67952,7 +67950,6 @@ forcelessgooseberry.com
 forcelessgreetingbust.com
 forceopminecraft.com
 forceporn.com
-forcesafesearch.google.com
 forcesofnature.evergage.com
 forcetraf.com
 forcetwice.com
@@ -110347,13 +110344,18 @@ mkt12269.com
 mkt1227.com
 mkt12270.com
 mkt12271.com
+mkt12272.com
 mkt12273.com
 mkt12274.com
 mkt12275.com
 mkt12276.com
 mkt12277.com
 mkt12278.com
+mkt12279.com
 mkt1228.com
+mkt12280.com
+mkt12281.com
+mkt12282.com
 mkt12283.com
 mkt1229.com
 mkt1230.com
